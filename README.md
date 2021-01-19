@@ -23,10 +23,15 @@
 ### 📺 YouTube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+<hr>
+<br>
 
 ### Github Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=SpiderMath&show_icon=true">
+<hr>
+<br>
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+<hr>
