@@ -22,6 +22,11 @@
 
 ### 📺 YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Make a Discord Bot using Discord.js || Part 4 || Setting Up a Linter](https://www.youtube.com/watch?v=Sx1i83ghzlg)
+- [How to make a Discord Bot using Discord.js || Part 3 || Prefix and Super Simple Command Handler](https://www.youtube.com/watch?v=VNxnXNWhmlU)
+- [How to make a Discord Bot using Discord.js || Part 2 || Listening For Messages and Ping Command](https://www.youtube.com/watch?v=ZVVS-6GLqTc)
+- [How to make a Discord Bot using Discord.js || Part 1 || Logging in with Our Bot](https://www.youtube.com/watch?v=UVx4m8y1T7I)
+- [How to make a Discord Bot using Discord.js || Part 0 || Setup and Creating our Bot](https://www.youtube.com/watch?v=41U7hTW5-5E)
 <!-- YOUTUBE:END -->
 
 ### Github Stats
