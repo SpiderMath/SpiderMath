@@ -29,4 +29,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#4](https://github.com/SpiderMath/Discord.js-YouTube/pull/4) in [SpiderMath/Discord.js-YouTube](https://github.com/SpiderMath/Discord.js-YouTube)
+2. 💪 Opened PR [#4](https://github.com/SpiderMath/Discord.js-YouTube/pull/4) in [SpiderMath/Discord.js-YouTube](https://github.com/SpiderMath/Discord.js-YouTube)
+3. 🎉 Merged PR [#3](https://github.com/SpiderMath/Discord.js-YouTube/pull/3) in [SpiderMath/Discord.js-YouTube](https://github.com/SpiderMath/Discord.js-YouTube)
+4. 💪 Opened PR [#3](https://github.com/SpiderMath/Discord.js-YouTube/pull/3) in [SpiderMath/Discord.js-YouTube](https://github.com/SpiderMath/Discord.js-YouTube)
+5. 🎉 Merged PR [#2](https://github.com/SpiderMath/Discord.js-YouTube/pull/2) in [SpiderMath/Discord.js-YouTube](https://github.com/SpiderMath/Discord.js-YouTube)
 <!--END_SECTION:activity-->
