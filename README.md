@@ -21,8 +21,12 @@
 <br>
 
 ### 📺 YouTube Videos
-<!-- YOUTUBE::START -->
-<!-- YOUTUBE::END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 ### Github Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=SpiderMath&show_icon=true">
+
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
