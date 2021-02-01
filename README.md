@@ -38,10 +38,10 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/SpiderMath/Discord.js-YouTube/pull/5) in [SpiderMath/Discord.js-YouTube](https://github.com/SpiderMath/Discord.js-YouTube)
-2. 🎉 Merged PR [#4](https://github.com/SpiderMath/Discord.js-YouTube/pull/4) in [SpiderMath/Discord.js-YouTube](https://github.com/SpiderMath/Discord.js-YouTube)
-3. 💪 Opened PR [#4](https://github.com/SpiderMath/Discord.js-YouTube/pull/4) in [SpiderMath/Discord.js-YouTube](https://github.com/SpiderMath/Discord.js-YouTube)
-4. 🎉 Merged PR [#3](https://github.com/SpiderMath/Discord.js-YouTube/pull/3) in [SpiderMath/Discord.js-YouTube](https://github.com/SpiderMath/Discord.js-YouTube)
-5. 💪 Opened PR [#3](https://github.com/SpiderMath/Discord.js-YouTube/pull/3) in [SpiderMath/Discord.js-YouTube](https://github.com/SpiderMath/Discord.js-YouTube)
+1. ❗️ Opened issue [#129](https://github.com/Milo123459/Spencer/issues/129) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
+2. 💪 Opened PR [#5](https://github.com/SpiderMath/Discord.js-YouTube/pull/5) in [SpiderMath/Discord.js-YouTube](https://github.com/SpiderMath/Discord.js-YouTube)
+3. 🎉 Merged PR [#4](https://github.com/SpiderMath/Discord.js-YouTube/pull/4) in [SpiderMath/Discord.js-YouTube](https://github.com/SpiderMath/Discord.js-YouTube)
+4. 💪 Opened PR [#4](https://github.com/SpiderMath/Discord.js-YouTube/pull/4) in [SpiderMath/Discord.js-YouTube](https://github.com/SpiderMath/Discord.js-YouTube)
+5. 🎉 Merged PR [#3](https://github.com/SpiderMath/Discord.js-YouTube/pull/3) in [SpiderMath/Discord.js-YouTube](https://github.com/SpiderMath/Discord.js-YouTube)
 <!--END_SECTION:activity-->
 <hr>
