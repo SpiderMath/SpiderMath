@@ -1,4 +1,4 @@
-## **Hey there I'm SpiderMath (Even though I preffered to be known as *RishiMath*)**
+## **Hey there I'm SpiderMath (Even though I prefer to be known as *SpiderBro*)**
 <br><br>
 ![Profile Views](https://komarev.com/ghpvc/?username=SpiderMath)
 
