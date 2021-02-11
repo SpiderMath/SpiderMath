@@ -1,6 +1,7 @@
 ## **Hey there I'm SpiderMath (Even though I prefer to be known as *SpiderBro*)**
 <br><br>
 ![Profile Views](https://komarev.com/ghpvc/?username=SpiderMath)
+![Stars](https://img.shields.io/github/stars/SpiderMath?style=social)
 
 > A Brief Bio About me
 - School Student
