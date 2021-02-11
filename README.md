@@ -33,7 +33,6 @@
 
 ### Github Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=SpiderMath&show_icon=true">
-<hr>
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpiderMath">
 <hr>
