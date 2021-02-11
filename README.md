@@ -32,11 +32,13 @@
 <br>
 
 ### Github Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=SpiderMath&show_icon=true">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SpiderMath&show_icons=true&include_all_commits=true" alt="SpiderMath's github stats" />
+</a>
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpiderMath">
-<hr>
-<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpiderMath">
+</a>
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
