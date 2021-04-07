@@ -46,10 +46,10 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/MonkeDev/API/pull/3) in [MonkeDev/API](https://github.com/MonkeDev/API)
-2. ❗️ Opened issue [#116161](https://github.com/microsoft/vscode/issues/116161) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. 🎉 Merged PR [#5](https://github.com/SpiderMath/Discord.js-YouTube/pull/5) in [SpiderMath/Discord.js-YouTube](https://github.com/SpiderMath/Discord.js-YouTube)
-4. ❗️ Opened issue [#129](https://github.com/Milo123459/Spencer/issues/129) in [Milo123459/Spencer](https://github.com/Milo123459/Spencer)
-5. 💪 Opened PR [#5](https://github.com/SpiderMath/Discord.js-YouTube/pull/5) in [SpiderMath/Discord.js-YouTube](https://github.com/SpiderMath/Discord.js-YouTube)
+1. ❗️ Closed issue [#1](https://github.com/SpiderMath/RaBinDraBot/issues/1) in [SpiderMath/RaBinDraBot](https://github.com/SpiderMath/RaBinDraBot)
+2. 🗣 Commented on [#1](https://github.com/SpiderMath/RaBinDraBot/issues/1) in [SpiderMath/RaBinDraBot](https://github.com/SpiderMath/RaBinDraBot)
+3. 💪 Opened PR [#3](https://github.com/MonkeDev/API/pull/3) in [MonkeDev/API](https://github.com/MonkeDev/API)
+4. ❗️ Opened issue [#116161](https://github.com/microsoft/vscode/issues/116161) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🎉 Merged PR [#5](https://github.com/SpiderMath/Discord.js-YouTube/pull/5) in [SpiderMath/Discord.js-YouTube](https://github.com/SpiderMath/Discord.js-YouTube)
 <!--END_SECTION:activity-->
 <hr>
