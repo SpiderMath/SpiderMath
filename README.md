@@ -46,10 +46,10 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/MonkeDev/API/issues/3) in [MonkeDev/API](https://github.com/MonkeDev/API)
-2. ❗️ Closed issue [#1](https://github.com/SpiderMath/RaBinDraBot/issues/1) in [SpiderMath/RaBinDraBot](https://github.com/SpiderMath/RaBinDraBot)
-3. 🗣 Commented on [#1](https://github.com/SpiderMath/RaBinDraBot/issues/1) in [SpiderMath/RaBinDraBot](https://github.com/SpiderMath/RaBinDraBot)
-4. 💪 Opened PR [#3](https://github.com/MonkeDev/API/pull/3) in [MonkeDev/API](https://github.com/MonkeDev/API)
-5. ❗️ Opened issue [#116161](https://github.com/microsoft/vscode/issues/116161) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. ❗️ Opened issue [#122122](https://github.com/microsoft/vscode/issues/122122) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#3](https://github.com/MonkeDev/API/issues/3) in [MonkeDev/API](https://github.com/MonkeDev/API)
+3. ❗️ Closed issue [#1](https://github.com/SpiderMath/RaBinDraBot/issues/1) in [SpiderMath/RaBinDraBot](https://github.com/SpiderMath/RaBinDraBot)
+4. 🗣 Commented on [#1](https://github.com/SpiderMath/RaBinDraBot/issues/1) in [SpiderMath/RaBinDraBot](https://github.com/SpiderMath/RaBinDraBot)
+5. 💪 Opened PR [#3](https://github.com/MonkeDev/API/pull/3) in [MonkeDev/API](https://github.com/MonkeDev/API)
 <!--END_SECTION:activity-->
 <hr>
