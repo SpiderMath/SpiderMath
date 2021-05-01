@@ -41,7 +41,7 @@
 	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpiderMath">
 </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-	<img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark">
+	<img align="center" src="https://github-profile-trophy.vercel.app/?username=SpiderMath&theme=onedark&no-bg=true">
 </a>
 
 ### :zap: Recent Activity
