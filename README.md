@@ -48,8 +48,8 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5911](https://github.com/tldr-pages/tldr/issues/5911) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 2. 🗣 Commented on [#5911](https://github.com/tldr-pages/tldr/issues/5911) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-3. 💪 Opened PR [#5911](https://github.com/tldr-pages/tldr/pull/5911) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-4. ❗️ Closed issue [#122122](https://github.com/microsoft/vscode/issues/122122) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🗣 Commented on [#122122](https://github.com/microsoft/vscode/issues/122122) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🗣 Commented on [#5911](https://github.com/tldr-pages/tldr/issues/5911) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+4. 💪 Opened PR [#5911](https://github.com/tldr-pages/tldr/pull/5911) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+5. ❗️ Closed issue [#122122](https://github.com/microsoft/vscode/issues/122122) in [microsoft/vscode](https://github.com/microsoft/vscode)
 <!--END_SECTION:activity-->
 <hr>
