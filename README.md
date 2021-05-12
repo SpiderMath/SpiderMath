@@ -46,10 +46,10 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5911](https://github.com/tldr-pages/tldr/issues/5911) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+1. ❗️ Opened issue [#1](https://github.com/caseyCantCode/discordImageGenImages/issues/1) in [caseyCantCode/discordImageGenImages](https://github.com/caseyCantCode/discordImageGenImages)
 2. 🗣 Commented on [#5911](https://github.com/tldr-pages/tldr/issues/5911) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 3. 🗣 Commented on [#5911](https://github.com/tldr-pages/tldr/issues/5911) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-4. 💪 Opened PR [#5911](https://github.com/tldr-pages/tldr/pull/5911) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-5. ❗️ Closed issue [#122122](https://github.com/microsoft/vscode/issues/122122) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. 🗣 Commented on [#5911](https://github.com/tldr-pages/tldr/issues/5911) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+5. 💪 Opened PR [#5911](https://github.com/tldr-pages/tldr/pull/5911) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 <!--END_SECTION:activity-->
 <hr>
