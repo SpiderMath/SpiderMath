@@ -43,7 +43,7 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 	<img align="center" src="https://github-profile-trophy.vercel.app/?username=SpiderMath&theme=onedark&no-bg=true">
 </a>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SpiderMath&theme=blood)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SpiderMath&theme=blood">
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
