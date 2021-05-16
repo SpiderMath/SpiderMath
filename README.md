@@ -47,10 +47,10 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/caseyCantCode/discordImageGenImages/issues/1) in [caseyCantCode/discordImageGenImages](https://github.com/caseyCantCode/discordImageGenImages)
-2. ❗️ Opened issue [#1](https://github.com/caseyCantCode/discordImageGenImages/issues/1) in [caseyCantCode/discordImageGenImages](https://github.com/caseyCantCode/discordImageGenImages)
-3. 🗣 Commented on [#5911](https://github.com/tldr-pages/tldr/issues/5911) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
-4. 🗣 Commented on [#5911](https://github.com/tldr-pages/tldr/issues/5911) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+1. 💪 Opened PR [#5](https://github.com/MonkeDev/API/pull/5) in [MonkeDev/API](https://github.com/MonkeDev/API)
+2. 💪 Opened PR [#2](https://github.com/caseyCantCode/discordImageGenImages/pull/2) in [caseyCantCode/discordImageGenImages](https://github.com/caseyCantCode/discordImageGenImages)
+3. 🗣 Commented on [#1](https://github.com/caseyCantCode/discordImageGenImages/issues/1) in [caseyCantCode/discordImageGenImages](https://github.com/caseyCantCode/discordImageGenImages)
+4. ❗️ Opened issue [#1](https://github.com/caseyCantCode/discordImageGenImages/issues/1) in [caseyCantCode/discordImageGenImages](https://github.com/caseyCantCode/discordImageGenImages)
 5. 🗣 Commented on [#5911](https://github.com/tldr-pages/tldr/issues/5911) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
 <!--END_SECTION:activity-->
 <hr>
