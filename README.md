@@ -47,10 +47,10 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/MonkeDev/API/pull/6) in [MonkeDev/API](https://github.com/MonkeDev/API)
-2. 💪 Opened PR [#5](https://github.com/MonkeDev/API/pull/5) in [MonkeDev/API](https://github.com/MonkeDev/API)
-3. 💪 Opened PR [#2](https://github.com/caseyCantCode/discordImageGenImages/pull/2) in [caseyCantCode/discordImageGenImages](https://github.com/caseyCantCode/discordImageGenImages)
-4. 🗣 Commented on [#1](https://github.com/caseyCantCode/discordImageGenImages/issues/1) in [caseyCantCode/discordImageGenImages](https://github.com/caseyCantCode/discordImageGenImages)
-5. ❗️ Opened issue [#1](https://github.com/caseyCantCode/discordImageGenImages/issues/1) in [caseyCantCode/discordImageGenImages](https://github.com/caseyCantCode/discordImageGenImages)
+1. 🎉 Merged PR [#1](https://github.com/SpiderMath/Discord-Multipurpose/pull/1) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
+2. 🗣 Commented on [#1](https://github.com/SpiderMath/Discord-Multipurpose/issues/1) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
+3. 💪 Opened PR [#6](https://github.com/MonkeDev/API/pull/6) in [MonkeDev/API](https://github.com/MonkeDev/API)
+4. 💪 Opened PR [#5](https://github.com/MonkeDev/API/pull/5) in [MonkeDev/API](https://github.com/MonkeDev/API)
+5. 💪 Opened PR [#2](https://github.com/caseyCantCode/discordImageGenImages/pull/2) in [caseyCantCode/discordImageGenImages](https://github.com/caseyCantCode/discordImageGenImages)
 <!--END_SECTION:activity-->
 <hr>
