@@ -49,8 +49,8 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/SpiderMath/Discord-Multipurpose/issues/2) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
 2. 🗣 Commented on [#2](https://github.com/SpiderMath/Discord-Multipurpose/issues/2) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
-3. 🎉 Merged PR [#1](https://github.com/SpiderMath/Discord-Multipurpose/pull/1) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
-4. 🗣 Commented on [#1](https://github.com/SpiderMath/Discord-Multipurpose/issues/1) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
-5. 💪 Opened PR [#6](https://github.com/MonkeDev/API/pull/6) in [MonkeDev/API](https://github.com/MonkeDev/API)
+3. 🗣 Commented on [#2](https://github.com/SpiderMath/Discord-Multipurpose/issues/2) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
+4. 🎉 Merged PR [#1](https://github.com/SpiderMath/Discord-Multipurpose/pull/1) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
+5. 🗣 Commented on [#1](https://github.com/SpiderMath/Discord-Multipurpose/issues/1) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
 <!--END_SECTION:activity-->
 <hr>
