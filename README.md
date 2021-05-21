@@ -47,10 +47,10 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/SpiderMath/Discord-Multipurpose/issues/2) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
-2. 🗣 Commented on [#2](https://github.com/SpiderMath/Discord-Multipurpose/issues/2) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
-3. 🗣 Commented on [#2](https://github.com/SpiderMath/Discord-Multipurpose/issues/2) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
-4. 🎉 Merged PR [#1](https://github.com/SpiderMath/Discord-Multipurpose/pull/1) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
-5. 🗣 Commented on [#1](https://github.com/SpiderMath/Discord-Multipurpose/issues/1) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
+1. 🗣 Commented on [#4](https://github.com/SpiderMath/Discord-Multipurpose/issues/4) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
+2. 🎉 Merged PR [#4](https://github.com/SpiderMath/Discord-Multipurpose/pull/4) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
+3. ❌ Closed PR [#2](https://github.com/SpiderMath/Discord-Multipurpose/pull/2) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
+4. 💪 Opened PR [#1](https://github.com/hasib-rashid/Discord-Multipurpose/pull/1) in [hasib-rashid/Discord-Multipurpose](https://github.com/hasib-rashid/Discord-Multipurpose)
+5. 🗣 Commented on [#2](https://github.com/SpiderMath/Discord-Multipurpose/issues/2) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
 <!--END_SECTION:activity-->
 <hr>
