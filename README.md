@@ -47,10 +47,10 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/SpiderMath/Discord-Multipurpose/pull/3) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
-2. 💪 Opened PR [#2](https://github.com/hasib-rashid/Discord-Multipurpose/pull/2) in [hasib-rashid/Discord-Multipurpose](https://github.com/hasib-rashid/Discord-Multipurpose)
-3. ❌ Closed PR [#1](https://github.com/hasib-rashid/Discord-Multipurpose/pull/1) in [hasib-rashid/Discord-Multipurpose](https://github.com/hasib-rashid/Discord-Multipurpose)
-4. 💪 Opened PR [#6](https://github.com/beCoditive/Becoditive-API/pull/6) in [beCoditive/Becoditive-API](https://github.com/beCoditive/Becoditive-API)
-5. 🗣 Commented on [#4](https://github.com/SpiderMath/Discord-Multipurpose/issues/4) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
+1. 💪 Opened PR [#2](https://github.com/AaryanKhClasses/AaryanKhClasses/pull/2) in [AaryanKhClasses/AaryanKhClasses](https://github.com/AaryanKhClasses/AaryanKhClasses)
+2. 🎉 Merged PR [#4](https://github.com/SpiderMath/AaryanKhClasses/pull/4) in [SpiderMath/AaryanKhClasses](https://github.com/SpiderMath/AaryanKhClasses)
+3. 💪 Opened PR [#4](https://github.com/SpiderMath/AaryanKhClasses/pull/4) in [SpiderMath/AaryanKhClasses](https://github.com/SpiderMath/AaryanKhClasses)
+4. 🎉 Merged PR [#3](https://github.com/SpiderMath/AaryanKhClasses/pull/3) in [SpiderMath/AaryanKhClasses](https://github.com/SpiderMath/AaryanKhClasses)
+5. 💪 Opened PR [#3](https://github.com/SpiderMath/AaryanKhClasses/pull/3) in [SpiderMath/AaryanKhClasses](https://github.com/SpiderMath/AaryanKhClasses)
 <!--END_SECTION:activity-->
 <hr>
