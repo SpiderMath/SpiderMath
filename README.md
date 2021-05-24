@@ -23,11 +23,11 @@
 
 ### 📺 YouTube Videos
 <!-- YOUTUBE:START -->
+- [Project Euler in TypeScript: Problem 3 - Largest Prime Factor](https://www.youtube.com/watch?v=DaDziQ4ZRvw)
 - [Project Euler in TypeScript: Problem 2 - Even Fibonacci Numbers](https://www.youtube.com/watch?v=oIsm-KtBW4s)
 - [Project Euler in TypeScript: Problem 1 - Multiples of 3 and 5](https://www.youtube.com/watch?v=sjkLIrIfRdo)
 - [How to Make a Discord Bot using Discord.js || Part 4 || Setting Up a Linter](https://www.youtube.com/watch?v=Sx1i83ghzlg)
 - [How to make a Discord Bot using Discord.js || Part 3 || Prefix and Super Simple Command Handler](https://www.youtube.com/watch?v=VNxnXNWhmlU)
-- [How to make a Discord Bot using Discord.js || Part 2 || Listening For Messages and Ping Command](https://www.youtube.com/watch?v=ZVVS-6GLqTc)
 <!-- YOUTUBE:END -->
 <hr>
 <br>
