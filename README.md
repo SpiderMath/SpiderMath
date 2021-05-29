@@ -47,10 +47,10 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/AaryanKhClasses/AaryanKhClasses/pull/4) in [AaryanKhClasses/AaryanKhClasses](https://github.com/AaryanKhClasses/AaryanKhClasses)
-2. 🎉 Merged PR [#6](https://github.com/SpiderMath/AaryanKhClasses/pull/6) in [SpiderMath/AaryanKhClasses](https://github.com/SpiderMath/AaryanKhClasses)
-3. 💪 Opened PR [#6](https://github.com/SpiderMath/AaryanKhClasses/pull/6) in [SpiderMath/AaryanKhClasses](https://github.com/SpiderMath/AaryanKhClasses)
-4. 💪 Opened PR [#3](https://github.com/AaryanKhClasses/AaryanKhClasses/pull/3) in [AaryanKhClasses/AaryanKhClasses](https://github.com/AaryanKhClasses/AaryanKhClasses)
-5. 🎉 Merged PR [#5](https://github.com/SpiderMath/AaryanKhClasses/pull/5) in [SpiderMath/AaryanKhClasses](https://github.com/SpiderMath/AaryanKhClasses)
+1. 🗣 Commented on [#4](https://github.com/AaryanKhClasses/AaryanKhClasses/issues/4) in [AaryanKhClasses/AaryanKhClasses](https://github.com/AaryanKhClasses/AaryanKhClasses)
+2. 🗣 Commented on [#4](https://github.com/AaryanKhClasses/AaryanKhClasses/issues/4) in [AaryanKhClasses/AaryanKhClasses](https://github.com/AaryanKhClasses/AaryanKhClasses)
+3. 🗣 Commented on [#4](https://github.com/AaryanKhClasses/AaryanKhClasses/issues/4) in [AaryanKhClasses/AaryanKhClasses](https://github.com/AaryanKhClasses/AaryanKhClasses)
+4. 🗣 Commented on [#4](https://github.com/AaryanKhClasses/AaryanKhClasses/issues/4) in [AaryanKhClasses/AaryanKhClasses](https://github.com/AaryanKhClasses/AaryanKhClasses)
+5. 💪 Opened PR [#4](https://github.com/AaryanKhClasses/AaryanKhClasses/pull/4) in [AaryanKhClasses/AaryanKhClasses](https://github.com/AaryanKhClasses/AaryanKhClasses)
 <!--END_SECTION:activity-->
 <hr>
