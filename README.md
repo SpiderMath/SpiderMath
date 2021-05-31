@@ -47,10 +47,10 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/AaryanKhClasses/AaryanKhClasses/issues/4) in [AaryanKhClasses/AaryanKhClasses](https://github.com/AaryanKhClasses/AaryanKhClasses)
+1. ❗️ Opened issue [#54](https://github.com/zneix/zneixbot/issues/54) in [zneix/zneixbot](https://github.com/zneix/zneixbot)
 2. 🗣 Commented on [#4](https://github.com/AaryanKhClasses/AaryanKhClasses/issues/4) in [AaryanKhClasses/AaryanKhClasses](https://github.com/AaryanKhClasses/AaryanKhClasses)
 3. 🗣 Commented on [#4](https://github.com/AaryanKhClasses/AaryanKhClasses/issues/4) in [AaryanKhClasses/AaryanKhClasses](https://github.com/AaryanKhClasses/AaryanKhClasses)
 4. 🗣 Commented on [#4](https://github.com/AaryanKhClasses/AaryanKhClasses/issues/4) in [AaryanKhClasses/AaryanKhClasses](https://github.com/AaryanKhClasses/AaryanKhClasses)
-5. 💪 Opened PR [#4](https://github.com/AaryanKhClasses/AaryanKhClasses/pull/4) in [AaryanKhClasses/AaryanKhClasses](https://github.com/AaryanKhClasses/AaryanKhClasses)
+5. 🗣 Commented on [#4](https://github.com/AaryanKhClasses/AaryanKhClasses/issues/4) in [AaryanKhClasses/AaryanKhClasses](https://github.com/AaryanKhClasses/AaryanKhClasses)
 <!--END_SECTION:activity-->
 <hr>
