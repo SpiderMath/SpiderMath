@@ -47,9 +47,9 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#54](https://github.com/zneix/zneixbot/issues/54) in [zneix/zneixbot](https://github.com/zneix/zneixbot)
-2. 🗣 Commented on [#4](https://github.com/AaryanKhClasses/AaryanKhClasses/issues/4) in [AaryanKhClasses/AaryanKhClasses](https://github.com/AaryanKhClasses/AaryanKhClasses)
-3. 🗣 Commented on [#4](https://github.com/AaryanKhClasses/AaryanKhClasses/issues/4) in [AaryanKhClasses/AaryanKhClasses](https://github.com/AaryanKhClasses/AaryanKhClasses)
+1. 🎉 Merged PR [#1](https://github.com/SpiderMath/Learning_Cli/pull/1) in [SpiderMath/Learning_Cli](https://github.com/SpiderMath/Learning_Cli)
+2. 💪 Opened PR [#1](https://github.com/SpiderMath/Learning_Cli/pull/1) in [SpiderMath/Learning_Cli](https://github.com/SpiderMath/Learning_Cli)
+3. ❗️ Opened issue [#54](https://github.com/zneix/zneixbot/issues/54) in [zneix/zneixbot](https://github.com/zneix/zneixbot)
 4. 🗣 Commented on [#4](https://github.com/AaryanKhClasses/AaryanKhClasses/issues/4) in [AaryanKhClasses/AaryanKhClasses](https://github.com/AaryanKhClasses/AaryanKhClasses)
 5. 🗣 Commented on [#4](https://github.com/AaryanKhClasses/AaryanKhClasses/issues/4) in [AaryanKhClasses/AaryanKhClasses](https://github.com/AaryanKhClasses/AaryanKhClasses)
 <!--END_SECTION:activity-->
