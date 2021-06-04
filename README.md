@@ -22,6 +22,7 @@
 - Passionate about what I do or believe
 - I like [this](https://ncase.me/trust/), try it out
 - Like to Rage quit projects, I got OCD for GitHub projects (just a joke)
+- I like using *TypeScript* and am learning Rust right now (might become a ~~Crustacean~~ soon™)
 <br><br>
 
 ### 📺 YouTube Videos
