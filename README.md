@@ -1,4 +1,4 @@
-## **Hey there I'm SpiderMath (Even though I prefer to be known as *SpiderBro*)**
+## **Hey there I'm SpiderMath**
 <br><br>
 ![Profile Views](https://komarev.com/ghpvc/?username=SpiderMath)
 ![Stars](https://img.shields.io/github/stars/SpiderMath?style=social)
@@ -7,19 +7,22 @@
 - School Student
 - Coder (Kinda Beginner I'd say)
 - [YouTuber](https://youtube.com/channel/UCuQvyfLaZOG4bPwEvqSYCLg)
-- ```js<br>
-	"Hobbies": [
-		"Coding",
-		"Cricket",
-		"Studies (Not a Joke)",
-		"Reading (Anything I can comprehend, stories, poems, factbooks)",
-		"Writing (Mostly Poetry :wink: )",
-		"Chess (after all nothing is more refreshing than a game of chess to me)",
-		"Listening to Music (On YouTube)",
-		"Learning New Things (in every field of life)",
-	]
-	```
-<br>
+- Pretty crazy 😀 
+- Big Nerd 🤓 
+- Love Music 🎧
+- **Known Languages**: Bengali, Hindi, English, JavaScript & TypeScript
+- Hate Cuss
+- Likes to play **Chess** & **Cricket** ~~Along with cringe jokes on friends~~
+- Chess Accounts: [Lichess](https://lichess.org/@/RishiMath) & [Chess.com](https://www.chess.com/member/RishiMath)
+- Contact me on [Discord](https://discord.com)! **Tag:** SpiderBro#8604
+- Currently undergoing burnout, so going a bit slow with the projects
+- Like all of my school subjects (*well mostly*)
+- Most vibed to Spotify Playlists are [this](https://open.spotify.com/playlist/6wnRrX8vCYChQ0fxoZzNdt?si=1f1c906cb6054dfb) and [that](https://open.spotify.com/playlist/2NWCskHFEnpT3m7QbGvD7N?si=6ec85d3dd62d4838)
+- I am really talkative 😸 
+- Passionate about what I do or believe
+- I like [this](https://ncase.me/trust/), try it out
+- Like to Rage quit projects, I got OCD for GitHub projects (just a joke)
+<br><br>
 
 ### 📺 YouTube Videos
 <!-- YOUTUBE:START -->
@@ -34,16 +37,16 @@
 
 ### Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SpiderMath&show_icons=true&include_all_commits=true" alt="SpiderMath's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SpiderMath&show_icons=true&include_all_commits=true&theme=onedark" alt="SpiderMath's github stats" />
 </a>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpiderMath&langs_count=10">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpiderMath&langs_count=10&theme=onedark&layout=compact">
 </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 	<img align="center" src="https://github-profile-trophy.vercel.app/?username=SpiderMath&theme=onedark&no-bg=true">
 </a>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SpiderMath&theme=blood">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SpiderMath&theme=slateorange">
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
