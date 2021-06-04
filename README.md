@@ -50,10 +50,10 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SpiderMath/Learning_Cli/pull/1) in [SpiderMath/Learning_Cli](https://github.com/SpiderMath/Learning_Cli)
-2. 💪 Opened PR [#1](https://github.com/SpiderMath/Learning_Cli/pull/1) in [SpiderMath/Learning_Cli](https://github.com/SpiderMath/Learning_Cli)
-3. ❗️ Opened issue [#54](https://github.com/zneix/zneixbot/issues/54) in [zneix/zneixbot](https://github.com/zneix/zneixbot)
-4. 🗣 Commented on [#4](https://github.com/AaryanKhClasses/AaryanKhClasses/issues/4) in [AaryanKhClasses/AaryanKhClasses](https://github.com/AaryanKhClasses/AaryanKhClasses)
-5. 🗣 Commented on [#4](https://github.com/AaryanKhClasses/AaryanKhClasses/issues/4) in [AaryanKhClasses/AaryanKhClasses](https://github.com/AaryanKhClasses/AaryanKhClasses)
+1. 💪 Opened PR [#24](https://github.com/hasib-rashid/Falcon/pull/24) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+2. 🎉 Merged PR [#1](https://github.com/SpiderMath/Falcon/pull/1) in [SpiderMath/Falcon](https://github.com/SpiderMath/Falcon)
+3. 💪 Opened PR [#1](https://github.com/SpiderMath/Falcon/pull/1) in [SpiderMath/Falcon](https://github.com/SpiderMath/Falcon)
+4. 🎉 Merged PR [#1](https://github.com/SpiderMath/Learning_Cli/pull/1) in [SpiderMath/Learning_Cli](https://github.com/SpiderMath/Learning_Cli)
+5. 💪 Opened PR [#1](https://github.com/SpiderMath/Learning_Cli/pull/1) in [SpiderMath/Learning_Cli](https://github.com/SpiderMath/Learning_Cli)
 <!--END_SECTION:activity-->
 <hr>
