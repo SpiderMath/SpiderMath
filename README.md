@@ -27,8 +27,8 @@
 - Passionate about what I do or believe 🔥 
 - I like [this](https://ncase.me/trust/), try it out 
 - Like to Rage quit projects, I got OCD for GitHub projects (last part's just a joke)
-- I like using *TypeScript* and am learning Rust right now (might become a ~~C~~Rustacean soon™)
-<img src="/Assets/Ferris.gif">
+- I like using *TypeScript* and am learning Rust right now (might become a ~~C~~Rustacean soon™)  
+<img src="/Assets/Ferris.gif">  
 - JUST LOOK AT THE MASCOT, ISN'T FERRIS ADORABLE???
 <br><br>
 
