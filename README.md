@@ -4,10 +4,10 @@
 ![Stars](https://img.shields.io/github/stars/SpiderMath?style=social)
 
 > A Brief Bio About me
-- School Student <img src="/Assets/Like.gif" width=24px>
+- School Student <img src="/Assets/Like.gif" width=20px>
 - Gender: Male
 - Coder ~~(I don't know anything at all) 😶~~
-- [YouTuber](https://youtube.com/channel/UCuQvyfLaZOG4bPwEvqSYCLg) <img src="/Assets/Youtube.png" width=24px>
+- [YouTuber](https://youtube.com/channel/UCuQvyfLaZOG4bPwEvqSYCLg) <img src="/Assets/Youtube.png" width=20px>
 - Pretty crazy 😀 
 - Big Nerd 🤓 
 - Love Music 🎧
