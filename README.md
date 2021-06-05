@@ -1,4 +1,4 @@
-## <img src="/Assets/Hi.gif"> **Hey there I'm SpiderMath**
+## <img src="/Assets/Hi.gif" width=29px> **Hey there I'm SpiderMath**
 <br><br>
 ![Profile Views](https://komarev.com/ghpvc/?username=SpiderMath)
 ![Stars](https://img.shields.io/github/stars/SpiderMath?style=social)
