@@ -19,13 +19,13 @@
 - Chess Accounts: [Lichess](https://lichess.org/@/RishiMath) & [Chess.com](https://www.chess.com/member/RishiMath)
 - Contact me on [Discord](https://discord.com)! **Tag:** SpiderBro#8604
 - Currently undergoing burnout, so going a bit slow with the projects
-- Like to Overthink a lot <img src="/Assets/ThinkFast.gif">
+- Like to Overthink a lot <img src="/Assets/ThinkFast.gif" width=20px>
 - Try to be neutral while making decisions ~~Totally don't get beaten for that~~ 😳 
 - Like all of my school subjects (*well mostly*)
 - Most vibed to Spotify Playlists are [this](https://open.spotify.com/playlist/6wnRrX8vCYChQ0fxoZzNdt?si=1f1c906cb6054dfb) and [that](https://open.spotify.com/playlist/2NWCskHFEnpT3m7QbGvD7N?si=6ec85d3dd62d4838)
 - I am really talkative 🗣 
 - Passionate about what I do or believe 🔥 
-- I like [this](https://ncase.me/trust/), try it out
+- I like [this](https://ncase.me/trust/), try it out 
 - Like to Rage quit projects, I got OCD for GitHub projects (last part's just a joke)
 - I like using *TypeScript* and am learning Rust right now (might become a ~~C~~Rustacean soon™)
 <img src="/Assets/Ferris.gif">
