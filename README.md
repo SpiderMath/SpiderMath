@@ -51,10 +51,10 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#25](https://github.com/hasib-rashid/Falcon/issues/25) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-2. 🗣 Commented on [#24](https://github.com/hasib-rashid/Falcon/issues/24) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-3. 💪 Opened PR [#24](https://github.com/hasib-rashid/Falcon/pull/24) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-4. 🎉 Merged PR [#1](https://github.com/SpiderMath/Falcon/pull/1) in [SpiderMath/Falcon](https://github.com/SpiderMath/Falcon)
-5. 💪 Opened PR [#1](https://github.com/SpiderMath/Falcon/pull/1) in [SpiderMath/Falcon](https://github.com/SpiderMath/Falcon)
+1. ❌ Closed PR [#1](https://github.com/SpiderMath/SpiderMath/pull/1) in [SpiderMath/SpiderMath](https://github.com/SpiderMath/SpiderMath)
+2. 🗣 Commented on [#1](https://github.com/SpiderMath/SpiderMath/issues/1) in [SpiderMath/SpiderMath](https://github.com/SpiderMath/SpiderMath)
+3. ❗️ Opened issue [#25](https://github.com/hasib-rashid/Falcon/issues/25) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+4. 🗣 Commented on [#24](https://github.com/hasib-rashid/Falcon/issues/24) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+5. 💪 Opened PR [#24](https://github.com/hasib-rashid/Falcon/pull/24) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
 <!--END_SECTION:activity-->
 <hr>
