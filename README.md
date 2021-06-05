@@ -4,13 +4,15 @@
 ![Stars](https://img.shields.io/github/stars/SpiderMath?style=social)
 
 > A Brief Bio About me
-- School Student <img src="/Assets/Like.gif">
+- School Student <img src="/Assets/Like.gif" width=24px>
 - Gender: Male
 - Coder ~~(I don't know anything at all) 😶~~
-- [YouTuber](https://youtube.com/channel/UCuQvyfLaZOG4bPwEvqSYCLg)
+- [YouTuber](https://youtube.com/channel/UCuQvyfLaZOG4bPwEvqSYCLg) <img src="/Assets/Youtube.png" width=24px>
 - Pretty crazy 😀 
 - Big Nerd 🤓 
 - Love Music 🎧
+- Have a Potato PC 💻💥
+- Need a better WiFi 🕸 
 - **Known Languages**: Bengali, Hindi, English, JavaScript & TypeScript
 - Hate Cuss, No Swearing please. 🤬 is uncool
 - Likes to play **Chess** ♟ & **Cricket** 🏏  ~~Along with cringe jokes on friends 😜~~
