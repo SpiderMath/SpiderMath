@@ -56,10 +56,10 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/hasib-rashid/Falcon/issues/25) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-2. ❌ Closed PR [#1](https://github.com/SpiderMath/SpiderMath/pull/1) in [SpiderMath/SpiderMath](https://github.com/SpiderMath/SpiderMath)
-3. 🗣 Commented on [#1](https://github.com/SpiderMath/SpiderMath/issues/1) in [SpiderMath/SpiderMath](https://github.com/SpiderMath/SpiderMath)
-4. ❗️ Opened issue [#25](https://github.com/hasib-rashid/Falcon/issues/25) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-5. 🗣 Commented on [#24](https://github.com/hasib-rashid/Falcon/issues/24) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+1. 🗣 Commented on [#25](https://github.com/c3duan/Swag-Bot/issues/25) in [c3duan/Swag-Bot](https://github.com/c3duan/Swag-Bot)
+2. ❗️ Opened issue [#25](https://github.com/c3duan/Swag-Bot/issues/25) in [c3duan/Swag-Bot](https://github.com/c3duan/Swag-Bot)
+3. 🗣 Commented on [#25](https://github.com/hasib-rashid/Falcon/issues/25) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+4. ❌ Closed PR [#1](https://github.com/SpiderMath/SpiderMath/pull/1) in [SpiderMath/SpiderMath](https://github.com/SpiderMath/SpiderMath)
+5. 🗣 Commented on [#1](https://github.com/SpiderMath/SpiderMath/issues/1) in [SpiderMath/SpiderMath](https://github.com/SpiderMath/SpiderMath)
 <!--END_SECTION:activity-->
 <hr>
