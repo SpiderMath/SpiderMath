@@ -56,10 +56,10 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/c3duan/Swag-Bot/issues/25) in [c3duan/Swag-Bot](https://github.com/c3duan/Swag-Bot)
-2. ❗️ Opened issue [#25](https://github.com/c3duan/Swag-Bot/issues/25) in [c3duan/Swag-Bot](https://github.com/c3duan/Swag-Bot)
-3. 🗣 Commented on [#25](https://github.com/hasib-rashid/Falcon/issues/25) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-4. ❌ Closed PR [#1](https://github.com/SpiderMath/SpiderMath/pull/1) in [SpiderMath/SpiderMath](https://github.com/SpiderMath/SpiderMath)
-5. 🗣 Commented on [#1](https://github.com/SpiderMath/SpiderMath/issues/1) in [SpiderMath/SpiderMath](https://github.com/SpiderMath/SpiderMath)
+1. 🗣 Commented on [#1](https://github.com/zyrouge/fuzzle/issues/1) in [zyrouge/fuzzle](https://github.com/zyrouge/fuzzle)
+2. 💪 Opened PR [#1](https://github.com/zyrouge/fuzzle/pull/1) in [zyrouge/fuzzle](https://github.com/zyrouge/fuzzle)
+3. 🎉 Merged PR [#1](https://github.com/SpiderMath/fuzzle/pull/1) in [SpiderMath/fuzzle](https://github.com/SpiderMath/fuzzle)
+4. 💪 Opened PR [#1](https://github.com/SpiderMath/fuzzle/pull/1) in [SpiderMath/fuzzle](https://github.com/SpiderMath/fuzzle)
+5. 🗣 Commented on [#25](https://github.com/c3duan/Swag-Bot/issues/25) in [c3duan/Swag-Bot](https://github.com/c3duan/Swag-Bot)
 <!--END_SECTION:activity-->
 <hr>
