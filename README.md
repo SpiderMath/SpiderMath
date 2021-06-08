@@ -56,10 +56,10 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/zyrouge/fuzzle/issues/1) in [zyrouge/fuzzle](https://github.com/zyrouge/fuzzle)
-2. 💪 Opened PR [#1](https://github.com/zyrouge/fuzzle/pull/1) in [zyrouge/fuzzle](https://github.com/zyrouge/fuzzle)
-3. 🎉 Merged PR [#1](https://github.com/SpiderMath/fuzzle/pull/1) in [SpiderMath/fuzzle](https://github.com/SpiderMath/fuzzle)
-4. 💪 Opened PR [#1](https://github.com/SpiderMath/fuzzle/pull/1) in [SpiderMath/fuzzle](https://github.com/SpiderMath/fuzzle)
-5. 🗣 Commented on [#25](https://github.com/c3duan/Swag-Bot/issues/25) in [c3duan/Swag-Bot](https://github.com/c3duan/Swag-Bot)
+1. 🗣 Commented on [#5](https://github.com/SpiderMath/Discord-Multipurpose/issues/5) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
+2. 🎉 Merged PR [#5](https://github.com/SpiderMath/Discord-Multipurpose/pull/5) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
+3. 🗣 Commented on [#1](https://github.com/zyrouge/fuzzle/issues/1) in [zyrouge/fuzzle](https://github.com/zyrouge/fuzzle)
+4. 💪 Opened PR [#1](https://github.com/zyrouge/fuzzle/pull/1) in [zyrouge/fuzzle](https://github.com/zyrouge/fuzzle)
+5. 🎉 Merged PR [#1](https://github.com/SpiderMath/fuzzle/pull/1) in [SpiderMath/fuzzle](https://github.com/SpiderMath/fuzzle)
 <!--END_SECTION:activity-->
 <hr>
