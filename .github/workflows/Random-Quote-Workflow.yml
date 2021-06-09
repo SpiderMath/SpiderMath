@@ -1,7 +1,7 @@
 name: random-quote
 on:
   schedule:
-    -cron: '0/1 * * * *'
+    -cron: '*/1 * * * *'
     # Runs every 10 minutes since commit (or so is expected)
   workflow_dispatch:
 
