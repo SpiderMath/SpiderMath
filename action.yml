@@ -10,4 +10,4 @@ inputs:
 runs:
   using: 'node14'
   # I wanna use node14, any problem?
-  main: './Source/Index.js'
+  main: './Dist/Index.js'
