@@ -1,0 +1,11 @@
+{
+	"powermode.enabled": true,
+	"workbench.colorTheme": "Shades of Purple",
+	"powermode.enableExplosions": true,
+	"powermode.enableShake": false,
+	"powermode.presets": "particles",
+	"bracket-pair-colorizer-2.forceUniqueOpeningColor": true,
+	"bracket-pair-colorizer-2.excludedLanguages": [
+		".md"
+	]
+}
