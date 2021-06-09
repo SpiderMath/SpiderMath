@@ -1,0 +1,23 @@
+{
+  "name": "random-quote-action",
+  "version": "1.0.0",
+  "description": "e",
+  "main": "./Source/Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpiderMath/SpiderMath.git"
+  },
+  "author": "",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/SpiderMath/SpiderMath/issues"
+  },
+  "homepage": "https://github.com/SpiderMath/SpiderMath#readme",
+  "dependencies": {
+    "@actions/core": "^1.4.0",
+    "@actions/github": "^5.0.0"
+  }
+}
