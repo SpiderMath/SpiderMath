@@ -4,7 +4,7 @@
   "description": "e",
   "main": "./Source/Index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npx ncc build Source/index.js -o Dist"  
   },
   "repository": {
     "type": "git",
