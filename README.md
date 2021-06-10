@@ -56,10 +56,10 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/SpiderMath/SpiderMath/pull/2) in [SpiderMath/SpiderMath](https://github.com/SpiderMath/SpiderMath)
-2. 💪 Opened PR [#2](https://github.com/SpiderMath/SpiderMath/pull/2) in [SpiderMath/SpiderMath](https://github.com/SpiderMath/SpiderMath)
-3. ❗️ Opened issue [#1](https://github.com/AaryanKhClasses/a/issues/1) in [AaryanKhClasses/a](https://github.com/AaryanKhClasses/a)
-4. 🗣 Commented on [#5](https://github.com/SpiderMath/Discord-Multipurpose/issues/5) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
-5. 🎉 Merged PR [#5](https://github.com/SpiderMath/Discord-Multipurpose/pull/5) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
+1. ❗️ Opened issue [#1](https://github.com/SpiderMath/Contrast/issues/1) in [SpiderMath/Contrast](https://github.com/SpiderMath/Contrast)
+2. 🎉 Merged PR [#2](https://github.com/SpiderMath/SpiderMath/pull/2) in [SpiderMath/SpiderMath](https://github.com/SpiderMath/SpiderMath)
+3. 💪 Opened PR [#2](https://github.com/SpiderMath/SpiderMath/pull/2) in [SpiderMath/SpiderMath](https://github.com/SpiderMath/SpiderMath)
+4. ❗️ Opened issue [#1](https://github.com/AaryanKhClasses/a/issues/1) in [AaryanKhClasses/a](https://github.com/AaryanKhClasses/a)
+5. 🗣 Commented on [#5](https://github.com/SpiderMath/Discord-Multipurpose/issues/5) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
 <!--END_SECTION:activity-->
 <hr>
