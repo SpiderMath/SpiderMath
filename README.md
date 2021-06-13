@@ -66,6 +66,6 @@
 
 ## Have a [Random Quote](https://github.com/SpiderMath/Random-Quote-Action)
 <!--QUOTE-BOT:start-->
-###### <i>A year spent in artificial intelligence is enough to make one believe in God.</i><br>
-###### - <b>Alan Perlis</b><br>
+###### <i>The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.</i><br>
+###### - <b>Alan Turing</b><br>
 <!--QUOTE-BOT:end-->
