@@ -6,7 +6,7 @@
 > A Brief Bio About me
 - School Student <img src="/Assets/Like.gif" width=20px>
 - Gender: Male
-- Coder ~~(I don't know anything at all) 😶~~
+- Coder (Or am I?)
 - [YouTuber](https://youtube.com/channel/UCuQvyfLaZOG4bPwEvqSYCLg) <img src="/Assets/Youtube.png" width=20px>
 - Pretty crazy 😀 
 - Big Nerd 🤓 
@@ -41,7 +41,7 @@
 <hr>
 <br>
 
-### Github Stats
+## Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SpiderMath&show_icons=true&include_all_commits=true&theme=onedark" alt="SpiderMath's github stats" />
 </a>
@@ -54,7 +54,7 @@
 </a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpiderMath&theme=slateorange">
 
-### :zap: Recent Activity
+## :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#1](https://github.com/SpiderMath/Contrast/issues/1) in [SpiderMath/Contrast](https://github.com/SpiderMath/Contrast)
 2. 🎉 Merged PR [#2](https://github.com/SpiderMath/SpiderMath/pull/2) in [SpiderMath/SpiderMath](https://github.com/SpiderMath/SpiderMath)
@@ -64,7 +64,7 @@
 <!--END_SECTION:activity-->
 <hr>
 
-# Have a [Random Quote](https://github.com/SpiderMath/Random-Quote-Action)
+## Have a [Random Quote](https://github.com/SpiderMath/Random-Quote-Action)
 <!--QUOTE-BOT:start-->
 ###### <i>I'd say that if you had a strained relationship with your mom, for whatever reason, the best thing to do is be open with each other, talk it over, try and work it out somehow as opposed to just putting a wall up and pushing them away.</i><br>
 ###### - <b>Victoria Justice</b><br>
