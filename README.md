@@ -66,6 +66,6 @@
 
 # Have a [Random Quote](https://github.com/SpiderMath/Random-Quote-Action)
 <!--QUOTE-BOT:start-->
-### <i>The highest purpose is to have no purpose at all. This puts one in accord with nature, in her manner of operation.</i><br>
-### - <b>John Cage</b><br>
+### <i>It's hard to tell with these Internet startups if they're really interested in building companies or if they're just interested in the money. I can tell you, though: If they don't really want to build a company, they won't luck into it. That's because it's so hard that if you don't have a passion, you'll give up.</i><br>
+### - <b>Steve Jobs</b><br>
 <!--QUOTE-BOT:end-->
