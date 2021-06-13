@@ -66,6 +66,6 @@
 
 ## Have a [Random Quote](https://github.com/SpiderMath/Random-Quote-Action)
 <!--QUOTE-BOT:start-->
-###### <i>Women, as they grow older, rely more and more on cosmetics. Men, as they grow older, rely more and more on a sense of humor.</i><br>
-###### - <b>George Jean Nathan</b><br>
+###### <i>Particularly black Americans, many of them, from quotes that I have seen and conversations I've had, are sort of insulted that the civil rights movement is being hijacked - the rhetoric of the civil rights movement is being hijacked for something like same sex marriage. Black Americans tend to have a higher degree of religiosity.</i><br>
+###### - <b>Gary Bauer</b><br>
 <!--QUOTE-BOT:end-->
