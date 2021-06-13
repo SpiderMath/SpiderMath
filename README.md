@@ -63,6 +63,8 @@
 5. 🗣 Commented on [#5](https://github.com/SpiderMath/Discord-Multipurpose/issues/5) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
 <!--END_SECTION:activity-->
 <hr>
+
+# Have a [Random Quote](https://github.com/SpiderMath/Random-Quote-Action)
 <!--QUOTE-BOT:start-->
 ### <i>The highest purpose is to have no purpose at all. This puts one in accord with nature, in her manner of operation.</i><br>
 ### - <b>John Cage</b><br>
