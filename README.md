@@ -66,6 +66,6 @@
 
 ## Have a [Random Quote](https://github.com/SpiderMath/Random-Quote-Action)
 <!--QUOTE-BOT:start-->
-###### <i>I'd say that if you had a strained relationship with your mom, for whatever reason, the best thing to do is be open with each other, talk it over, try and work it out somehow as opposed to just putting a wall up and pushing them away.</i><br>
-###### - <b>Victoria Justice</b><br>
+###### <i>I'm a full-time mom right now and a part-time actress.</i><br>
+###### - <b>Valerie Bertinelli</b><br>
 <!--QUOTE-BOT:end-->
