@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-###### <i>I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.</i><br>
-###### - <b>David Parnas</b><br>
+###### <i>Computer science education cannot make anybody an expert programmer any more than studying brushes and pigment can make somebody an expert painter.</i><br>
+###### - <b>Eric S. Raymond</b><br>
 <!--QUOTE-BOT:end-->
