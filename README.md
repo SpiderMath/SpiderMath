@@ -66,6 +66,6 @@
 
 ## Have a [Random Quote](https://github.com/SpiderMath/Random-Quote-Action)
 <!--QUOTE-BOT:start-->
-###### <i>Beauty is now defined by your bones sticking out of your decolletage. For that to be the standard is really perilous for women.</i><br>
-###### - <b>Alanis Morissette</b><br>
+###### <i>Out with stereotypes, feminism proclaims. But stereotypes are the west's stunning sexual personae, the vehicles of art's assault against nature. The moment there is imagination, there is myth.</i><br>
+###### - <b>Camille Paglia</b><br>
 <!--QUOTE-BOT:end-->
