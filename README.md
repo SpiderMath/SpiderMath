@@ -66,6 +66,6 @@
 
 ## Have a [Random Quote](https://github.com/SpiderMath/Random-Quote-Action)
 <!--QUOTE-BOT:start-->
-###### <i>The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.</i><br>
-###### - <b>Alan Turing</b><br>
+###### <i>I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.</i><br>
+###### - <b>David Parnas</b><br>
 <!--QUOTE-BOT:end-->
