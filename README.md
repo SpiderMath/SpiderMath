@@ -66,6 +66,6 @@
 
 # Have a [Random Quote](https://github.com/SpiderMath/Random-Quote-Action)
 <!--QUOTE-BOT:start-->
-### <i>I get up at sunrise. I'm a Buddhist, so I chant in the morning. My wife and I sit and have coffee together, but then it's list-making time. I have carpentry projects. We have roads we keep in repair. It's not back-breaking, but it's certainly aerobic and mildly strenuous.</i><br>
-### - <b>Patrick Duffy</b><br>
+###### <i>I know that I've got big ears and a big forehead and that my hair sticks up. But I'm happy with myself. I'm not necessarily trying to win a beauty pageant here.</i><br>
+###### - <b>Clay Aiken</b><br>
 <!--QUOTE-BOT:end-->
