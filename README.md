@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Codes are a puzzle. A game, just like any other game.</i><br>
-##### - <b>Alan Turing</b><br>
+##### <i>Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.</i><br>
+##### - <b>Andy Hertzfeld</b><br>
 <!--QUOTE-BOT:end-->
