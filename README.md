@@ -63,3 +63,5 @@
 5. 🗣 Commented on [#5](https://github.com/SpiderMath/Discord-Multipurpose/issues/5) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
 <!--END_SECTION:activity-->
 <hr>
+<!--QUOTE-BOT:start-->
+<!--QUOTE-BOT:end-->
