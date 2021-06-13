@@ -66,6 +66,6 @@
 
 ## Have a [Random Quote](https://github.com/SpiderMath/Random-Quote-Action)
 <!--QUOTE-BOT:start-->
-###### <i>I'm a full-time mom right now and a part-time actress.</i><br>
-###### - <b>Valerie Bertinelli</b><br>
+###### <i>Women, as they grow older, rely more and more on cosmetics. Men, as they grow older, rely more and more on a sense of humor.</i><br>
+###### - <b>George Jean Nathan</b><br>
 <!--QUOTE-BOT:end-->
