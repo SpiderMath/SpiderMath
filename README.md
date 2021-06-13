@@ -66,6 +66,6 @@
 
 ## Have a [Random Quote](https://github.com/SpiderMath/Random-Quote-Action)
 <!--QUOTE-BOT:start-->
-###### <i>undefined</i><br>
-###### - <b>Tom DeMarco</b><br>
+###### <i>A year spent in artificial intelligence is enough to make one believe in God.</i><br>
+###### - <b>Alan Perlis</b><br>
 <!--QUOTE-BOT:end-->
