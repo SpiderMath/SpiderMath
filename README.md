@@ -66,6 +66,6 @@
 
 ## Have a [Random Quote](https://github.com/SpiderMath/Random-Quote-Action)
 <!--QUOTE-BOT:start-->
-###### <i>Out with stereotypes, feminism proclaims. But stereotypes are the west's stunning sexual personae, the vehicles of art's assault against nature. The moment there is imagination, there is myth.</i><br>
-###### - <b>Camille Paglia</b><br>
+###### <i>I have no useful theories about love and marriage.</i><br>
+###### - <b>Michael Cunningham</b><br>
 <!--QUOTE-BOT:end-->
