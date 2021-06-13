@@ -66,6 +66,6 @@
 
 ## Have a [Random Quote](https://github.com/SpiderMath/Random-Quote-Action)
 <!--QUOTE-BOT:start-->
-###### <i>I've never preached one sermon on money, on just finances. I want to stay away from it.</i><br>
-###### - <b>Joel Osteen</b><br>
+###### <i>Patriotism is the virtue of the vicious.</i><br>
+###### - <b>Oscar Wilde</b><br>
 <!--QUOTE-BOT:end-->
