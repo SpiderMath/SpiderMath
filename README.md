@@ -64,6 +64,6 @@
 <!--END_SECTION:activity-->
 <hr>
 <!--QUOTE-BOT:start-->
-## <i>Unfortunately the world is what it is now. People don't get along for whatever reason. As professional athletes, in a way we're almost ambassadors for peace, because sports brings everyone together.</i><br>
-## - <b>Venus Williams</b><br>
+### <i>The highest purpose is to have no purpose at all. This puts one in accord with nature, in her manner of operation.</i><br>
+### - <b>John Cage</b><br>
 <!--QUOTE-BOT:end-->
