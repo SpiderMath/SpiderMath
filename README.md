@@ -64,4 +64,6 @@
 <!--END_SECTION:activity-->
 <hr>
 <!--QUOTE-BOT:start-->
+## <i>Unfortunately the world is what it is now. People don't get along for whatever reason. As professional athletes, in a way we're almost ambassadors for peace, because sports brings everyone together.</i><br>
+## - <b>Venus Williams</b><br>
 <!--QUOTE-BOT:end-->
