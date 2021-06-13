@@ -23,8 +23,8 @@ jobs:
         with:
           QUOTE_FONT_SIZE: 6
        # The following are git commands, can't help it lol oof
-      - run: git config --global user.email 41898282+github-actions[bot]@users.noreply.github.com
-      - run: git config --global user.name "Quote Bot"
-      - run: git add README.md
-      - run: git commit -m "Updated the Repository with a new quote :zap:"
-      - run: git push
+#       - run: git config --global user.email 41898282+github-actions[bot]@users.noreply.github.com
+#       - run: git config --global user.name "Quote Bot"
+#       - run: git add README.md
+#       - run: git commit -m "Updated the Repository with a new quote :zap:"
+#       - run: git push
