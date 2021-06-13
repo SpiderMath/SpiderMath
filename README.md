@@ -64,7 +64,7 @@
 <!--END_SECTION:activity-->
 <hr>
 
-## Have a [Random Quote](https://github.com/SpiderMath/Random-Quote-Action)
+## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
 ###### <i>I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one.</i><br>
 ###### - <b>David Parnas</b><br>
