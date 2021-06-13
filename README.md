@@ -66,6 +66,6 @@
 
 ## Have a [Random Quote](https://github.com/SpiderMath/Random-Quote-Action)
 <!--QUOTE-BOT:start-->
-###### <i>Patriotism is the virtue of the vicious.</i><br>
-###### - <b>Oscar Wilde</b><br>
+###### <i>undefined</i><br>
+###### - <b>Tom DeMarco</b><br>
 <!--QUOTE-BOT:end-->
