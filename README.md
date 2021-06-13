@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Never memorize something that you can look up.</i><br>
-##### - <b>Albert Einstein</b><br>
+##### <i>Codes are a puzzle. A game, just like any other game.</i><br>
+##### - <b>Alan Turing</b><br>
 <!--QUOTE-BOT:end-->
