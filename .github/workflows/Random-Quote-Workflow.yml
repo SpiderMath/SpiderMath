@@ -1,25 +1,30 @@
-name: random-quote
+name: Random-Quote-Action
+
 on:
   schedule:
-    - cron: '*/10 * * * *'
-    # Runs every 10 minutes since commit (or so is expected)
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
   putRandomQuote:
     runs-on: ubuntu-latest
-    name: Time to mess up, by my goofiness. Credit goes to Random Quote
+    name: Put a random quote
 
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
+      - name: Setup Node Environment
+        uses: actions/setup-node@v2
         with:
           node-version: '14'
-      - uses: SpiderMath/Random-Quote-Action@main
+      - name: Update the README
+        uses: SpiderMath/Random-Quote-Action@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          QUOTE_FONT_SIZE: 6
+       # The following are git commands, can't help it lol oof
       - run: git config --global user.email 41898282+github-actions[bot]@users.noreply.github.com
       - run: git config --global user.name "Quote Bot"
       - run: git add README.md
-      - run: git commit -m "Updated the Repository with a new quote :grin:"
+      - run: git commit -m "Updated the Repository with a new quote :zap:"
       - run: git push
