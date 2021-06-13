@@ -66,6 +66,6 @@
 
 # Have a [Random Quote](https://github.com/SpiderMath/Random-Quote-Action)
 <!--QUOTE-BOT:start-->
-### <i>It's hard to tell with these Internet startups if they're really interested in building companies or if they're just interested in the money. I can tell you, though: If they don't really want to build a company, they won't luck into it. That's because it's so hard that if you don't have a passion, you'll give up.</i><br>
-### - <b>Steve Jobs</b><br>
+### <i>I get up at sunrise. I'm a Buddhist, so I chant in the morning. My wife and I sit and have coffee together, but then it's list-making time. I have carpentry projects. We have roads we keep in repair. It's not back-breaking, but it's certainly aerobic and mildly strenuous.</i><br>
+### - <b>Patrick Duffy</b><br>
 <!--QUOTE-BOT:end-->
