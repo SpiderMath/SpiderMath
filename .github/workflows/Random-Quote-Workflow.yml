@@ -15,7 +15,7 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: '14'
-      - uses: SpiderMath/Random-Quote-Workflow@main
+      - uses: SpiderMath/Random-Quote-Action@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - run: git config --global user.email 41898282+github-actions[bot]@users.noreply.github.com
