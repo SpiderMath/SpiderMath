@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.</i><br>
-##### - <b>James Gleick</b><br>
+##### <i>Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.</i><br>
+##### - <b>John von Neumann</b><br>
 <!--QUOTE-BOT:end-->
