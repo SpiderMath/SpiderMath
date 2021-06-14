@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Computer science differs from physics in that it is not actually a science. It does not study natural objects. Rather, computer science is like engineering; it is all about getting something to do something.</i><br>
-##### - <b>Richard Feynman</b><br>
+##### <i>JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.</i><br>
+##### - <b>Douglas Crockford</b><br>
 <!--QUOTE-BOT:end-->
