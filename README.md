@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.</i><br>
-##### - <b>Ward Cunningham</b><br>
+##### <i>My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.</i><br>
+##### - <b>Donald Knuth</b><br>
 <!--QUOTE-BOT:end-->
