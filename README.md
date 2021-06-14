@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.</i><br>
-##### - <b>Brian Kernighan</b><br>
+##### <i>Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.</i><br>
+##### - <b>Douglas Crockford</b><br>
 <!--QUOTE-BOT:end-->
