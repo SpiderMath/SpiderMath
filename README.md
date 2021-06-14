@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>In my second year in graduate school, I took a computer course and that was like lightening striking.</i><br>
-##### - <b>Ted Nelson</b><br>
+##### <i>Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.</i><br>
+##### - <b>Bill Gates</b><br>
 <!--QUOTE-BOT:end-->
