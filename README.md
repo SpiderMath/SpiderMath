@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.</i><br>
-##### - <b>Douglas Crockford</b><br>
+##### <i>Really good programs live forever.</i><br>
+##### - <b>Charles Simonyi</b><br>
 <!--QUOTE-BOT:end-->
