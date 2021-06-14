@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.</i><br>
-##### - <b>Jamie Zawinski</b><br>
+##### <i>The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.</i><br>
+##### - <b>Edsger W. Dijkstra</b><br>
 <!--QUOTE-BOT:end-->
