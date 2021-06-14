@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.</i><br>
-##### - <b>Andy Hertzfeld</b><br>
+##### <i>One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.</i><br>
+##### - <b>Douglas Crockford</b><br>
 <!--QUOTE-BOT:end-->
