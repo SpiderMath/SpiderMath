@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it.</i><br>
-##### - <b>Douglas Crockford</b><br>
+##### <i>I don't comment on the code itself because I feel that properly written code is very much self-documented.</i><br>
+##### - <b>Gary Kildall</b><br>
 <!--QUOTE-BOT:end-->
