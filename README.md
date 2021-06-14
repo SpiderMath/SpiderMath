@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Our goals are very simple. We're going to create the software that puts a computer on every desk and in every home.</i><br>
-##### - <b>Bill Gates</b><br>
+##### <i>A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.</i><br>
+##### - <b>Donald Knuth</b><br>
 <!--QUOTE-BOT:end-->
