@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense.</i><br>
-##### - <b>Edsger W. Dijkstra</b><br>
+##### <i>A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.</i><br>
+##### - <b>Danny Hillis</b><br>
 <!--QUOTE-BOT:end-->
