@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>A programmer who subconsciously views himself as an artist will enjoy what he does and will do it better.</i><br>
-##### - <b>Donald Knuth</b><br>
+##### <i>Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.</i><br>
+##### - <b>James Gleick</b><br>
 <!--QUOTE-BOT:end-->
