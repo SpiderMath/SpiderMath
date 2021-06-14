@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.</i><br>
-##### - <b>Danny Hillis</b><br>
+##### <i>Debugging time increases as a square of the program’s size.</i><br>
+##### - <b>Chris Wenham</b><br>
 <!--QUOTE-BOT:end-->
