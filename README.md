@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.</i><br>
-##### - <b>Marijn Haverbeke</b><br>
+##### <i>The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.</i><br>
+##### - <b>Charles Simonyi</b><br>
 <!--QUOTE-BOT:end-->
