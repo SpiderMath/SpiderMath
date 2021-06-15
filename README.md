@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>You can have the project: Done On Time. Done On Budget. Done Properly - Pick two.</i><br>
-##### - <b>Anonymous</b><br>
+##### <i>What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.</i><br>
+##### - <b>Steve Jobs</b><br>
 <!--QUOTE-BOT:end-->
