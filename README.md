@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.</i><br>
-##### - <b>Ted Nelson</b><br>
+##### <i>JavaScript, purely by accident, has become the most popular programming language in the world.</i><br>
+##### - <b>Douglas Crockford</b><br>
 <!--QUOTE-BOT:end-->
