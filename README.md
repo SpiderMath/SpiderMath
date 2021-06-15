@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Deleted code is debugged code.</i><br>
-##### - <b>Jeff Sickel</b><br>
+##### <i>If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization.</i><br>
+##### - <b>Gerald Weinberg</b><br>
 <!--QUOTE-BOT:end-->
