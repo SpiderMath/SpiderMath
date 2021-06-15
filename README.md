@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.</i><br>
-##### - <b>Tom Cargill</b><br>
+##### <i>Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.</i><br>
+##### - <b>Gottfried Wilhelm Leibniz</b><br>
 <!--QUOTE-BOT:end-->
