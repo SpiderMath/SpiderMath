@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>All too many of our software systems are, architecturally, little more than shantytowns.</i><br>
-##### - <b>Joseph Yoder (computer scientist)</b><br>
+##### <i>Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.</i><br>
+##### - <b>Addy Osmani</b><br>
 <!--QUOTE-BOT:end-->
