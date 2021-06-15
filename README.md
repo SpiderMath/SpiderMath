@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person.</i><br>
-##### - <b>Charles Simonyi</b><br>
+##### <i>Deleted code is debugged code.</i><br>
+##### - <b>Jeff Sickel</b><br>
 <!--QUOTE-BOT:end-->
