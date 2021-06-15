@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Good software, like good wine, takes time.</i><br>
-##### - <b>Joel Spolsky</b><br>
+##### <i>A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.</i><br>
+##### - <b>Alan Turing</b><br>
 <!--QUOTE-BOT:end-->
