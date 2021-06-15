@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.</i><br>
-##### - <b>Addy Osmani</b><br>
+##### <i>Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.</i><br>
+##### - <b>Marijn Haverbeke</b><br>
 <!--QUOTE-BOT:end-->
