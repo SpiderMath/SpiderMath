@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.</i><br>
-##### - <b>Alan Turing</b><br>
+##### <i>All too many of our software systems are, architecturally, little more than shantytowns.</i><br>
+##### - <b>Joseph Yoder (computer scientist)</b><br>
 <!--QUOTE-BOT:end-->
