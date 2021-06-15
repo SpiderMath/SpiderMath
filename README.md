@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>A number of studies have shown testing not very effective at finding bugs.</i><br>
-##### - <b>Daniel T. Barry</b><br>
+##### <i>LISP has assisted a number of our most gifted fellow humans in thinking previously impossible thoughts.</i><br>
+##### - <b>Edsger W. Dijkstra</b><br>
 <!--QUOTE-BOT:end-->
