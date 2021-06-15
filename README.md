@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>JavaScript, purely by accident, has become the most popular programming language in the world.</i><br>
-##### - <b>Douglas Crockford</b><br>
+##### <i>All repairs tend to destroy structure, to increase the entropy and disorder of a system.</i><br>
+##### - <b>Fred Brooks</b><br>
 <!--QUOTE-BOT:end-->
