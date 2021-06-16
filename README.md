@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.</i><br>
-##### - <b>Bjarne Stroustrup</b><br>
+##### <i>Low-level programming is good for the programmer’s soul.</i><br>
+##### - <b>John Carmack</b><br>
 <!--QUOTE-BOT:end-->
