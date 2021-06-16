@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>All too many of our software systems are, architecturally, little more than shantytowns.</i><br>
-##### - <b>Joseph Yoder (computer scientist)</b><br>
+##### <i>If you think your users are idiots, only idiots will use it.</i><br>
+##### - <b>Linus Torvalds</b><br>
 <!--QUOTE-BOT:end-->
