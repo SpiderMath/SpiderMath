@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.</i><br>
-##### - <b>Linus Torvalds</b><br>
+##### <i>I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.</i><br>
+##### - <b>Douglas Crockford</b><br>
 <!--QUOTE-BOT:end-->
