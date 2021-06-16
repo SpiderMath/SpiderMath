@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Even in the games of children there are things to interest the greatest mathematician.</i><br>
-##### - <b>Gottfried Wilhelm Leibniz</b><br>
+##### <i>I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length.</i><br>
+##### - <b>Carl Friedrich Gauss</b><br>
 <!--QUOTE-BOT:end-->
