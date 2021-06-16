@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>From an artistic standpoint, the best software comes from the realm of intuition.</i><br>
-##### - <b>Bob Carr</b><br>
+##### <i>When we don’t understand a process, we fall into magical thinking about results.</i><br>
+##### - <b>Jef Raskin</b><br>
 <!--QUOTE-BOT:end-->
