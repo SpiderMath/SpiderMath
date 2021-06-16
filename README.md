@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>When we don’t understand a process, we fall into magical thinking about results.</i><br>
-##### - <b>Jef Raskin</b><br>
+##### <i>All too many of our software systems are, architecturally, little more than shantytowns.</i><br>
+##### - <b>Joseph Yoder (computer scientist)</b><br>
 <!--QUOTE-BOT:end-->
