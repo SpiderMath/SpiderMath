@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Program building is an entropy-decreasing process, hence inherently metastable. Program maintenance is an entropy-increasing process, and even its most skillful execution only delays the subsidence of the system into unfixable obsolescence.</i><br>
-##### - <b>Fred Brooks</b><br>
+##### <i>All too many of our software systems are, architecturally, little more than shantytowns.</i><br>
+##### - <b>Joseph Yoder (computer scientist)</b><br>
 <!--QUOTE-BOT:end-->
