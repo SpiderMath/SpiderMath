@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript.</i><br>
-##### - <b>Douglas Crockford</b><br>
+##### <i>Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.</i><br>
+##### - <b>Jamie Zawinski</b><br>
 <!--QUOTE-BOT:end-->
