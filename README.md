@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Good people with a good process will outperform good people with no process every time.</i><br>
-##### - <b>Grady Booch</b><br>
+##### <i>Even in the games of children there are things to interest the greatest mathematician.</i><br>
+##### - <b>Gottfried Wilhelm Leibniz</b><br>
 <!--QUOTE-BOT:end-->
