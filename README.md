@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>A lot of companies hire people to tell them what to do. We hire people to tell us what to do.</i><br>
-##### - <b>Steve Jobs</b><br>
+##### <i>The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.</i><br>
+##### - <b>Edsger W. Dijkstra</b><br>
 <!--QUOTE-BOT:end-->
