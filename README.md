@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>I consider that the golden rule requires that if I like a program I must share it with other people who like it. Software sellers want to divide the users and conquer them, making each user agree not to share with others. I refuse to break solidarity with other users in this way.</i><br>
-##### - <b>Richard Stallman</b><br>
+##### <i>An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only.</i><br>
+##### - <b>Bjarne Stroustrup</b><br>
 <!--QUOTE-BOT:end-->
