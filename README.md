@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.</i><br>
-##### - <b>Edsger W. Dijkstra</b><br>
+##### <i>When you build a prototype, there is always the risk that someone will say "that's good enough, ship it". One way to minimize the risk of a prototype being put into production is to write the prototype in using a language or tool that you couldn't possibly use for a production version.</i><br>
+##### - <b>Joseph Yoder (computer scientist)</b><br>
 <!--QUOTE-BOT:end-->
