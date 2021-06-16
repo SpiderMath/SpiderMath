@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>For most software, efficiency just does not matter.</i><br>
-##### - <b>Daniel T. Barry</b><br>
+##### <i>I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind.</i><br>
+##### - <b>Alan Kay</b><br>
 <!--QUOTE-BOT:end-->
