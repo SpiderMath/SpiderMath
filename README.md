@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>All too many of our software systems are, architecturally, little more than shantytowns.</i><br>
-##### - <b>Joseph Yoder (computer scientist)</b><br>
+##### <i>Good people with a good process will outperform good people with no process every time.</i><br>
+##### - <b>Grady Booch</b><br>
 <!--QUOTE-BOT:end-->
