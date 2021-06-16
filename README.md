@@ -56,11 +56,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/SpiderMath/Discord-Multipurpose/pull/6) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
-2. 💪 Opened PR [#6](https://github.com/SpiderMath/Discord-Multipurpose/pull/6) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
-3. ❌ Closed PR [#2](https://github.com/hasib-rashid/Discord-Multipurpose/pull/2) in [hasib-rashid/Discord-Multipurpose](https://github.com/hasib-rashid/Discord-Multipurpose)
-4. 🗣 Commented on [#2](https://github.com/hasib-rashid/Discord-Multipurpose/issues/2) in [hasib-rashid/Discord-Multipurpose](https://github.com/hasib-rashid/Discord-Multipurpose)
-5. 🗣 Commented on [#5](https://github.com/SpiderMath/Discord-Multipurpose/issues/5) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
+1. 🗣 Commented on [#3](https://github.com/SpiderMath/Hello-World/issues/3) in [SpiderMath/Hello-World](https://github.com/SpiderMath/Hello-World)
+2. 🎉 Merged PR [#2](https://github.com/SpiderMath/Hello-World/pull/2) in [SpiderMath/Hello-World](https://github.com/SpiderMath/Hello-World)
+3. ❌ Closed PR [#1](https://github.com/SpiderMath/Hello-World/pull/1) in [SpiderMath/Hello-World](https://github.com/SpiderMath/Hello-World)
+4. 🗣 Commented on [#1](https://github.com/SpiderMath/Hello-World/issues/1) in [SpiderMath/Hello-World](https://github.com/SpiderMath/Hello-World)
+5. 🎉 Merged PR [#6](https://github.com/SpiderMath/Discord-Multipurpose/pull/6) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
 <!--END_SECTION:activity-->
 <hr>
 
