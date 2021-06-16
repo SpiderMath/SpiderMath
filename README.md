@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.</i><br>
-##### - <b>Jamie Zawinski</b><br>
+##### <i>A lot of companies hire people to tell them what to do. We hire people to tell us what to do.</i><br>
+##### - <b>Steve Jobs</b><br>
 <!--QUOTE-BOT:end-->
