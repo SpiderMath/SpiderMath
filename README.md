@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Young man, in mathematics you don't understand things. You just get used to them.</i><br>
-##### - <b>John von Neumann</b><br>
+##### <i>From an artistic standpoint, the best software comes from the realm of intuition.</i><br>
+##### - <b>Bob Carr</b><br>
 <!--QUOTE-BOT:end-->
