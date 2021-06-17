@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>There is no programming language, no matter how structured, that will prevent programmers from making bad programs.</i><br>
-##### - <b>Lawrence Flon</b><br>
+##### <i>In order to understand recursion, one must first understand recursion.</i><br>
+##### - <b>Anonymous</b><br>
 <!--QUOTE-BOT:end-->
