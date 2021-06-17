@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Maintenance cost is strongly affected by the number of users. More users find more bugs.</i><br>
-##### - <b>Fred Brooks</b><br>
+##### <i>A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.</i><br>
+##### - <b>Leslie Lamport</b><br>
 <!--QUOTE-BOT:end-->
