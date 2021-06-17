@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things.</i><br>
-##### - <b>L. Peter Deutsch</b><br>
+##### <i>Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.</i><br>
+##### - <b>James Gleick</b><br>
 <!--QUOTE-BOT:end-->
