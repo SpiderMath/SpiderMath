@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>When in doubt, leave it out.</i><br>
-##### - <b>Joshua Bloch</b><br>
+##### <i>Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.</i><br>
+##### - <b>Marijn Haverbeke</b><br>
 <!--QUOTE-BOT:end-->
