@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.</i><br>
-##### - <b>Marijn Haverbeke</b><br>
+##### <i>Documentation is a love letter that you write to your future self.</i><br>
+##### - <b>Damian Conway</b><br>
 <!--QUOTE-BOT:end-->
