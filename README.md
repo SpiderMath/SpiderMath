@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>What I cannot build, I do not understand.</i><br>
-##### - <b>Richard Feynman</b><br>
+##### <i>The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.</i><br>
+##### - <b>Terry Winograd</b><br>
 <!--QUOTE-BOT:end-->
