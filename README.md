@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>If you think your users are idiots, only idiots will use it.</i><br>
-##### - <b>Linus Torvalds</b><br>
+##### <i>We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.</i><br>
+##### - <b>Bill Gates</b><br>
 <!--QUOTE-BOT:end-->
