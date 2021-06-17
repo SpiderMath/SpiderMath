@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.</i><br>
-##### - <b>Terry Winograd</b><br>
+##### <i>Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.</i><br>
+##### - <b>Ray Ozzie</b><br>
 <!--QUOTE-BOT:end-->
