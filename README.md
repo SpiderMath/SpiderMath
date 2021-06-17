@@ -47,7 +47,7 @@
 </a>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpiderMath&langs_count=10&theme=onedark&layout=compact">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpiderMath&langs_count=10&theme=onedark">
 </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 	<img align="center" src="https://github-profile-trophy.vercel.app/?username=SpiderMath&theme=onedark&no-bg=true">
