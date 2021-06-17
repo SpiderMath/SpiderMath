@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>I think one of the most valuable rules is avoid duplication.</i><br>
-##### - <b>Martin Fowler</b><br>
+##### <i>There is no programming language, no matter how structured, that will prevent programmers from making bad programs.</i><br>
+##### - <b>Lawrence Flon</b><br>
 <!--QUOTE-BOT:end-->
