@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Documentation is a love letter that you write to your future self.</i><br>
-##### - <b>Damian Conway</b><br>
+##### <i>Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.</i><br>
+##### - <b>Sean Parent</b><br>
 <!--QUOTE-BOT:end-->
