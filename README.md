@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed.</i><br>
-##### - <b>Marijn Haverbeke</b><br>
+##### <i>Maintenance cost is strongly affected by the number of users. More users find more bugs.</i><br>
+##### - <b>Fred Brooks</b><br>
 <!--QUOTE-BOT:end-->
