@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>A language that doesn’t have everything is actually easier to program in than some that do.</i><br>
-##### - <b>Dennis Ritchie</b><br>
+##### <i>As with most projects, the last two percent takes fifty percent of the time.</i><br>
+##### - <b>John Warnock</b><br>
 <!--QUOTE-BOT:end-->
