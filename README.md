@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>First, we must observe that the anomaly is not that software progress is so slow but that computer hardware progress is so fast. No other technology since civilization began has seen six orders of magnitude price-performance gain in 30 years.</i><br>
-##### - <b>Fred Brooks</b><br>
+##### <i>What I cannot build, I do not understand.</i><br>
+##### - <b>Richard Feynman</b><br>
 <!--QUOTE-BOT:end-->
