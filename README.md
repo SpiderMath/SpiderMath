@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.</i><br>
-##### - <b>James Gleick</b><br>
+##### <i>A language that doesn’t have everything is actually easier to program in than some that do.</i><br>
+##### - <b>Dennis Ritchie</b><br>
 <!--QUOTE-BOT:end-->
