@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>As with most projects, the last two percent takes fifty percent of the time.</i><br>
-##### - <b>John Warnock</b><br>
+##### <i>In my second year in graduate school, I took a computer course and that was like lightening striking.</i><br>
+##### - <b>Ted Nelson</b><br>
 <!--QUOTE-BOT:end-->
