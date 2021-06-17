@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>In my second year in graduate school, I took a computer course and that was like lightening striking.</i><br>
-##### - <b>Ted Nelson</b><br>
+##### <i>I think one of the most valuable rules is avoid duplication.</i><br>
+##### - <b>Martin Fowler</b><br>
 <!--QUOTE-BOT:end-->
