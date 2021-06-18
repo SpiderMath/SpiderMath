@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.</i><br>
-##### - <b>Leslie Lamport</b><br>
+##### <i>No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.</i><br>
+##### - <b>George Boole</b><br>
 <!--QUOTE-BOT:end-->
