@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Controlling complexity is the essence of computer programming.</i><br>
-##### - <b>Brian Kernighan</b><br>
+##### <i>Simplicity does not precede complexity, but follows it.</i><br>
+##### - <b>Alan Perlis</b><br>
 <!--QUOTE-BOT:end-->
