@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>JavaScript, purely by accident, has become the most popular programming language in the world.</i><br>
-##### - <b>Douglas Crockford</b><br>
+##### <i>I think one of the most valuable rules is avoid duplication.</i><br>
+##### - <b>Martin Fowler</b><br>
 <!--QUOTE-BOT:end-->
