@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Compatibility means deliberately repeating other people’s mistakes.</i><br>
-##### - <b>David Wheeler (computer scientist)</b><br>
+##### <i>Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!</i><br>
+##### - <b>Fred Brooks</b><br>
 <!--QUOTE-BOT:end-->
