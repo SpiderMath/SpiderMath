@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.</i><br>
-##### - <b>Danny Hillis</b><br>
+##### <i>No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.</i><br>
+##### - <b>Andy Hunt (author)</b><br>
 <!--QUOTE-BOT:end-->
