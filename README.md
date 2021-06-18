@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>I think one of the most valuable rules is avoid duplication.</i><br>
-##### - <b>Martin Fowler</b><br>
+##### <i>A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.</i><br>
+##### - <b>Ted Nelson</b><br>
 <!--QUOTE-BOT:end-->
