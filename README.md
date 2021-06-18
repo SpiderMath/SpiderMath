@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Your most unhappy customers are your greatest source of learning.</i><br>
-##### - <b>Bill Gates</b><br>
+##### <i>Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.</i><br>
+##### - <b>Richard P. Gabriel</b><br>
 <!--QUOTE-BOT:end-->
