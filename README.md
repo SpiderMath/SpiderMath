@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.</i><br>
-##### - <b>Andy Hunt (author)</b><br>
+##### <i>Your most unhappy customers are your greatest source of learning.</i><br>
+##### - <b>Bill Gates</b><br>
 <!--QUOTE-BOT:end-->
