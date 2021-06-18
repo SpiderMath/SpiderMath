@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.</i><br>
-##### - <b>George Boole</b><br>
+##### <i>Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.</i><br>
+##### - <b>Bill Gates</b><br>
 <!--QUOTE-BOT:end-->
