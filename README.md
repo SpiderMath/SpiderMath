@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>In my second year in graduate school, I took a computer course and that was like lightening striking.</i><br>
-##### - <b>Ted Nelson</b><br>
+##### <i>Controlling complexity is the essence of computer programming.</i><br>
+##### - <b>Brian Kernighan</b><br>
 <!--QUOTE-BOT:end-->
