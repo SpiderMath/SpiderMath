@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.</i><br>
-##### - <b>Ted Nelson</b><br>
+##### <i>A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.</i><br>
+##### - <b>Danny Hillis</b><br>
 <!--QUOTE-BOT:end-->
