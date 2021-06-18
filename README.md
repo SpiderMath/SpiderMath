@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.</i><br>
-##### - <b>Richard P. Gabriel</b><br>
+##### <i>Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.</i><br>
+##### - <b>Jamie Zawinski</b><br>
 <!--QUOTE-BOT:end-->
