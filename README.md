@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Any fool can write code that a computer can understand. Good programmers write code that humans can understand.</i><br>
-##### - <b>Martin Fowler</b><br>
+##### <i>Compatibility means deliberately repeating other people’s mistakes.</i><br>
+##### - <b>David Wheeler (computer scientist)</b><br>
 <!--QUOTE-BOT:end-->
