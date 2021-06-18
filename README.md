@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.</i><br>
-##### - <b>Jamie Zawinski</b><br>
+##### <i>Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.</i><br>
+##### - <b>Stewart Brand</b><br>
 <!--QUOTE-BOT:end-->
