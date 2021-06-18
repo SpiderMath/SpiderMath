@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>A skilled programmer is like a poet who can put into words those ideas that others find inexpressible.</i><br>
-##### - <b>Danny Hillis</b><br>
+##### <i>In my second year in graduate school, I took a computer course and that was like lightening striking.</i><br>
+##### - <b>Ted Nelson</b><br>
 <!--QUOTE-BOT:end-->
