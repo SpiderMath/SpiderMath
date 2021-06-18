@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.</i><br>
-##### - <b>Bill Gates</b><br>
+##### <i>It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible.</i><br>
+##### - <b>Danny Hillis</b><br>
 <!--QUOTE-BOT:end-->
