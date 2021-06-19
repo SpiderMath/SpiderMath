@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>If you think it's simple, then you have misunderstood the problem.</i><br>
-##### - <b>Bjarne Stroustrup</b><br>
+##### <i>If you learn how to solve problems, you can go through life and do pretty well.</i><br>
+##### - <b>Gary Kildall</b><br>
 <!--QUOTE-BOT:end-->
