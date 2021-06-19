@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.</i><br>
-##### - <b>Donald Knuth</b><br>
+##### <i>It is not the task of the University to offer what society asks for, but to give what society needs.</i><br>
+##### - <b>Edsger W. Dijkstra</b><br>
 <!--QUOTE-BOT:end-->
