@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.</i><br>
-##### - <b>Stewart Brand</b><br>
+##### <i>No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.</i><br>
+##### - <b>Andy Hunt (author)</b><br>
 <!--QUOTE-BOT:end-->
