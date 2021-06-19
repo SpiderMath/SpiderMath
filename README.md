@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.</i><br>
-##### - <b>Fred Brooks</b><br>
+##### <i>Every time you improve process, work becomes harder.</i><br>
+##### - <b>Daniel T. Barry</b><br>
 <!--QUOTE-BOT:end-->
