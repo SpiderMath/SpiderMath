@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>The proper use of comments is to compensate for our failure to express ourself in code.</i><br>
-##### - <b>Robert C. Martin</b><br>
+##### <i>A number of studies have shown testing not very effective at finding bugs.</i><br>
+##### - <b>Daniel T. Barry</b><br>
 <!--QUOTE-BOT:end-->
