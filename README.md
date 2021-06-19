@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Every time you improve process, work becomes harder.</i><br>
-##### - <b>Daniel T. Barry</b><br>
+##### <i>If you think it's simple, then you have misunderstood the problem.</i><br>
+##### - <b>Bjarne Stroustrup</b><br>
 <!--QUOTE-BOT:end-->
