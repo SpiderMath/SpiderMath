@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.</i><br>
-##### - <b>Andy Hunt (author)</b><br>
+##### <i>The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.</i><br>
+##### - <b>Fred Brooks</b><br>
 <!--QUOTE-BOT:end-->
