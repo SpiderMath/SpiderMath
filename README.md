@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.</i><br>
-##### - <b>Michael Stal</b><br>
+##### <i>Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.</i><br>
+##### - <b>Stewart Brand</b><br>
 <!--QUOTE-BOT:end-->
