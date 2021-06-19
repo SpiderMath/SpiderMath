@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>If you learn how to solve problems, you can go through life and do pretty well.</i><br>
-##### - <b>Gary Kildall</b><br>
+##### <i>The best minds of my generation are thinking about how to make people click ads.</i><br>
+##### - <b>Jeff Hammerbacher</b><br>
 <!--QUOTE-BOT:end-->
