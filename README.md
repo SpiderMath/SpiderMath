@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>It is not the task of the University to offer what society asks for, but to give what society needs.</i><br>
-##### - <b>Edsger W. Dijkstra</b><br>
+##### <i>Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.</i><br>
+##### - <b>Jamie Zawinski</b><br>
 <!--QUOTE-BOT:end-->
