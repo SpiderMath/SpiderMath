@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.</i><br>
-##### - <b>Ward Cunningham</b><br>
+##### <i>The cheapest, fastest, and most reliable components are those that aren’t there.</i><br>
+##### - <b>Gordon Bell</b><br>
 <!--QUOTE-BOT:end-->
