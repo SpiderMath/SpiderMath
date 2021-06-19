@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>The best minds of my generation are thinking about how to make people click ads.</i><br>
-##### - <b>Jeff Hammerbacher</b><br>
+##### <i>Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice.</i><br>
+##### - <b>Martin Fowler</b><br>
 <!--QUOTE-BOT:end-->
