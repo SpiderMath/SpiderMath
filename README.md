@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.</i><br>
-##### - <b>John Gall (author)</b><br>
+##### <i>Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.</i><br>
+##### - <b>Ward Cunningham</b><br>
 <!--QUOTE-BOT:end-->
