@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>There is not only a close analogy between the operations of the mind in general reasoning and its operations in the particular science of Algebra, but there is to a considerable extent an exact agreement in the laws by which the two classes of operations are conducted.</i><br>
-##### - <b>George Boole</b><br>
+##### <i>Sometimes there is a silver bullet for boosting software engineering productivity. But you need to shoot the right person.</i><br>
+##### - <b>Michael Stal</b><br>
 <!--QUOTE-BOT:end-->
