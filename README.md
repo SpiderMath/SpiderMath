@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>The cheapest, fastest, and most reliable components are those that aren’t there.</i><br>
-##### - <b>Gordon Bell</b><br>
+##### <i>The proper use of comments is to compensate for our failure to express ourself in code.</i><br>
+##### - <b>Robert C. Martin</b><br>
 <!--QUOTE-BOT:end-->
