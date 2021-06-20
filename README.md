@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>If you want to set off and go develop some grand new thing, you don't need millions of dollars of capitalization. You need enough pizza and Diet Coke to stick in your refrigerator, a cheap PC to work on, and the dedication to go through with it.</i><br>
-##### - <b>John Carmack</b><br>
+##### <i>Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.</i><br>
+##### - <b>Butler Lampson</b><br>
 <!--QUOTE-BOT:end-->
