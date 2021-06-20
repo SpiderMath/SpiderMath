@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.</i><br>
-##### - <b>Donald Knuth</b><br>
+##### <i>Since 1954, the raw speed of computers, as measured by the time it takes to do an addition, increased by a factor of 10,000. That means an algorithm that once took 10 minutes to perform can now be done 15 times a second.</i><br>
+##### - <b>Maurice Wilkes</b><br>
 <!--QUOTE-BOT:end-->
