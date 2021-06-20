@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.</i><br>
-##### - <b>Donald Knuth</b><br>
+##### <i>No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.</i><br>
+##### - <b>Mark Gibbs</b><br>
 <!--QUOTE-BOT:end-->
