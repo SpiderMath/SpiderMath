@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>In the case of the Analytical Engine, we have undoubtedly to lay out a certain capital of analytical labour in one particular line, but this is in order that the engine may bring us in a much larger return in another line.</i><br>
-##### - <b>Ada Lovelace</b><br>
+##### <i>Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.</i><br>
+##### - <b>Jamie Zawinski</b><br>
 <!--QUOTE-BOT:end-->
