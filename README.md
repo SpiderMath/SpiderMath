@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.</i><br>
-##### - <b>Douglas Crockford</b><br>
+##### <i>Anyone who has ever written a program knows that telling a computer what you want it to do is not as easy as it sounds. Every detail of the computer’s desired operation must be precisely described. For instance, if you tell an accounting program to bill your clients for the amount that each owes, then the computer will send out a weekly bill for $0.00 to clients who owe nothing.</i><br>
+##### - <b>Danny Hillis</b><br>
 <!--QUOTE-BOT:end-->
