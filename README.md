@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Controlling complexity is the essence of computer programming.</i><br>
-##### - <b>Brian Kernighan</b><br>
+##### <i>By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.</i><br>
+##### - <b>Donald Knuth</b><br>
 <!--QUOTE-BOT:end-->
