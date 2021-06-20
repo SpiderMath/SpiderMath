@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three.</i><br>
-##### - <b>Charles Simonyi</b><br>
+##### <i>There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do.</i><br>
+##### - <b>Butler Lampson</b><br>
 <!--QUOTE-BOT:end-->
