@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Anyone who has ever written a program knows that telling a computer what you want it to do is not as easy as it sounds. Every detail of the computer’s desired operation must be precisely described. For instance, if you tell an accounting program to bill your clients for the amount that each owes, then the computer will send out a weekly bill for $0.00 to clients who owe nothing.</i><br>
-##### - <b>Danny Hillis</b><br>
+##### <i>The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.</i><br>
+##### - <b>Donald Knuth</b><br>
 <!--QUOTE-BOT:end-->
