@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Making things easy is hard.</i><br>
-##### - <b>Ted Nelson</b><br>
+##### <i>Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.</i><br>
+##### - <b>Linus Torvalds</b><br>
 <!--QUOTE-BOT:end-->
