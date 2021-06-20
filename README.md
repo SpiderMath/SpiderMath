@@ -56,11 +56,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#19](https://github.com/nahann/Shiba/issues/19) in [nahann/Shiba](https://github.com/nahann/Shiba)
-2. 💪 Opened PR [#1](https://github.com/Rubayz/Rubayz/pull/1) in [Rubayz/Rubayz](https://github.com/Rubayz/Rubayz)
-3. 🎉 Merged PR [#1](https://github.com/SpiderMath/Rubayz/pull/1) in [SpiderMath/Rubayz](https://github.com/SpiderMath/Rubayz)
-4. 💪 Opened PR [#1](https://github.com/SpiderMath/Rubayz/pull/1) in [SpiderMath/Rubayz](https://github.com/SpiderMath/Rubayz)
-5. 🎉 Merged PR [#3](https://github.com/SpiderMath/Hello-World/pull/3) in [SpiderMath/Hello-World](https://github.com/SpiderMath/Hello-World)
+1. ❗️ Opened issue [#61](https://github.com/anjannair/Rufus-Discord-Bot/issues/61) in [anjannair/Rufus-Discord-Bot](https://github.com/anjannair/Rufus-Discord-Bot)
+2. ❗️ Opened issue [#19](https://github.com/nahann/Shiba/issues/19) in [nahann/Shiba](https://github.com/nahann/Shiba)
+3. 💪 Opened PR [#1](https://github.com/Rubayz/Rubayz/pull/1) in [Rubayz/Rubayz](https://github.com/Rubayz/Rubayz)
+4. 🎉 Merged PR [#1](https://github.com/SpiderMath/Rubayz/pull/1) in [SpiderMath/Rubayz](https://github.com/SpiderMath/Rubayz)
+5. 💪 Opened PR [#1](https://github.com/SpiderMath/Rubayz/pull/1) in [SpiderMath/Rubayz](https://github.com/SpiderMath/Rubayz)
 <!--END_SECTION:activity-->
 <hr>
 
