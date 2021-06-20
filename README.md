@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.</i><br>
-##### - <b>Linus Torvalds</b><br>
+##### <i>Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.</i><br>
+##### - <b>Douglas Crockford</b><br>
 <!--QUOTE-BOT:end-->
