@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.</i><br>
-##### - <b>Buckminster Fuller</b><br>
+##### <i>If you think it's simple, then you have misunderstood the problem.</i><br>
+##### - <b>Bjarne Stroustrup</b><br>
 <!--QUOTE-BOT:end-->
