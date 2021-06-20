@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>If you think it's simple, then you have misunderstood the problem.</i><br>
-##### - <b>Bjarne Stroustrup</b><br>
+##### <i>Making things easy is hard.</i><br>
+##### - <b>Ted Nelson</b><br>
 <!--QUOTE-BOT:end-->
