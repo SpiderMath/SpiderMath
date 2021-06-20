@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.</i><br>
-##### - <b>Mark Gibbs</b><br>
+##### <i>Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.</i><br>
+##### - <b>Laurence J. Peter</b><br>
 <!--QUOTE-BOT:end-->
