@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>A few months writing code can save you a few hours in design.</i><br>
-##### - <b>Anonymous</b><br>
+##### <i>Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.</i><br>
+##### - <b>Linus Torvalds</b><br>
 <!--QUOTE-BOT:end-->
