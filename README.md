@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Low-level programming is good for the programmer’s soul.</i><br>
-##### - <b>John Carmack</b><br>
+##### <i>Making things easy is hard.</i><br>
+##### - <b>Ted Nelson</b><br>
 <!--QUOTE-BOT:end-->
