@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Imagination is more important than knowledge.</i><br>
-##### - <b>Albert Einstein</b><br>
+##### <i>Really good programs live forever.</i><br>
+##### - <b>Charles Simonyi</b><br>
 <!--QUOTE-BOT:end-->
