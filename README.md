@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Before software can be reusable it first has to be usable.</i><br>
-##### - <b>Ralph Johnson (computer scientist)</b><br>
+##### <i>Low-level programming is good for the programmer’s soul.</i><br>
+##### - <b>John Carmack</b><br>
 <!--QUOTE-BOT:end-->
