@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Software gets slower faster than hardware gets faster.</i><br>
-##### - <b>Niklaus Wirth</b><br>
+##### <i>JavaScript is the world's most misunderstood programming language.</i><br>
+##### - <b>Douglas Crockford</b><br>
 <!--QUOTE-BOT:end-->
