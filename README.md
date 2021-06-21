@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Once you stop learning you start dying.</i><br>
-##### - <b>Albert Einstein</b><br>
+##### <i>The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.</i><br>
+##### - <b>Joe Armstrong (programmer)</b><br>
 <!--QUOTE-BOT:end-->
