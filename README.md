@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>A good programmer is someone who looks both ways before crossing a one-way street.</i><br>
-##### - <b>Doug Linder</b><br>
+##### <i>Imagination is more important than knowledge.</i><br>
+##### - <b>Albert Einstein</b><br>
 <!--QUOTE-BOT:end-->
