@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.</i><br>
-##### - <b>Richard Stallman</b><br>
+##### <i>Software gets slower faster than hardware gets faster.</i><br>
+##### - <b>Niklaus Wirth</b><br>
 <!--QUOTE-BOT:end-->
