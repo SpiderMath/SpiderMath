@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Ideas don't disappear. They change form, they merge with other ideas.</i><br>
-##### - <b>Bob Frankston</b><br>
+##### <i>The best minds of my generation are thinking about how to make people click ads.</i><br>
+##### - <b>Jeff Hammerbacher</b><br>
 <!--QUOTE-BOT:end-->
