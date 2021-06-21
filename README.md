@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>The best minds of my generation are thinking about how to make people click ads.</i><br>
-##### - <b>Jeff Hammerbacher</b><br>
+##### <i>Programming is programming. If you get good at programming, it doesn't matter which language you learned it in, because you'll be able to do programming in any language.</i><br>
+##### - <b>Richard Stallman</b><br>
 <!--QUOTE-BOT:end-->
