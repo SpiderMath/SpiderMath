@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Talk is cheap. Show me the code.</i><br>
-##### - <b>Linus Torvalds</b><br>
+##### <i>A few months writing code can save you a few hours in design.</i><br>
+##### - <b>Anonymous</b><br>
 <!--QUOTE-BOT:end-->
