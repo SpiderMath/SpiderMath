@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Any sufficiently advanced technology is indistinguishable from magic.</i><br>
-##### - <b>Arthur C. Clarke</b><br>
+##### <i>Programs must be written for people to read, and only incidentally for machines to execute.</i><br>
+##### - <b>Hal Abelson</b><br>
 <!--QUOTE-BOT:end-->
