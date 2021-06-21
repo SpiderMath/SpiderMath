@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Programs must be written for people to read, and only incidentally for machines to execute.</i><br>
-##### - <b>Hal Abelson</b><br>
+##### <i>A good programmer is someone who looks both ways before crossing a one-way street.</i><br>
+##### - <b>Doug Linder</b><br>
 <!--QUOTE-BOT:end-->
