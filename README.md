@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration.</i><br>
-##### - <b>Edsger W. Dijkstra</b><br>
+##### <i>A number of studies have shown testing not very effective at finding bugs.</i><br>
+##### - <b>Daniel T. Barry</b><br>
 <!--QUOTE-BOT:end-->
