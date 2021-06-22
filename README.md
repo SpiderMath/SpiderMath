@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.</i><br>
-##### - <b>Daniel T. Barry</b><br>
+##### <i>I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.</i><br>
+##### - <b>Alan Perlis</b><br>
 <!--QUOTE-BOT:end-->
