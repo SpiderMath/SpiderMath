@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.</i><br>
-##### - <b>Harlan Mills</b><br>
+##### <i>A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.</i><br>
+##### - <b>Leslie Lamport</b><br>
 <!--QUOTE-BOT:end-->
