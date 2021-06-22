@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.</i><br>
-##### - <b>Laurence J. Peter</b><br>
+##### <i>It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.</i><br>
+##### - <b>Nathaniel Borenstein</b><br>
 <!--QUOTE-BOT:end-->
