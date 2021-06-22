@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>JavaScript is the world's most misunderstood programming language.</i><br>
-##### - <b>Douglas Crockford</b><br>
+##### <i>There's nothing more permanent than a temporary hack.</i><br>
+##### - <b>Kyle Simpson</b><br>
 <!--QUOTE-BOT:end-->
