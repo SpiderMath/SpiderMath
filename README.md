@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>If debugging is the process of removing software bugs, then programming must be the process of putting them in.</i><br>
-##### - <b>Edsger W. Dijkstra</b><br>
+##### <i>Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.</i><br>
+##### - <b>Ray Ozzie</b><br>
 <!--QUOTE-BOT:end-->
