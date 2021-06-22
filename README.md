@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.</i><br>
-##### - <b>Alan Perlis</b><br>
+##### <i>Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes.</i><br>
+##### - <b>Harlan Mills</b><br>
 <!--QUOTE-BOT:end-->
