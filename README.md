@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Documentation is a love letter that you write to your future self.</i><br>
-##### - <b>Damian Conway</b><br>
+##### <i>Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it.</i><br>
+##### - <b>John McCarthy (computer scientist)</b><br>
 <!--QUOTE-BOT:end-->
