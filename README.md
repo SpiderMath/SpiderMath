@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.</i><br>
-##### - <b>Leslie Lamport</b><br>
+##### <i>Code never lies, comments sometimes do.</i><br>
+##### - <b>Ron Jeffries</b><br>
 <!--QUOTE-BOT:end-->
