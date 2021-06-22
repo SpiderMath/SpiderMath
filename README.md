@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level.</i><br>
-##### - <b>Fred Brooks</b><br>
+##### <i>For most software, efficiency just does not matter.</i><br>
+##### - <b>Daniel T. Barry</b><br>
 <!--QUOTE-BOT:end-->
