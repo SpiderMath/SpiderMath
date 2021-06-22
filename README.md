@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Code never lies, comments sometimes do.</i><br>
-##### - <b>Ron Jeffries</b><br>
+##### <i>Documentation is a love letter that you write to your future self.</i><br>
+##### - <b>Damian Conway</b><br>
 <!--QUOTE-BOT:end-->
