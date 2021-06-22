@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>For most software, efficiency just does not matter.</i><br>
-##### - <b>Daniel T. Barry</b><br>
+##### <i>Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.</i><br>
+##### - <b>Laurence J. Peter</b><br>
 <!--QUOTE-BOT:end-->
