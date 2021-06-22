@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>For most software, efficiency just does not matter.</i><br>
-##### - <b>Daniel T. Barry</b><br>
+##### <i>If debugging is the process of removing software bugs, then programming must be the process of putting them in.</i><br>
+##### - <b>Edsger W. Dijkstra</b><br>
 <!--QUOTE-BOT:end-->
