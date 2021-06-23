@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.</i><br>
-##### - <b>Tom DeMarco</b><br>
+##### <i>Really care about the tools you use because they are what make you your best.</i><br>
+##### - <b>Addy Osmani</b><br>
 <!--QUOTE-BOT:end-->
