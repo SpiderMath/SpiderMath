@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Really care about the tools you use because they are what make you your best.</i><br>
-##### - <b>Addy Osmani</b><br>
+##### <i>Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.</i><br>
+##### - <b>Fred Brooks</b><br>
 <!--QUOTE-BOT:end-->
