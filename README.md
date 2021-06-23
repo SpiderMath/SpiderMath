@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Adding manpower to a late software project makes it later.</i><br>
-##### - <b>Fred Brooks</b><br>
+##### <i>The very best technology never has as much impact as girlfriend or boyfriend trouble.</i><br>
+##### - <b>Tom DeMarco</b><br>
 <!--QUOTE-BOT:end-->
