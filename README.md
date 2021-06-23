@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Really care about the tools you use because they are what make you your best.</i><br>
-##### - <b>Addy Osmani</b><br>
+##### <i>When we don’t understand a process, we fall into magical thinking about results.</i><br>
+##### - <b>Jef Raskin</b><br>
 <!--QUOTE-BOT:end-->
