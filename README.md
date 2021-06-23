@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Measuring programming progress by lines of code is like measuring aircraft building progress by weight.</i><br>
-##### - <b>Bill Gates</b><br>
+##### <i>If I had followed my heart instead of advice, dBASE would be much closer to perfection today.</i><br>
+##### - <b>Wayne Ratliff</b><br>
 <!--QUOTE-BOT:end-->
