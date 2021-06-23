@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Since 1954, the raw speed of computers, as measured by the time it takes to do an addition, increased by a factor of 10,000. That means an algorithm that once took 10 minutes to perform can now be done 15 times a second.</i><br>
-##### - <b>Maurice Wilkes</b><br>
+##### <i>The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.</i><br>
+##### - <b>Robert C. Martin</b><br>
 <!--QUOTE-BOT:end-->
