@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>The very best technology never has as much impact as girlfriend or boyfriend trouble.</i><br>
+##### <i>The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.</i><br>
 ##### - <b>Tom DeMarco</b><br>
 <!--QUOTE-BOT:end-->
