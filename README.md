@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.</i><br>
-##### - <b>Fred Brooks</b><br>
+##### <i>When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.</i><br>
+##### - <b>Kent Beck</b><br>
 <!--QUOTE-BOT:end-->
