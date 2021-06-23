@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.</i><br>
-##### - <b>Kent Beck</b><br>
+##### <i>The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.</i><br>
+##### - <b>Bill Gates</b><br>
 <!--QUOTE-BOT:end-->
