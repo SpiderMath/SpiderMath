@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.</i><br>
-##### - <b>Bill Gates</b><br>
+##### <i>Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.</i><br>
+##### - <b>Marijn Haverbeke</b><br>
 <!--QUOTE-BOT:end-->
