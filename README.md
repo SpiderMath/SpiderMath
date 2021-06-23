@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.</i><br>
-##### - <b>David Gelernter</b><br>
+##### <i>A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.</i><br>
+##### - <b>Daniel T. Barry</b><br>
 <!--QUOTE-BOT:end-->
