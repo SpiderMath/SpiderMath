@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves.</i><br>
-##### - <b>Marijn Haverbeke</b><br>
+##### <i>Measuring programming progress by lines of code is like measuring aircraft building progress by weight.</i><br>
+##### - <b>Bill Gates</b><br>
 <!--QUOTE-BOT:end-->
