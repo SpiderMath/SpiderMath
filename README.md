@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>The best way to know that you have found the last bug is never to find the first bug.</i><br>
-##### - <b>Harlan Mills</b><br>
+##### <i>A beautiful program is like a beautiful theorem: It does the job elegantly.</i><br>
+##### - <b>Butler Lampson</b><br>
 <!--QUOTE-BOT:end-->
