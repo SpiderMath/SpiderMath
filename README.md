@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>The most important part of writing a program is designing the data structures.</i><br>
-##### - <b>Dan Bricklin</b><br>
+##### <i>The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data.</i><br>
+##### - <b>Charles Babbage</b><br>
 <!--QUOTE-BOT:end-->
