@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>I have no special talent. I am only passionately curious.</i><br>
-##### - <b>Albert Einstein</b><br>
+##### <i>Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.</i><br>
+##### - <b>P. J. Plauger</b><br>
 <!--QUOTE-BOT:end-->
