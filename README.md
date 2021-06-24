@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.</i><br>
-##### - <b>Stewart Brand</b><br>
+##### <i>The way to arrest entropy in software is to refactor it.</i><br>
+##### - <b>Joseph Yoder (computer scientist)</b><br>
 <!--QUOTE-BOT:end-->
