@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>In theory, there is no difference between theory and practice. But, in practice, there is.</i><br>
-##### - <b>Jan L. A. van de Snepscheut</b><br>
+##### <i>I have no special talent. I am only passionately curious.</i><br>
+##### - <b>Albert Einstein</b><br>
 <!--QUOTE-BOT:end-->
