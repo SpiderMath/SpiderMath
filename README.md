@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.</i><br>
-##### - <b>Tim Berners-Lee</b><br>
+##### <i>Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.</i><br>
+##### - <b>Andy Hertzfeld</b><br>
 <!--QUOTE-BOT:end-->
