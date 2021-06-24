@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>A beautiful program is like a beautiful theorem: It does the job elegantly.</i><br>
+##### <i>In handling resources, strive to avoid disaster rather than to attain an optimum.</i><br>
 ##### - <b>Butler Lampson</b><br>
 <!--QUOTE-BOT:end-->
