@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.</i><br>
-##### - <b>Andy Hertzfeld</b><br>
+##### <i>Never memorize something that you can look up.</i><br>
+##### - <b>Albert Einstein</b><br>
 <!--QUOTE-BOT:end-->
