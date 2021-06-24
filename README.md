@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.</i><br>
-##### - <b>Fred Brooks</b><br>
+##### <i>Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.</i><br>
+##### - <b>Richard P. Gabriel</b><br>
 <!--QUOTE-BOT:end-->
