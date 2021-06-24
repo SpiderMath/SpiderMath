@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>The way to arrest entropy in software is to refactor it.</i><br>
-##### - <b>Joseph Yoder (computer scientist)</b><br>
+##### <i>I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.</i><br>
+##### - <b>Tim Berners-Lee</b><br>
 <!--QUOTE-BOT:end-->
