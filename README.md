@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Adding people to a software project increases the total effort necessary in three ways: the work and disruption of repartitioning itself, training the new people, and added intercommunication.</i><br>
-##### - <b>Fred Brooks</b><br>
+##### <i>In theory, there is no difference between theory and practice. But, in practice, there is.</i><br>
+##### - <b>Jan L. A. van de Snepscheut</b><br>
 <!--QUOTE-BOT:end-->
