@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>In handling resources, strive to avoid disaster rather than to attain an optimum.</i><br>
-##### - <b>Butler Lampson</b><br>
+##### <i>We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.</i><br>
+##### - <b>Ellen Ullman</b><br>
 <!--QUOTE-BOT:end-->
