@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.</i><br>
-##### - <b>P. J. Plauger</b><br>
+##### <i>The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing.</i><br>
+##### - <b>Manuel Blum</b><br>
 <!--QUOTE-BOT:end-->
