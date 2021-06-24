@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Over half of the time you spend working on a project is spent thinking, and no tool, no matter how advanced, can think for you.</i><br>
-##### - <b>Richard P. Gabriel</b><br>
+##### <i>Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.</i><br>
+##### - <b>Edsger W. Dijkstra</b><br>
 <!--QUOTE-BOT:end-->
