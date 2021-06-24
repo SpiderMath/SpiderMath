@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>If I had followed my heart instead of advice, dBASE would be much closer to perfection today.</i><br>
-##### - <b>Wayne Ratliff</b><br>
+##### <i>A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.</i><br>
+##### - <b>Ivan Sutherland</b><br>
 <!--QUOTE-BOT:end-->
