@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Object-oriented design is the roman numerals of computing.</i><br>
-##### - <b>Rob Pike</b><br>
+##### <i>A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.</i><br>
+##### - <b>David Parnas</b><br>
 <!--QUOTE-BOT:end-->
