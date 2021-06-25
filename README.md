@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Any product that needs a manual to work is broken.</i><br>
-##### - <b>Elon Musk</b><br>
+##### <i>The hardest part of design is keeping features out.</i><br>
+##### - <b>Don Norman</b><br>
 <!--QUOTE-BOT:end-->
