@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.</i><br>
-##### - <b>Robert L. Glass</b><br>
+##### <i>People should be able to speak and breathe programs just like they talk now.</i><br>
+##### - <b>Jaron Lanier</b><br>
 <!--QUOTE-BOT:end-->
