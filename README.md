@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important.</i><br>
-##### - <b>Ward Cunningham</b><br>
+##### <i>The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.</i><br>
+##### - <b>Brian Kernighan</b><br>
 <!--QUOTE-BOT:end-->
