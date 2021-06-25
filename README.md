@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.</i><br>
-##### - <b>Fred Brooks</b><br>
+##### <i>Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.</i><br>
+##### - <b>Daniel T. Barry</b><br>
 <!--QUOTE-BOT:end-->
