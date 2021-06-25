@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Ed Adams of IBM found that 80% of the reliability problems are caused by only 2% of the defects.</i><br>
-##### - <b>Daniel T. Barry</b><br>
+##### <i>The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.</i><br>
+##### - <b>Robert L. Glass</b><br>
 <!--QUOTE-BOT:end-->
