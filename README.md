@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.</i><br>
-##### - <b>Ellen Ullman</b><br>
+##### <i>No code is faster than no code.</i><br>
+##### - <b>Kevlin Henney</b><br>
 <!--QUOTE-BOT:end-->
