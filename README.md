@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>No code is faster than no code.</i><br>
-##### - <b>Kevlin Henney</b><br>
+##### <i>Object-oriented design is the roman numerals of computing.</i><br>
+##### - <b>Rob Pike</b><br>
 <!--QUOTE-BOT:end-->
