@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.</i><br>
-##### - <b>Dennis Ritchie</b><br>
+##### <i>Fancy algorithms are slow when n is small, and n is usually small.</i><br>
+##### - <b>Rob Pike</b><br>
 <!--QUOTE-BOT:end-->
