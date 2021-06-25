@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.</i><br>
-##### - <b>David Parnas</b><br>
+##### <i>Any product that needs a manual to work is broken.</i><br>
+##### - <b>Elon Musk</b><br>
 <!--QUOTE-BOT:end-->
