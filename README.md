@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--QUOTE-BOT:start-->
-##### <i>Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set?</i><br>
-##### - <b>Edsger W. Dijkstra</b><br>
+##### <i>To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.</i><br>
+##### - <b>Fred Brooks</b><br>
 <!--QUOTE-BOT:end-->
