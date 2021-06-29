@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>In handling resources, strive to avoid disaster rather than to attain an optimum.</i><br>
-##### - <b>Butler Lampson</b><br>
+##### <i>I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.</i><br>
+##### - <b>Gary Kildall</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
