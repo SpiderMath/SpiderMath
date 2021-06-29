@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.</i><br>
-##### - <b>Steve Jobs</b><br>
+##### <i>The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.</i><br>
+##### - <b>Edsger W. Dijkstra</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
