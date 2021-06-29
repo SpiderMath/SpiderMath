@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.</i><br>
-##### - <b>Gary Kildall</b><br>
+##### <i>You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.</i><br>
+##### - <b>Steve Jobs</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
