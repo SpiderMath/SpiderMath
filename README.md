@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.</i><br>
-##### - <b>Danny Hillis</b><br>
+##### <i>The more code you have, the more places there are for bugs to hide.</i><br>
+##### - <b>Rich Skrenta</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
