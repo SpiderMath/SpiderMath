@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>I have no special talent. I am only passionately curious.</i><br>
-##### - <b>Albert Einstein</b><br>
+##### <i>When I invented the web, I didn't have to ask anyone's permission.</i><br>
+##### - <b>Tim Berners-Lee</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
