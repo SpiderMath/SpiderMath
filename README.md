@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>When I invented the web, I didn't have to ask anyone's permission.</i><br>
-##### - <b>Tim Berners-Lee</b><br>
+##### <i>Reviews and pair programming provide programmers with something their work would not otherwise have: an audience. Sunlight, it is said is a powerful disinfectant. An immediate audience of one's peers provides immediate incentives to programmers to keep their code clear and comprehensible, as well as functional.</i><br>
+##### - <b>Joseph Yoder (computer scientist)</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
