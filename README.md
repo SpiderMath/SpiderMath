@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.</i><br>
-##### - <b>Alan Perlis</b><br>
+##### <i>It's not so important what you work on, so long as you're not wasting your time.</i><br>
+##### - <b>Paul Graham (programmer)</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
