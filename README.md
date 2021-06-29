@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer.</i><br>
-##### - <b>Edsger W. Dijkstra</b><br>
+##### <i>Compatibility means deliberately repeating other people’s mistakes.</i><br>
+##### - <b>David Wheeler (computer scientist)</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
