@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.</i><br>
-##### - <b>Tim Berners-Lee</b><br>
+##### <i>I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.</i><br>
+##### - <b>Alan Perlis</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
