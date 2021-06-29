@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.</i><br>
-##### - <b>Brian Kernighan</b><br>
+##### <i>In handling resources, strive to avoid disaster rather than to attain an optimum.</i><br>
+##### - <b>Butler Lampson</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
