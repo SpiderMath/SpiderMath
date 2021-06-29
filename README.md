@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.</i><br>
-##### - <b>John Carmack</b><br>
+##### <i>I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.</i><br>
+##### - <b>Tim Berners-Lee</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
