@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>All repairs tend to destroy structure, to increase the entropy and disorder of a system.</i><br>
-##### - <b>Fred Brooks</b><br>
+##### <i>The computer is not just an advanced calculator or camera or paintbrush; rather, it is a device that accelerates and extends our processes of thought.</i><br>
+##### - <b>Danny Hillis</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
