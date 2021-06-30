@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.</i><br>
-##### - <b>Fred Brooks</b><br>
+##### <i>The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.</i><br>
+##### - <b>Joshua Bloch</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
