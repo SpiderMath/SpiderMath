@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>I think programming is very much a religious experience for a lot of people.</i><br>
-##### - <b>Gary Kildall</b><br>
+##### <i>Debugging is like being the detective in a crime movie where you are also the murderer.</i><br>
+##### - <b>Filipe Fortes</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
