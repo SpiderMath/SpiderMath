@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>Debugging is like being the detective in a crime movie where you are also the murderer.</i><br>
-##### - <b>Filipe Fortes</b><br>
+##### <i>I don't like using any tools or programs I didn't write myself or that I don't have some control over.</i><br>
+##### - <b>Jonathan Sachs</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
