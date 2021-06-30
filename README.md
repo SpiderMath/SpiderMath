@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.</i><br>
-##### - <b>Donald Knuth</b><br>
+##### <i>When you find you have to add a feature to a program, and the program's code is not structured in a convenient way to add the feature, first refactor the program to make it easy to add the feature, then add the feature.</i><br>
+##### - <b>Kent Beck</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
