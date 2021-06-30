@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>When in doubt, use brute force.</i><br>
-##### - <b>Ken Thompson</b><br>
+##### <i>In order to understand recursion, one must first understand recursion.</i><br>
+##### - <b>Anonymous</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
