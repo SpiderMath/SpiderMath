@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>To iterate is human, to recurse divine.</i><br>
-##### - <b>L. Peter Deutsch</b><br>
+##### <i>JavaScript is the world's most misunderstood programming language.</i><br>
+##### - <b>Douglas Crockford</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
