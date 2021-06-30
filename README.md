@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.</i><br>
-##### - <b>Marijn Haverbeke</b><br>
+##### <i>There's only one trick in software, and that is using a piece of software that's already been written.</i><br>
+##### - <b>Bill Gates</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
