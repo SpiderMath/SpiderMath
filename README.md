@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.</i><br>
-##### - <b>Donald Knuth</b><br>
+##### <i>And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.</i><br>
+##### - <b>Vint Cerf</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
