@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>From an artistic standpoint, the best software comes from the realm of intuition.</i><br>
-##### - <b>Bob Carr</b><br>
+##### <i>By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality.</i><br>
+##### - <b>Donald Knuth</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
