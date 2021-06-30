@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>JavaScript is the world's most misunderstood programming language.</i><br>
-##### - <b>Douglas Crockford</b><br>
+##### <i>Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.</i><br>
+##### - <b>Fred Brooks</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
