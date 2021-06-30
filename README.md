@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>There are few things more frustrating or time wasting than debugging. Wouldn't it be a hell of a lot quicker if we just didn't create the bugs in the first place?</i><br>
-##### - <b>Martin Fowler</b><br>
+##### <i>From an artistic standpoint, the best software comes from the realm of intuition.</i><br>
+##### - <b>Bob Carr</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
