@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>Artificial intelligence is the science of making machines do things that would require intelligence if done by men.</i><br>
-##### - <b>Marvin Minsky</b><br>
+##### <i>Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.</i><br>
+##### - <b>Marijn Haverbeke</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
