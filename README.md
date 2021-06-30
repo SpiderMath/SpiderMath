@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner.</i><br>
-##### - <b>Edsger W. Dijkstra</b><br>
+##### <i>That hardly ever happens is another way of saying 'it happens'.</i><br>
+##### - <b>Douglas Crockford</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
