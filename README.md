@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>In order to understand recursion, one must first understand recursion.</i><br>
-##### - <b>Anonymous</b><br>
+##### <i>To iterate is human, to recurse divine.</i><br>
+##### - <b>L. Peter Deutsch</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
