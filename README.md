@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>There's only one trick in software, and that is using a piece of software that's already been written.</i><br>
-##### - <b>Bill Gates</b><br>
+##### <i>Object-oriented design is the roman numerals of computing.</i><br>
+##### - <b>Rob Pike</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
