@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.</i><br>
-##### - <b>Joshua Bloch</b><br>
+##### <i>It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.</i><br>
+##### - <b>Gary Kildall</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
