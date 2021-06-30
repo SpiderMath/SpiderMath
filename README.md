@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do.</i><br>
-##### - <b>Vint Cerf</b><br>
+##### <i>When in doubt, use brute force.</i><br>
+##### - <b>Ken Thompson</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
