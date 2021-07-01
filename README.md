@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>The real problem with throwaway code comes when it isn't thrown away.</i><br>
-##### - <b>Joseph Yoder (computer scientist)</b><br>
+##### <i>Less code equals less bugs.</i><br>
+##### - <b>Kevlin Henney</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
