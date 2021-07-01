@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.</i><br>
-##### - <b>L. Peter Deutsch</b><br>
+##### <i>Anybody who comes to you and says he has a perfect language is either naïve or a salesman.</i><br>
+##### - <b>Bjarne Stroustrup</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
