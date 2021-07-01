@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>Premature abstraction is as bad as premature optimization.</i><br>
-##### - <b>Luciano Ramalho</b><br>
+##### <i>SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.</i><br>
+##### - <b>Philip Greenspun</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
