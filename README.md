@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.</i><br>
-##### - <b>Jeremy S. Anderson</b><br>
+##### <i>The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.</i><br>
+##### - <b>Fred Brooks</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
