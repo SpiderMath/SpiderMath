@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that.</i><br>
-##### - <b>Ken Thompson</b><br>
+##### <i>The best minds of my generation are thinking about how to make people click ads.</i><br>
+##### - <b>Jeff Hammerbacher</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
