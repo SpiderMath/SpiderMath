@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.</i><br>
-##### - <b>Elon Musk</b><br>
+##### <i>Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.</i><br>
+##### - <b>Fred Brooks</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
