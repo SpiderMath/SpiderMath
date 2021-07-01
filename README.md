@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>Anybody who comes to you and says he has a perfect language is either naïve or a salesman.</i><br>
-##### - <b>Bjarne Stroustrup</b><br>
+##### <i>In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it.</i><br>
+##### - <b>Richard Hamming</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
