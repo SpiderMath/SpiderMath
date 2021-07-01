@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>Cleaning code does NOT take time. NOT cleaning code does take time.</i><br>
-##### - <b>Robert C. Martin</b><br>
+##### <i>The Domain Name Server (DNS) is the Achilles heel of the Web.</i><br>
+##### - <b>Tim Berners-Lee</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
