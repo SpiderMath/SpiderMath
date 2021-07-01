@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence.</i><br>
-##### - <b>Fred Brooks</b><br>
+##### <i>There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.</i><br>
+##### - <b>Jeremy S. Anderson</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
