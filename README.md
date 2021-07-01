@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.</i><br>
-##### - <b>Fred Brooks</b><br>
+##### <i>The real problem with throwaway code comes when it isn't thrown away.</i><br>
+##### - <b>Joseph Yoder (computer scientist)</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
