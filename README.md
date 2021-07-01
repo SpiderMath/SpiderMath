@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>The Domain Name Server (DNS) is the Achilles heel of the Web.</i><br>
-##### - <b>Tim Berners-Lee</b><br>
+##### <i>We should forget about small efficiencies, say about 97% of the time: premature optimization is the root of all evil. Yet we should not pass up our opportunities in that critical 3%.</i><br>
+##### - <b>Donald Knuth</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
