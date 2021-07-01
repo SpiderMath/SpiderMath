@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.</i><br>
-##### - <b>Fred Brooks</b><br>
+##### <i>The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.</i><br>
+##### - <b>Edsger W. Dijkstra</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
