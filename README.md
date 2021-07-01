@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.</i><br>
-##### - <b>Edsger W. Dijkstra</b><br>
+##### <i>I would make a strong case that programming languages have not improved qualitatively in the last 40 years. There is no programming language in use today that is qualitatively better than Simula-67.</i><br>
+##### - <b>L. Peter Deutsch</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
