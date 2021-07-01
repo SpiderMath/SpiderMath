@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>If we’d asked the customers what they wanted, they would have said “faster horses”.</i><br>
-##### - <b>Henry Ford</b><br>
+##### <i>It's not so important what you work on, so long as you're not wasting your time.</i><br>
+##### - <b>Paul Graham (programmer)</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
