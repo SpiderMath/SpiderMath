@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.</i><br>
-##### - <b>Philip Greenspun</b><br>
+##### <i>The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.</i><br>
+##### - <b>Elon Musk</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
