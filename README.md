@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>I think the best way to supervise is by personal example and by frequent code reviews.</i><br>
-##### - <b>Charles Simonyi</b><br>
+##### <i>When you build a prototype, there is always the risk that someone will say "that's good enough, ship it". One way to minimize the risk of a prototype being put into production is to write the prototype in using a language or tool that you couldn't possibly use for a production version.</i><br>
+##### - <b>Joseph Yoder (computer scientist)</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
