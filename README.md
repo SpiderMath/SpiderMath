@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.</i><br>
-##### - <b>Roy Fielding</b><br>
+##### <i>To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.</i><br>
+##### - <b>John Warnock</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
