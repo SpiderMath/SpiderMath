@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design.</i><br>
-##### - <b>Elon Musk</b><br>
+##### <i>I think the best way to supervise is by personal example and by frequent code reviews.</i><br>
+##### - <b>Charles Simonyi</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
