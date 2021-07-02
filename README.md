@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones.</i><br>
-##### - <b>Donald Knuth</b><br>
+##### <i>Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.</i><br>
+##### - <b>Stewart Brand</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
