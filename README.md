@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.</i><br>
-##### - <b>John Warnock</b><br>
+##### <i>What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds.</i><br>
+##### - <b>Steve Jobs</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
