@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind.</i><br>
-##### - <b>Ted Nelson</b><br>
+##### <i>Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.</i><br>
+##### - <b>Roy Fielding</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
