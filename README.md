@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.</i><br>
-##### - <b>Elon Musk</b><br>
+##### <i>Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.</i><br>
+##### - <b>Jamie Zawinski</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
