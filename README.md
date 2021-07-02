@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>There is no reason anyone would want a computer in their home.</i><br>
-##### - <b>Ken Olsen</b><br>
+##### <i>If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.</i><br>
+##### - <b>David Leinweber</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
