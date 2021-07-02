@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime.</i><br>
-##### - <b>David Leinweber</b><br>
+##### <i>Life is too short to run proprietary software.</i><br>
+##### - <b>Bdale Garbee</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
