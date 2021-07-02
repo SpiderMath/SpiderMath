@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.</i><br>
-##### - <b>Grady Booch</b><br>
+##### <i>No matter how slow you are writing clean code, you will always be slower if you make a mess.</i><br>
+##### - <b>Robert C. Martin</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
