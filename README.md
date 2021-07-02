@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.</i><br>
-##### - <b>Linus Torvalds</b><br>
+##### <i>The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist.</i><br>
+##### - <b>Grady Booch</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
