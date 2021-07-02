@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>JavaScript, purely by accident, has become the most popular programming language in the world.</i><br>
-##### - <b>Douglas Crockford</b><br>
+##### <i>If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program.</i><br>
+##### - <b>Linus Torvalds</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
