@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote>##### <i>Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.</i><br>
-##### - <b>Butler Lampson</b><br>
+<blockquote> <h5> <i> The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one. </i> <h5> <br>
+##### - <b>Fred Brooks</b><br>
 </blockquote>
 <!--PROGRAMMING-QUOTE-BOT:end-->
