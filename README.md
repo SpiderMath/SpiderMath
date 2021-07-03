@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>Programming increases goes as a power of program size.</i><br>
-##### - <b>Fred Brooks</b><br>
+##### <i>With artificial intelligence we are summoning the demon.</i><br>
+##### - <b>Elon Musk</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
