@@ -66,6 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.</i><br>
-##### - <b>Danny Hillis</b><br>
+<blockquote>##### <i>Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.</i><br>
+##### - <b>Butler Lampson</b><br>
+</blockquote>
 <!--PROGRAMMING-QUOTE-BOT:end-->
