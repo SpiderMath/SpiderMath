@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form. </i> </h5> <br>
-<h5> - <b>Dennis Ritchie</b> </h5> <br> 
-</blockquote>
+<blockquote> <h5> <i> Imagination is more important than knowledge. </i> </h5> <br>
+<h5> - <b>Albert Einstein</b> </h5> </blockquote>
+<br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
