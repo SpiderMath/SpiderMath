@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>A beautiful program is like a beautiful theorem: It does the job elegantly.</i><br>
+##### <blockquote>A beautiful program is like a beautiful theorem: It does the job elegantly.</blockquote><br>
 ##### - <b>Butler Lampson</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
