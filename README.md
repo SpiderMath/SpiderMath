@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>Good judgement comes from experience. Experience comes from bad judgement.</i><br>
-##### - <b>Jim Horning</b><br>
+##### <i>A beautiful program is like a beautiful theorem: It does the job elegantly.</i><br>
+##### - <b>Butler Lampson</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
