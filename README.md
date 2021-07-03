@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one. </i> <h5> <br>
-##### - <b>Fred Brooks</b><br>
+<blockquote> <h5> <i> It is easier to change the specification to fit the program than vice versa. </i> <h5> <br>
+##### - <b>Alan Perlis</b><br>
 </blockquote>
 <!--PROGRAMMING-QUOTE-BOT:end-->
