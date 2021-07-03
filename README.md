@@ -56,11 +56,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SpiderMath/Random-Programming-Quote-Action/pull/1) in [SpiderMath/Random-Programming-Quote-Action](https://github.com/SpiderMath/Random-Programming-Quote-Action)
-2. 🗣 Commented on [#1](https://github.com/SpiderMath/Random-Programming-Quote-Action/issues/1) in [SpiderMath/Random-Programming-Quote-Action](https://github.com/SpiderMath/Random-Programming-Quote-Action)
-3. 🗣 Commented on [#1](https://github.com/Commandtechno/robert/issues/1) in [Commandtechno/robert](https://github.com/Commandtechno/robert)
-4. ❗️ Opened issue [#1](https://github.com/Commandtechno/robert/issues/1) in [Commandtechno/robert](https://github.com/Commandtechno/robert)
-5. 🗣 Commented on [#3154](https://github.com/discord/discord-api-docs/issues/3154) in [discord/discord-api-docs](https://github.com/discord/discord-api-docs)
+1. ❌ Closed PR [#3](https://github.com/SpiderMath/SpiderMath/pull/3) in [SpiderMath/SpiderMath](https://github.com/SpiderMath/SpiderMath)
+2. 🗣 Commented on [#3](https://github.com/SpiderMath/SpiderMath/issues/3) in [SpiderMath/SpiderMath](https://github.com/SpiderMath/SpiderMath)
+3. 🎉 Merged PR [#1](https://github.com/SpiderMath/Random-Programming-Quote-Action/pull/1) in [SpiderMath/Random-Programming-Quote-Action](https://github.com/SpiderMath/Random-Programming-Quote-Action)
+4. 🗣 Commented on [#1](https://github.com/SpiderMath/Random-Programming-Quote-Action/issues/1) in [SpiderMath/Random-Programming-Quote-Action](https://github.com/SpiderMath/Random-Programming-Quote-Action)
+5. 🗣 Commented on [#1](https://github.com/Commandtechno/robert/issues/1) in [Commandtechno/robert](https://github.com/Commandtechno/robert)
 <!--END_SECTION:activity-->
 <hr>
 
