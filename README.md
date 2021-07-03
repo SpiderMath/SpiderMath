@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road.</i><br>
-##### - <b>Stewart Brand</b><br>
+##### <i>Good judgement comes from experience. Experience comes from bad judgement.</i><br>
+##### - <b>Jim Horning</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
