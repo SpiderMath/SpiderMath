@@ -66,6 +66,6 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-##### <i>With artificial intelligence we are summoning the demon.</i><br>
-##### - <b>Elon Musk</b><br>
+##### <i>Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.</i><br>
+##### - <b>Danny Hillis</b><br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
