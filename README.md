@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Artificial intelligence is the science of making machines do things that would require intelligence if done by men. </i> </h5>
-<h5> - <b>Marvin Minsky</b> </h5> </blockquote>
+<blockquote> <h5> <i> Within a computer, natural language is unnatural. </i> </h5>
+<h5> - <b>Alan Perlis</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
