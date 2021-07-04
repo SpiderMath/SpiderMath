@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Imagination is more important than knowledge. </i> </h5>
-<h5> - <b>Albert Einstein</b> </h5> </blockquote>
+<blockquote> <h5> <i> There are only two kinds of languages: the ones people complain about and the ones nobody uses. </i> </h5>
+<h5> - <b>Bjarne Stroustrup</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
