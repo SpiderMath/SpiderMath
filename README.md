@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number. </i> </h5>
-<h5> - <b>John von Neumann</b> </h5> </blockquote>
+<blockquote> <h5> <i> Never trust a computer you can’t throw out a window. </i> </h5>
+<h5> - <b>Steve Wozniak</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
