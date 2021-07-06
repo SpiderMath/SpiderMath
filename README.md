@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Sometimes it’s just easier to throw a system away, and start over. </i> </h5>
-<h5> - <b>Joseph Yoder (computer scientist)</b> </h5> </blockquote>
+<blockquote> <h5> <i> In theory, there is no difference between theory and practice. But, in practice, there is. </i> </h5>
+<h5> - <b>Jan L. A. van de Snepscheut</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
