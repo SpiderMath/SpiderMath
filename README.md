@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> A language that doesn’t have everything is actually easier to program in than some that do. </i> </h5>
-<h5> - <b>Dennis Ritchie</b> </h5> </blockquote>
+<blockquote> <h5> <i> A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine. </i> </h5>
+<h5> - <b>Alan Turing</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
