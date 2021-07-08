@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it. </i> </h5>
-<h5> - <b>Anders Hejlsberg</b> </h5> </blockquote>
+<blockquote> <h5> <i> Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging. </i> </h5>
+<h5> - <b>Douglas Crockford</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
