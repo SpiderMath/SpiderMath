@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out. </i> </h5>
-<h5> - <b>Fred Brooks</b> </h5> </blockquote>
+<blockquote> <h5> <i> Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for. </i> </h5>
+<h5> - <b>Chris Sacca</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
