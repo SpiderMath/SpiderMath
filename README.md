@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date. </i> </h5>
-<h5> - <b>James Gleick</b> </h5> </blockquote>
+<blockquote> <h5> <i> Very good professional programmers are ten times as productive as poor ones, at same training and two-year experience level. </i> </h5>
+<h5> - <b>Fred Brooks</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
