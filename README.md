@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> If you start removing things, if you get to the point where if you were to remove anything more it would not work any more — at this point it is beautiful. </i> </h5>
-<h5> - <b>Joe Armstrong (programmer)</b> </h5> </blockquote>
+<blockquote> <h5> <i> There are some basic techniques to control complexity. Fundamentally, I divide and conquer, break things down, and try to write reasonably precise descriptions of what each piece is supposed to do. </i> </h5>
+<h5> - <b>Butler Lampson</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
