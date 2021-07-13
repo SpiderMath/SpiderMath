@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity. </i> </h5>
-<h5> - <b>William Wulf</b> </h5> </blockquote>
+<blockquote> <h5> <i> A language that doesn't affect the way you think about programming, is not worth knowing. </i> </h5>
+<h5> - <b>Alan Perlis</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
