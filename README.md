@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence. </i> </h5>
-<h5> - <b>Jeremy S. Anderson</b> </h5> </blockquote>
+<blockquote> <h5> <i> The purpose of software engineering is to control complexity, not to create it. </i> </h5>
+<h5> - <b>Pamela Zave</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
