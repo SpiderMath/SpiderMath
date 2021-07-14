@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Software engineering is the part of computer science which is too difficult for the computer scientist. </i> </h5>
-<h5> - <b>Friedrich Bauer</b> </h5> </blockquote>
+<blockquote> <h5> <i> Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires. </i> </h5>
+<h5> - <b>Andy Hertzfeld</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
