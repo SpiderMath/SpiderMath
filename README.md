@@ -56,11 +56,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/AaryanKhClasses/BaccRPC-Maker/pull/2) in [AaryanKhClasses/BaccRPC-Maker](https://github.com/AaryanKhClasses/BaccRPC-Maker)
-2. 💪 Opened PR [#2](https://github.com/AaryanKhClasses/BaccRPC-Maker/pull/2) in [AaryanKhClasses/BaccRPC-Maker](https://github.com/AaryanKhClasses/BaccRPC-Maker)
-3. 🎉 Merged PR [#1](https://github.com/SpiderMath/Bacc/pull/1) in [SpiderMath/Bacc](https://github.com/SpiderMath/Bacc)
-4. 💪 Opened PR [#1](https://github.com/SpiderMath/Bacc/pull/1) in [SpiderMath/Bacc](https://github.com/SpiderMath/Bacc)
-5. 🗣 Commented on [#2](https://github.com/AaryanKhClasses/Bacc/issues/2) in [AaryanKhClasses/Bacc](https://github.com/AaryanKhClasses/Bacc)
+1. 🗣 Commented on [#1](https://github.com/SpiderMath/Aki-API.ts/issues/1) in [SpiderMath/Aki-API.ts](https://github.com/SpiderMath/Aki-API.ts)
+2. 🎉 Merged PR [#2](https://github.com/AaryanKhClasses/BaccRPC-Maker/pull/2) in [AaryanKhClasses/BaccRPC-Maker](https://github.com/AaryanKhClasses/BaccRPC-Maker)
+3. 💪 Opened PR [#2](https://github.com/AaryanKhClasses/BaccRPC-Maker/pull/2) in [AaryanKhClasses/BaccRPC-Maker](https://github.com/AaryanKhClasses/BaccRPC-Maker)
+4. 🎉 Merged PR [#1](https://github.com/SpiderMath/Bacc/pull/1) in [SpiderMath/Bacc](https://github.com/SpiderMath/Bacc)
+5. 💪 Opened PR [#1](https://github.com/SpiderMath/Bacc/pull/1) in [SpiderMath/Bacc](https://github.com/SpiderMath/Bacc)
 <!--END_SECTION:activity-->
 <hr>
 
