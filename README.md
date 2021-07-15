@@ -66,7 +66,9 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Software gets slower faster than hardware gets faster. </i> </h5>
-<h5> - <b>Niklaus Wirth</b> </h5> </blockquote>
+<blockquote> <h5> <i> Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood! </i> </h5>
+<h5> - <b>Michael A. Jackson</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
