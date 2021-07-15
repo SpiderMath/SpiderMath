@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> One of my most productive days was throwing away 1,000 lines of code. </i> </h5>
-<h5> - <b>Ken Thompson</b> </h5> </blockquote>
+<blockquote> <h5> <i> Deleted code is debugged code. </i> </h5>
+<h5> - <b>Jeff Sickel</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
