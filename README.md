@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> If I had followed my heart instead of advice, dBASE would be much closer to perfection today. </i> </h5>
-<h5> - <b>Wayne Ratliff</b> </h5> </blockquote>
+<blockquote> <h5> <i> What is simplicity? Simplicity is the shortest path to a solution. </i> </h5>
+<h5> - <b>Ward Cunningham</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
