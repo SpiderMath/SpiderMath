@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more. </i> </h5>
-<h5> - <b>Jim Horning</b> </h5> </blockquote>
+<blockquote> <h5> <i> I characterize functional programming as a radical and elegant attack on the whole enterprise of writing programs. </i> </h5>
+<h5> - <b>Simon Peyton Jones</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
