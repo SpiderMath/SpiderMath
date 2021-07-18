@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode. </i> </h5>
-<h5> - <b>Dennis Ritchie</b> </h5> </blockquote>
+<blockquote> <h5> <i> Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems. </i> </h5>
+<h5> - <b>Jamie Zawinski</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
