@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Even in the games of children there are things to interest the greatest mathematician. </i> </h5>
-<h5> - <b>Gottfried Wilhelm Leibniz</b> </h5> </blockquote>
+<blockquote> <h5> <i> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. </i> </h5>
+<h5> - <b>Martin Fowler</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
