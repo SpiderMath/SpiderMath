@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Everything should be made as simple as possible. But to do that you have to master complexity. </i> </h5>
-<h5> - <b>Butler Lampson</b> </h5> </blockquote>
+<blockquote> <h5> <i> If you need more than 3 levels of indentation, you're screwed anyway, and should fix your program. </i> </h5>
+<h5> - <b>Linus Torvalds</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
