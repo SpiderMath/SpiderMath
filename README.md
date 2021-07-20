@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step. </i> </h5>
-<h5> - <b>Fred Brooks</b> </h5> </blockquote>
+<blockquote> <h5> <i> Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number. </i> </h5>
+<h5> - <b>John von Neumann</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
