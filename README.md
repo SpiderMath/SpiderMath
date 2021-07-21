@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The top 5% of programmers probably write 99% of the good software. </i> </h5>
-<h5> - <b>Paul Graham (programmer)</b> </h5> </blockquote>
+<blockquote> <h5> <i> Success is a lousy teacher. It seduces smart people into thinking they can't lose. </i> </h5>
+<h5> - <b>Bill Gates</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
