@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones. </i> </h5>
-<h5> - <b>Terry Winograd</b> </h5> </blockquote>
+<blockquote> <h5> <i> Computer programs are the most complex things that humans make. </i> </h5>
+<h5> - <b>Douglas Crockford</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
