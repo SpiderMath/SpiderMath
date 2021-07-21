@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The most effective debugging tool is still careful thought, coupled with judiciously placed print statements. </i> </h5>
-<h5> - <b>Brian Kernighan</b> </h5> </blockquote>
+<blockquote> <h5> <i> There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better. </i> </h5>
+<h5> - <b>Marijn Haverbeke</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
