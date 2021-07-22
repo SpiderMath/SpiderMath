@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> A computer shall not waste your time or require you to do more work than is strictly necessary. </i> </h5>
-<h5> - <b>Jef Raskin</b> </h5> </blockquote>
+<blockquote> <h5> <i> If builders built houses the way programmers built programs, the first woodpecker to come along would destroy civilization. </i> </h5>
+<h5> - <b>Gerald Weinberg</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
