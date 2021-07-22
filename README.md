@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality. </i> </h5>
-<h5> - <b>Donald Knuth</b> </h5> </blockquote>
+<blockquote> <h5> <i> It's not so important what you work on, so long as you're not wasting your time. </i> </h5>
+<h5> - <b>Paul Graham (programmer)</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
