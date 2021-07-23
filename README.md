@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs. </i> </h5>
-<h5> - <b>Marijn Haverbeke</b> </h5> </blockquote>
+<blockquote> <h5> <i> People should be able to speak and breathe programs just like they talk now. </i> </h5>
+<h5> - <b>Jaron Lanier</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
