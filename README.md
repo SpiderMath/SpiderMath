@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work. </i> </h5>
-<h5> - <b>John Gall (author)</b> </h5> </blockquote>
+<blockquote> <h5> <i> More computing sins are committed in the name of efficiency (without necessarily achieving it) than for any other single reason - including blind stupidity. </i> </h5>
+<h5> - <b>William Wulf</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
