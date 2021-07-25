@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Less code equals less bugs. </i> </h5>
-<h5> - <b>Kevlin Henney</b> </h5> </blockquote>
+<blockquote> <h5> <i> The entire history of software engineering is that of the rise in levels of abstraction. </i> </h5>
+<h5> - <b>Grady Booch</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
