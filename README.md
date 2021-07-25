@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> I don't comment on the code itself because I feel that properly written code is very much self-documented. </i> </h5>
-<h5> - <b>Gary Kildall</b> </h5> </blockquote>
+<blockquote> <h5> <i> A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful. </i> </h5>
+<h5> - <b>John von Neumann</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
