@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-) </i> </h5>
-<h5> - <b>Linus Torvalds</b> </h5> </blockquote>
+<blockquote> <h5> <i> With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature. </i> </h5>
+<h5> - <b>Danny Hillis</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
