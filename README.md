@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The trouble with programmers is that you can never tell what a programmer is doing until it’s too late. </i> </h5>
-<h5> - <b>Seymour Cray</b> </h5> </blockquote>
+<blockquote> <h5> <i> The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing. </i> </h5>
+<h5> - <b>Manuel Blum</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
