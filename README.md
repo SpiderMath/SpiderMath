@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it. </i> </h5>
-<h5> - <b>Vannevar Bush</b> </h5> </blockquote>
+<blockquote> <h5> <i> The manager's function is not to make people work, but to make it possible for people to work. </i> </h5>
+<h5> - <b>Tom DeMarco</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
