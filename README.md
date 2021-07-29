@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written. </i> </h5>
-<h5> - <b>Bill Gates</b> </h5> </blockquote>
+<blockquote> <h5> <i> The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data. </i> </h5>
+<h5> - <b>Charles Babbage</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
