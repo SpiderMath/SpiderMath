@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The entire history of software engineering is that of the rise in levels of abstraction. </i> </h5>
-<h5> - <b>Grady Booch</b> </h5> </blockquote>
+<blockquote> <h5> <i> C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off. </i> </h5>
+<h5> - <b>Bjarne Stroustrup</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
