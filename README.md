@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible. </i> </h5>
-<h5> - <b>Danny Hillis</b> </h5> </blockquote>
+<blockquote> <h5> <i> The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself. </i> </h5>
+<h5> - <b>Donald Knuth</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
