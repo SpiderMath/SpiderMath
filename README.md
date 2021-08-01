@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Unix is simple. It just takes a genius to understand its simplicity. </i> </h5>
-<h5> - <b>Dennis Ritchie</b> </h5> </blockquote>
+<blockquote> <h5> <i> As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout. </i> </h5>
+<h5> - <b>Gottfried Wilhelm Leibniz</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
