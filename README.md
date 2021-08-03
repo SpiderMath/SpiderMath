@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The hardest part of design is keeping features out. </i> </h5>
-<h5> - <b>Don Norman</b> </h5> </blockquote>
+<blockquote> <h5> <i> Any product that needs a manual to work is broken. </i> </h5>
+<h5> - <b>Elon Musk</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
