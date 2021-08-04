@@ -32,8 +32,8 @@
 
 ### 📺 YouTube Videos
 <!-- YOUTUBE:START -->
-- [Node.js Basics: Calculator Using Readline Module](https://www.youtube.com/watch?v=QXKqfwliS7U)
-- [Node.js Basics: Taking User Input With The Readline Module Node.js](https://www.youtube.com/watch?v=dTknGVAvAak)
+- [Node.js Basics #1.1: Calculator Using Readline Module](https://www.youtube.com/watch?v=QXKqfwliS7U)
+- [Node.js Basics #1: Taking User Input With The Readline Module Node.js](https://www.youtube.com/watch?v=dTknGVAvAak)
 - [Difference Between const, let & var in JavaScript](https://www.youtube.com/watch?v=9wuZGoOxg9M)
 - [Project Euler in TypeScript: Problem 3 - Largest Prime Factor](https://www.youtube.com/watch?v=DaDziQ4ZRvw)
 - [Project Euler in TypeScript: Problem 2 - Even Fibonacci Numbers](https://www.youtube.com/watch?v=oIsm-KtBW4s)
