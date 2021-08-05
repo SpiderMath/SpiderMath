@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> I have yet to see any problem, however complicated, which when looked at in the right way, did not become more complicated. </i> </h5>
-<h5> - <b>Poul Anderson</b> </h5> </blockquote>
+<blockquote> <h5> <i> A clever person solves a problem. A wise person avoids it. </i> </h5>
+<h5> - <b>Albert Einstein</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
