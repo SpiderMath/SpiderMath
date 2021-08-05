@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important. </i> </h5>
-<h5> - <b>Ward Cunningham</b> </h5> </blockquote>
+<blockquote> <h5> <i> Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it. </i> </h5>
+<h5> - <b>Anders Hejlsberg</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
