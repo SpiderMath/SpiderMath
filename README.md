@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> What I cannot build, I do not understand. </i> </h5>
-<h5> - <b>Richard Feynman</b> </h5> </blockquote>
+<blockquote> <h5> <i> If you think your users are idiots, only idiots will use it. </i> </h5>
+<h5> - <b>Linus Torvalds</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
