@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> I think the best way to supervise is by personal example and by frequent code reviews. </i> </h5>
-<h5> - <b>Charles Simonyi</b> </h5> </blockquote>
+<blockquote> <h5> <i> Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode. </i> </h5>
+<h5> - <b>Dennis Ritchie</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
