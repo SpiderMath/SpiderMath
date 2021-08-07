@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match. </i> </h5>
-<h5> - <b>David Parnas</b> </h5> </blockquote>
+<blockquote> <h5> <i> The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value. </i> </h5>
+<h5> - <b>Ada Lovelace</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
