@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong. </i> </h5>
-<h5> - <b>Arthur C. Clarke</b> </h5> </blockquote>
+<blockquote> <h5> <i> Fancy algorithms are slow when n is small, and n is usually small. </i> </h5>
+<h5> - <b>Rob Pike</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
