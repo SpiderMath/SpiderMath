@@ -56,11 +56,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/SpiderMath/Discord-Multipurpose/issues/7) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
-2. 🗣 Commented on [#7](https://github.com/SpiderMath/Discord-Multipurpose/issues/7) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
-3. 💪 Opened PR [#1](https://github.com/Rubayz/dts-bot/pull/1) in [Rubayz/dts-bot](https://github.com/Rubayz/dts-bot)
-4. 🗣 Commented on [#26](https://github.com/shadeoxide/weather-with-issues/issues/26) in [shadeoxide/weather-with-issues](https://github.com/shadeoxide/weather-with-issues)
-5. 🗣 Commented on [#26](https://github.com/shadeoxide/weather-with-issues/issues/26) in [shadeoxide/weather-with-issues](https://github.com/shadeoxide/weather-with-issues)
+1. ❗️ Opened issue [#1](https://github.com/AaryanKhClasses/CC1-Calculator/issues/1) in [AaryanKhClasses/CC1-Calculator](https://github.com/AaryanKhClasses/CC1-Calculator)
+2. ❗️ Opened issue [#1](https://github.com/Rubayz/musicity/issues/1) in [Rubayz/musicity](https://github.com/Rubayz/musicity)
+3. ❗️ Closed issue [#7](https://github.com/SpiderMath/Discord-Multipurpose/issues/7) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
+4. 🗣 Commented on [#7](https://github.com/SpiderMath/Discord-Multipurpose/issues/7) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
+5. 🗣 Commented on [#7](https://github.com/SpiderMath/Discord-Multipurpose/issues/7) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
 <!--END_SECTION:activity-->
 <hr>
 
