@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it. </i> </h5>
-<h5> - <b>Brian Kernighan</b> </h5> </blockquote>
+<blockquote> <h5> <i> The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast. </i> </h5>
+<h5> - <b>Joshua Bloch</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
