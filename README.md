@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The more code you have, the more places there are for bugs to hide. </i> </h5>
-<h5> - <b>Rich Skrenta</b> </h5> </blockquote>
+<blockquote> <h5> <i> I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care. </i> </h5>
+<h5> - <b>Charles Simonyi</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
