@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed. </i> </h5>
-<h5> - <b>Alan Perlis</b> </h5> </blockquote>
+<blockquote> <h5> <i> Computer programs are the most complex things that humans make. </i> </h5>
+<h5> - <b>Douglas Crockford</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
