@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> To be a hacker - when I use the term - is somebody who is creative and does wonderful things. </i> </h5>
-<h5> - <b>Tim Berners-Lee</b> </h5> </blockquote>
+<blockquote> <h5> <i> Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging. </i> </h5>
+<h5> - <b>Douglas Crockford</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
