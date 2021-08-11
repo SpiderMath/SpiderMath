@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Just because you've implemented something doesn't mean you understand it. </i> </h5>
-<h5> - <b>Brian Cantwell Smith</b> </h5> </blockquote>
+<blockquote> <h5> <i> The only way to learn a new programming language is by writing programs in it. </i> </h5>
+<h5> - <b>Dennis Ritchie</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
