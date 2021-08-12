@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind. </i> </h5>
-<h5> - <b>Ted Nelson</b> </h5> </blockquote>
+<blockquote> <h5> <i> Programs must be written for people to read, and only incidentally for machines to execute. </i> </h5>
+<h5> - <b>Hal Abelson</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
