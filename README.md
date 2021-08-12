@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> I'm doing a free operating system (just a hobby, won't be big and professional like GNU). </i> </h5>
+<blockquote> <h5> <i> An infinite number of monkeys typing into GNU Emacs would never make a good program. </i> </h5>
 <h5> - <b>Linus Torvalds</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
