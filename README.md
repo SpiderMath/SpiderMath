@@ -56,10 +56,10 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/AaryanKhClasses/CC1-Calculator/issues/1) in [AaryanKhClasses/CC1-Calculator](https://github.com/AaryanKhClasses/CC1-Calculator)
-2. ❗️ Opened issue [#1](https://github.com/Rubayz/musicity/issues/1) in [Rubayz/musicity](https://github.com/Rubayz/musicity)
-3. ❗️ Closed issue [#7](https://github.com/SpiderMath/Discord-Multipurpose/issues/7) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
-4. 🗣 Commented on [#7](https://github.com/SpiderMath/Discord-Multipurpose/issues/7) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
+1. 💪 Opened PR [#27](https://github.com/hasib-rashid/Falcon/pull/27) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+2. ❗️ Opened issue [#1](https://github.com/AaryanKhClasses/CC1-Calculator/issues/1) in [AaryanKhClasses/CC1-Calculator](https://github.com/AaryanKhClasses/CC1-Calculator)
+3. ❗️ Opened issue [#1](https://github.com/Rubayz/musicity/issues/1) in [Rubayz/musicity](https://github.com/Rubayz/musicity)
+4. ❗️ Closed issue [#7](https://github.com/SpiderMath/Discord-Multipurpose/issues/7) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
 5. 🗣 Commented on [#7](https://github.com/SpiderMath/Discord-Multipurpose/issues/7) in [SpiderMath/Discord-Multipurpose](https://github.com/SpiderMath/Discord-Multipurpose)
 <!--END_SECTION:activity-->
 <hr>
