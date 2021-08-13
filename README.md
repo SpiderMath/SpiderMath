@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer. </i> </h5>
-<h5> - <b>Marvin Minsky</b> </h5> </blockquote>
+<blockquote> <h5> <i> It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans. </i> </h5>
+<h5> - <b>Steve Jobs</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
