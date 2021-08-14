@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off. </i> </h5>
-<h5> - <b>Bjarne Stroustrup</b> </h5> </blockquote>
+<blockquote> <h5> <i> If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes. </i> </h5>
+<h5> - <b>Bill Gates</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
