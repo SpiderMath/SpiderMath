@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> If you learn how to solve problems, you can go through life and do pretty well. </i> </h5>
-<h5> - <b>Gary Kildall</b> </h5> </blockquote>
+<blockquote> <h5> <i> With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature. </i> </h5>
+<h5> - <b>Danny Hillis</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
