@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes. </i> </h5>
-<h5> - <b>Richard Hamming</b> </h5> </blockquote>
+<blockquote> <h5> <i> The Domain Name Server (DNS) is the Achilles heel of the Web. </i> </h5>
+<h5> - <b>Tim Berners-Lee</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
