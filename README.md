@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The Domain Name Server (DNS) is the Achilles heel of the Web. </i> </h5>
-<h5> - <b>Tim Berners-Lee</b> </h5> </blockquote>
+<blockquote> <h5> <i> What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds. </i> </h5>
+<h5> - <b>Steve Jobs</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
