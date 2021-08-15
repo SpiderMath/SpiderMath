@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Everything should be made as simple as possible. But to do that you have to master complexity. </i> </h5>
-<h5> - <b>Butler Lampson</b> </h5> </blockquote>
+<blockquote> <h5> <i> A programming language is low level when its programs require attention to the irrelevant. </i> </h5>
+<h5> - <b>Alan Perlis</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
