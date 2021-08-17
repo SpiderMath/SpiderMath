@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The amateur software engineer is always in search of magic, some sensational method or tool whose application promises to render software development trivial. It is the mark of the professional software engineer to know that no such panacea exist. </i> </h5>
-<h5> - <b>Grady Booch</b> </h5> </blockquote>
+<blockquote> <h5> <i> If we’d asked the customers what they wanted, they would have said “faster horses”. </i> </h5>
+<h5> - <b>Henry Ford</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
