@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Walking on water and developing software from a specification are easy if both are frozen. </i> </h5>
-<h5> - <b>Edward V. Berard</b> </h5> </blockquote>
+<blockquote> <h5> <i> I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there. </i> </h5>
+<h5> - <b>Donald Knuth</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
