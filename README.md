@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds. </i> </h5>
-<h5> - <b>Fred Brooks</b> </h5> </blockquote>
+<blockquote> <h5> <i> I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code. </i> </h5>
+<h5> - <b>Gary Kildall</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
