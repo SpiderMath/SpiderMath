@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature. </i> </h5>
-<h5> - <b>Ada Lovelace</b> </h5> </blockquote>
+<blockquote> <h5> <i> That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted. </i> </h5>
+<h5> - <b>George Boole</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
