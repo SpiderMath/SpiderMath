@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code. </i> </h5>
-<h5> - <b>Gary Kildall</b> </h5> </blockquote>
+<blockquote> <h5> <i> Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect. </i> </h5>
+<h5> - <b>George Boole</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
