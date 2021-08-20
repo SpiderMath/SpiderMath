@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new. </i> </h5>
-<h5> - <b>Steve Jobs</b> </h5> </blockquote>
+<blockquote> <h5> <i> Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important. </i> </h5>
+<h5> - <b>Ward Cunningham</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
