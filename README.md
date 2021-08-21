@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> When I invented the web, I didn't have to ask anyone's permission. </i> </h5>
-<h5> - <b>Tim Berners-Lee</b> </h5> </blockquote>
+<blockquote> <h5> <i> Every time you improve process, work becomes harder. </i> </h5>
+<h5> - <b>Daniel T. Barry</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
