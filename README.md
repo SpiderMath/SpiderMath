@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Cleaning code does NOT take time. NOT cleaning code does take time. </i> </h5>
-<h5> - <b>Robert C. Martin</b> </h5> </blockquote>
+<blockquote> <h5> <i> Every good work of software starts by scratching a developer’s personal itch. </i> </h5>
+<h5> - <b>Eric S. Raymond</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
