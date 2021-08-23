@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> An evolving system increases its complexity unless work is done to reduce it. </i> </h5>
-<h5> - <b>Manny Lehman (computer scientist)</b> </h5> </blockquote>
+<blockquote> <h5> <i> What I cannot build, I do not understand. </i> </h5>
+<h5> - <b>Richard Feynman</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
