@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> One of my most productive days was throwing away 1,000 lines of code. </i> </h5>
-<h5> - <b>Ken Thompson</b> </h5> </blockquote>
+<blockquote> <h5> <i> Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes. </i> </h5>
+<h5> - <b>Harlan Mills</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
