@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes. </i> </h5>
-<h5> - <b>Harlan Mills</b> </h5> </blockquote>
+<blockquote> <h5> <i> Mental qualities peculiar to human-like motivational structures, such as love and hate, will not be required for intelligent behavior, but we could probably program computers to exhibit them if we wanted to. </i> </h5>
+<h5> - <b>John McCarthy (computer scientist)</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
