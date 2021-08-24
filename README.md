@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The manager's function is not to make people work, but to make it possible for people to work. </i> </h5>
-<h5> - <b>Tom DeMarco</b> </h5> </blockquote>
+<blockquote> <h5> <i> A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work. </i> </h5>
+<h5> - <b>John Gall (author)</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
