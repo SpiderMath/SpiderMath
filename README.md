@@ -56,11 +56,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/hasib-rashid/Falcon/issues/27) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+1. ❗️ Closed issue [#1](https://github.com/SpiderMath/Staff-List-DiscordBot/issues/1) in [SpiderMath/Staff-List-DiscordBot](https://github.com/SpiderMath/Staff-List-DiscordBot)
 2. 🗣 Commented on [#27](https://github.com/hasib-rashid/Falcon/issues/27) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-3. 💪 Opened PR [#27](https://github.com/hasib-rashid/Falcon/pull/27) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-4. ❗️ Opened issue [#1](https://github.com/AaryanKhClasses/CC1-Calculator/issues/1) in [AaryanKhClasses/CC1-Calculator](https://github.com/AaryanKhClasses/CC1-Calculator)
-5. ❗️ Opened issue [#1](https://github.com/Rubayz/musicity/issues/1) in [Rubayz/musicity](https://github.com/Rubayz/musicity)
+3. 🗣 Commented on [#27](https://github.com/hasib-rashid/Falcon/issues/27) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+4. 💪 Opened PR [#27](https://github.com/hasib-rashid/Falcon/pull/27) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+5. ❗️ Opened issue [#1](https://github.com/AaryanKhClasses/CC1-Calculator/issues/1) in [AaryanKhClasses/CC1-Calculator](https://github.com/AaryanKhClasses/CC1-Calculator)
 <!--END_SECTION:activity-->
 <hr>
 
