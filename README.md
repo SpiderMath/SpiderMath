@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Whenever logical processes of thought are employed, there is an opportunity for the machine. </i> </h5>
-<h5> - <b>Vannevar Bush</b> </h5> </blockquote>
+<blockquote> <h5> <i> I never in my wildest dreams would have predicted the evolution of the Internet. And I never would’ve predicted the degree to which corporate influence over the Internet has changed its character over time. </i> </h5>
+<h5> - <b>L. Peter Deutsch</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
