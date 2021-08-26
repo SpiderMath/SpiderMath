@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software. </i> </h5>
-<h5> - <b>L. Peter Deutsch</b> </h5> </blockquote>
+<blockquote> <h5> <i> In theory, there is no difference between theory and practice. But, in practice, there is. </i> </h5>
+<h5> - <b>Jan L. A. van de Snepscheut</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
