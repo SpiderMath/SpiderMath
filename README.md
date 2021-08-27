@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Success is a lousy teacher. It seduces smart people into thinking they can't lose. </i> </h5>
-<h5> - <b>Bill Gates</b> </h5> </blockquote>
+<blockquote> <h5> <i> The use of COBOL cripples the mind; its teaching should, therefore, be regarded as a criminal offense. </i> </h5>
+<h5> - <b>Edsger W. Dijkstra</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
