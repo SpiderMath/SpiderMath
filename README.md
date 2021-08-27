@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> So much complexity in software comes from trying to make one thing do two things. </i> </h5>
-<h5> - <b>Ryan Singer</b> </h5> </blockquote>
+<blockquote> <h5> <i> As soon as an Analytical Engine exists, it will necessarily guide the future course of science. </i> </h5>
+<h5> - <b>Charles Babbage</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
