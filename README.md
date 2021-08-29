@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Ideas don't disappear. They change form, they merge with other ideas. </i> </h5>
-<h5> - <b>Bob Frankston</b> </h5> </blockquote>
+<blockquote> <h5> <i> An evolving system increases its complexity unless work is done to reduce it. </i> </h5>
+<h5> - <b>Manny Lehman (computer scientist)</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
