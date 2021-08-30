@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> And programming computers was so fascinating. You create your own little universe, and then it does what you tell it to do. </i> </h5>
-<h5> - <b>Vint Cerf</b> </h5> </blockquote>
+<blockquote> <h5> <i> That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted. </i> </h5>
+<h5> - <b>George Boole</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
