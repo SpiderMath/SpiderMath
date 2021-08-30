@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> A beautiful program is like a beautiful theorem: It does the job elegantly. </i> </h5>
-<h5> - <b>Butler Lampson</b> </h5> </blockquote>
+<blockquote> <h5> <i> One of the important implications of technical debt is that it must be serviced. If the debt grows large enough, eventually the company will spend more on servicing its debt than it invests in increasing the value of its other assets. </i> </h5>
+<h5> - <b>Steve McConnell</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
