@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> A skilled programmer is like a poet who can put into words those ideas that others find inexpressible. </i> </h5>
-<h5> - <b>Danny Hillis</b> </h5> </blockquote>
+<blockquote> <h5> <i> The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person. </i> </h5>
+<h5> - <b>Charles Simonyi</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
