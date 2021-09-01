@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> When you build a prototype, there is always the risk that someone will say "that's good enough, ship it". One way to minimize the risk of a prototype being put into production is to write the prototype in using a language or tool that you couldn't possibly use for a production version. </i> </h5>
-<h5> - <b>Joseph Yoder (computer scientist)</b> </h5> </blockquote>
+<blockquote> <h5> <i> I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully. </i> </h5>
+<h5> - <b>David Parnas</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
