@@ -56,11 +56,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SpiderMath/zoombie/pull/1) in [SpiderMath/zoombie](https://github.com/SpiderMath/zoombie)
-2. 💪 Opened PR [#1](https://github.com/SpiderMath/zoombie/pull/1) in [SpiderMath/zoombie](https://github.com/SpiderMath/zoombie)
-3. 💪 Opened PR [#1](https://github.com/DaBigBlob/zoombie/pull/1) in [DaBigBlob/zoombie](https://github.com/DaBigBlob/zoombie)
-4. ❗️ Opened issue [#25](https://github.com/braydoncoyer/officeapi/issues/25) in [braydoncoyer/officeapi](https://github.com/braydoncoyer/officeapi)
-5. ❗️ Closed issue [#1](https://github.com/SpiderMath/Staff-List-DiscordBot/issues/1) in [SpiderMath/Staff-List-DiscordBot](https://github.com/SpiderMath/Staff-List-DiscordBot)
+1. 💪 Opened PR [#4](https://github.com/DaBigBlob/zoombie/pull/4) in [DaBigBlob/zoombie](https://github.com/DaBigBlob/zoombie)
+2. 💪 Opened PR [#3](https://github.com/DaBigBlob/zoombie/pull/3) in [DaBigBlob/zoombie](https://github.com/DaBigBlob/zoombie)
+3. 💪 Opened PR [#2](https://github.com/DaBigBlob/zoombie/pull/2) in [DaBigBlob/zoombie](https://github.com/DaBigBlob/zoombie)
+4. 🎉 Merged PR [#1](https://github.com/SpiderMath/zoombie/pull/1) in [SpiderMath/zoombie](https://github.com/SpiderMath/zoombie)
+5. 💪 Opened PR [#1](https://github.com/SpiderMath/zoombie/pull/1) in [SpiderMath/zoombie](https://github.com/SpiderMath/zoombie)
 <!--END_SECTION:activity-->
 <hr>
 
