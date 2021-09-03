@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more. </i> </h5>
-<h5> - <b>Jim Horning</b> </h5> </blockquote>
+<blockquote> <h5> <i> A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland. </i> </h5>
+<h5> - <b>Ivan Sutherland</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
