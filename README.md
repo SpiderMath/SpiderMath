@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> I think the best way to supervise is by personal example and by frequent code reviews. </i> </h5>
-<h5> - <b>Charles Simonyi</b> </h5> </blockquote>
+<blockquote> <h5> <i> There's nothing more permanent than a temporary hack. </i> </h5>
+<h5> - <b>Kyle Simpson</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
