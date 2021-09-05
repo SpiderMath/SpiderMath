@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Good software, like good wine, takes time. </i> </h5>
-<h5> - <b>Joel Spolsky</b> </h5> </blockquote>
+<blockquote> <h5> <i> Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step. </i> </h5>
+<h5> - <b>Fred Brooks</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
