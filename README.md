@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Within C++, there is a much smaller and cleaner language struggling to get out. </i> </h5>
-<h5> - <b>Bjarne Stroustrup</b> </h5> </blockquote>
+<blockquote> <h5> <i> The manager's function is not to make people work, but to make it possible for people to work. </i> </h5>
+<h5> - <b>Tom DeMarco</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
