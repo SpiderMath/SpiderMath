@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> People under pressure don’t work better; they just work faster. </i> </h5>
-<h5> - <b>Tom DeMarco</b> </h5> </blockquote>
+<blockquote> <h5> <i> The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one. </i> </h5>
+<h5> - <b>Mario Fusco</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
