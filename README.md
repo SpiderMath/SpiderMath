@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one. </i> </h5>
-<h5> - <b>Mario Fusco</b> </h5> </blockquote>
+<blockquote> <h5> <i> The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman. </i> </h5>
+<h5> - <b>Alan Perlis</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
