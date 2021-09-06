@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes. </i> </h5>
-<h5> - <b>Richard Hamming</b> </h5> </blockquote>
+<blockquote> <h5> <i> As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout. </i> </h5>
+<h5> - <b>Gottfried Wilhelm Leibniz</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
