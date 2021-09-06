@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout. </i> </h5>
-<h5> - <b>Gottfried Wilhelm Leibniz</b> </h5> </blockquote>
+<blockquote> <h5> <i> Fancy algorithms are slow when n is small, and n is usually small. </i> </h5>
+<h5> - <b>Rob Pike</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
