@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them. </i> </h5>
-<h5> - <b>Bill Gates</b> </h5> </blockquote>
+<blockquote> <h5> <i> Are you quite sure that all those bells and whistles, all those wonderful facilities of your so called powerful programming languages, belong to the solution set rather than the problem set? </i> </h5>
+<h5> - <b>Edsger W. Dijkstra</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
