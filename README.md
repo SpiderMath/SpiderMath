@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> If I had followed my heart instead of advice, dBASE would be much closer to perfection today. </i> </h5>
-<h5> - <b>Wayne Ratliff</b> </h5> </blockquote>
+<blockquote> <h5> <i> Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless. </i> </h5>
+<h5> - <b>Addy Osmani</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
