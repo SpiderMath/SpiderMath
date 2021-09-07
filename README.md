@@ -66,7 +66,8 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires. </i> </h5>
-<h5> - <b>Andy Hertzfeld</b> </h5> </blockquote>
+<blockquote> <h5> <i> I think the best way to make JavaScript better would be to
+make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language. </i> </h5>
+<h5> - <b>Douglas Crockford</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
