@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The proper use of comments is to compensate for our failure to express ourself in code. </i> </h5>
-<h5> - <b>Robert C. Martin</b> </h5> </blockquote>
+<blockquote> <h5> <i> I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code. </i> </h5>
+<h5> - <b>Gary Kildall</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
