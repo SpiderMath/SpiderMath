@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code. </i> </h5>
-<h5> - <b>Gary Kildall</b> </h5> </blockquote>
+<blockquote> <h5> <i> What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring. </i> </h5>
+<h5> - <b>Tim Berners-Lee</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
