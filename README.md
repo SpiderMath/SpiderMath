@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Good judgement comes from experience. Experience comes from bad judgement. </i> </h5>
-<h5> - <b>Jim Horning</b> </h5> </blockquote>
+<blockquote> <h5> <i> Any unwillingness to learn mathematics today can greatly restrict your possibilities tomorrow. </i> </h5>
+<h5> - <b>Richard Hamming</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
