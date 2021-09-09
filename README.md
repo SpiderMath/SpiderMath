@@ -57,10 +57,10 @@
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#684](https://github.com/TheAlgorithms/Javascript/issues/684) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
-2. 💪 Opened PR [#684](https://github.com/TheAlgorithms/Javascript/pull/684) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
-3. 💪 Opened PR [#1](https://github.com/DaBigBlob/zoombie-srm/pull/1) in [DaBigBlob/zoombie-srm](https://github.com/DaBigBlob/zoombie-srm)
-4. 💪 Opened PR [#5](https://github.com/DaBigBlob/zoombie/pull/5) in [DaBigBlob/zoombie](https://github.com/DaBigBlob/zoombie)
-5. 💪 Opened PR [#4](https://github.com/DaBigBlob/zoombie/pull/4) in [DaBigBlob/zoombie](https://github.com/DaBigBlob/zoombie)
+2. 🗣 Commented on [#684](https://github.com/TheAlgorithms/Javascript/issues/684) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
+3. 💪 Opened PR [#684](https://github.com/TheAlgorithms/Javascript/pull/684) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
+4. 💪 Opened PR [#1](https://github.com/DaBigBlob/zoombie-srm/pull/1) in [DaBigBlob/zoombie-srm](https://github.com/DaBigBlob/zoombie-srm)
+5. 💪 Opened PR [#5](https://github.com/DaBigBlob/zoombie/pull/5) in [DaBigBlob/zoombie](https://github.com/DaBigBlob/zoombie)
 <!--END_SECTION:activity-->
 <hr>
 
