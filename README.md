@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is. </i> </h5>
-<h5> - <b>Danny Hillis</b> </h5> </blockquote>
+<blockquote> <h5> <i> The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right. </i> </h5>
+<h5> - <b>Michael A. Jackson</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
