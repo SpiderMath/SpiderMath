@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right. </i> </h5>
-<h5> - <b>Michael A. Jackson</b> </h5> </blockquote>
+<blockquote> <h5> <i> The best way to know that you have found the last bug is never to find the first bug. </i> </h5>
+<h5> - <b>Harlan Mills</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
