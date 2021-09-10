@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> A good programmer is someone who looks both ways before crossing a one-way street. </i> </h5>
-<h5> - <b>Doug Linder</b> </h5> </blockquote>
+<blockquote> <h5> <i> I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind. </i> </h5>
+<h5> - <b>Alan Kay</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
