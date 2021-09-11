@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Measuring programming progress by lines of code is like measuring aircraft building progress by weight. </i> </h5>
-<h5> - <b>Bill Gates</b> </h5> </blockquote>
+<blockquote> <h5> <i> Adding manpower to a late software project makes it later. </i> </h5>
+<h5> - <b>Fred Brooks</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
