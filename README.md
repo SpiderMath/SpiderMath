@@ -56,8 +56,8 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/hasib-rashid/Falcon/issues/27) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
-2. 🗣 Commented on [#684](https://github.com/TheAlgorithms/Javascript/issues/684) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
+1. 🗣 Commented on [#684](https://github.com/TheAlgorithms/Javascript/issues/684) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
+2. 🗣 Commented on [#27](https://github.com/hasib-rashid/Falcon/issues/27) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
 3. 🗣 Commented on [#684](https://github.com/TheAlgorithms/Javascript/issues/684) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
 4. 🗣 Commented on [#684](https://github.com/TheAlgorithms/Javascript/issues/684) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
 5. 🗣 Commented on [#684](https://github.com/TheAlgorithms/Javascript/issues/684) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
