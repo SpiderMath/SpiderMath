@@ -59,8 +59,8 @@
 1. 🗣 Commented on [#684](https://github.com/TheAlgorithms/Javascript/issues/684) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
 2. 🗣 Commented on [#684](https://github.com/TheAlgorithms/Javascript/issues/684) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
 3. 🗣 Commented on [#684](https://github.com/TheAlgorithms/Javascript/issues/684) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
-4. 💪 Opened PR [#684](https://github.com/TheAlgorithms/Javascript/pull/684) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
-5. 💪 Opened PR [#1](https://github.com/DaBigBlob/zoombie-srm/pull/1) in [DaBigBlob/zoombie-srm](https://github.com/DaBigBlob/zoombie-srm)
+4. 🗣 Commented on [#684](https://github.com/TheAlgorithms/Javascript/issues/684) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
+5. 💪 Opened PR [#684](https://github.com/TheAlgorithms/Javascript/pull/684) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
 <!--END_SECTION:activity-->
 <hr>
 
