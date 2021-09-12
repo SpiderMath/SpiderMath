@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Everybody should learn to program a computer, because it teaches you how to think. </i> </h5>
-<h5> - <b>Steve Jobs</b> </h5> </blockquote>
+<blockquote> <h5> <i> Documentation is a love letter that you write to your future self. </i> </h5>
+<h5> - <b>Damian Conway</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
