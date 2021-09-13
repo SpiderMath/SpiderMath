@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> A language that doesn't affect the way you think about programming, is not worth knowing. </i> </h5>
-<h5> - <b>Alan Perlis</b> </h5> </blockquote>
+<blockquote> <h5> <i> Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer. </i> </h5>
+<h5> - <b>Jamie Zawinski</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
