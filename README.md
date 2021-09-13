@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The complexity of software is an essential property, not an accidental one. Hence descriptions of a software entity that abstract away its complexity often abstract away its essence. </i> </h5>
-<h5> - <b>Fred Brooks</b> </h5> </blockquote>
+<blockquote> <h5> <i> What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring. </i> </h5>
+<h5> - <b>Tim Berners-Lee</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
