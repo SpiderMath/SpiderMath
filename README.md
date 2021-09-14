@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong. </i> </h5>
-<h5> - <b>Buckminster Fuller</b> </h5> </blockquote>
+<blockquote> <h5> <i> Artificial intelligence is the science of making machines do things that would require intelligence if done by men. </i> </h5>
+<h5> - <b>Marvin Minsky</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
