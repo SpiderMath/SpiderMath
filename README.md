@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer. </i> </h5>
-<h5> - <b>Edsger W. Dijkstra</b> </h5> </blockquote>
+<blockquote> <h5> <i> I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard. </i> </h5>
+<h5> - <b>Ken Thompson</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
