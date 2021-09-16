@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind. </i> </h5>
-<h5> - <b>Ted Nelson</b> </h5> </blockquote>
+<blockquote> <h5> <i> In theory, there is no difference between theory and practice. But, in practice, there is. </i> </h5>
+<h5> - <b>Jan L. A. van de Snepscheut</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
