@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide. </i> </h5>
-<h5> - <b>Martin Fowler</b> </h5> </blockquote>
+<blockquote> <h5> <i> There is no programming language, no matter how structured, that will prevent programmers from making bad programs. </i> </h5>
+<h5> - <b>Lawrence Flon</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
