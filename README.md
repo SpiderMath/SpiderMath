@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> I have met bright students in computer science who have never seen the source code of a large program. They may be good at writing small programs, but they can't begin to learn the different skills of writing large ones if they can't see how others have done it. </i> </h5>
-<h5> - <b>Richard Stallman</b> </h5> </blockquote>
+<blockquote> <h5> <i> You should name a variable using the same care with which you name a first-born child. </i> </h5>
+<h5> - <b>Jim Coplien</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
