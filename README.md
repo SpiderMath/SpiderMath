@@ -66,7 +66,9 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success. </i> </h5>
-<h5> - <b>John Warnock</b> </h5> </blockquote>
+<blockquote> <h5> <i> Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood! </i> </h5>
+<h5> - <b>Michael A. Jackson</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
