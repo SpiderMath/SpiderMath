@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> While much attention has been focused on high-level software architectural patterns, what is, in effect, the de-facto standard software architecture is seldom discussed: the Big Ball of Mud. </i> </h5>
-<h5> - <b>Joseph Yoder (computer scientist)</b> </h5> </blockquote>
+<blockquote> <h5> <i> Software engineering is the part of computer science which is too difficult for the computer scientist. </i> </h5>
+<h5> - <b>Friedrich Bauer</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
