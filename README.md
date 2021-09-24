@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> When there is no type hierarchy you don’t have to manage the type hierarchy. </i> </h5>
-<h5> - <b>Rob Pike</b> </h5> </blockquote>
+<blockquote> <h5> <i> If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes. </i> </h5>
+<h5> - <b>Bill Gates</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
