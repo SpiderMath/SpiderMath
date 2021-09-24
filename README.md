@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> In order to understand recursion, one must first understand recursion. </i> </h5>
-<h5> - <b>Anonymous</b> </h5> </blockquote>
+<blockquote> <h5> <i> Computers themselves can do only stupidly straightforward things. The reason they are so useful is that they do these things at an incredibly high speed. </i> </h5>
+<h5> - <b>Marijn Haverbeke</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
