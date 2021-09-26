@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Every computer language has its Shakespeares, and it is a joy to read their code. A well-written computer program possesses style, finesse, even humor—and a clarity that rivals the best prose. </i> </h5>
-<h5> - <b>Danny Hillis</b> </h5> </blockquote>
+<blockquote> <h5> <i> There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better. </i> </h5>
+<h5> - <b>Marijn Haverbeke</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
