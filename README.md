@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right. </i> </h5>
-<h5> - <b>Michael A. Jackson</b> </h5> </blockquote>
+<blockquote> <h5> <i> What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three. </i> </h5>
+<h5> - <b>Charles Simonyi</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
