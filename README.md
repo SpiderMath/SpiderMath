@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software. </i> </h5>
-<h5> - <b>L. Peter Deutsch</b> </h5> </blockquote>
+<blockquote> <h5> <i> There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence. </i> </h5>
+<h5> - <b>Jeremy S. Anderson</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
