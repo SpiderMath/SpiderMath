@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Debugging time increases as a square of the program’s size. </i> </h5>
-<h5> - <b>Chris Wenham</b> </h5> </blockquote>
+<blockquote> <h5> <i> The most effective debugging tool is still careful thought, coupled with judiciously placed print statements. </i> </h5>
+<h5> - <b>Brian Kernighan</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
