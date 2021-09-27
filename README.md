@@ -56,11 +56,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Commandtechno/robert/issues/1) in [Commandtechno/robert](https://github.com/Commandtechno/robert)
-2. ❗️ Closed issue [#1](https://github.com/SpiderMath/Contrast/issues/1) in [SpiderMath/Contrast](https://github.com/SpiderMath/Contrast)
-3. 🗣 Commented on [#684](https://github.com/TheAlgorithms/Javascript/issues/684) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
-4. 🗣 Commented on [#684](https://github.com/TheAlgorithms/Javascript/issues/684) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
-5. 🗣 Commented on [#27](https://github.com/hasib-rashid/Falcon/issues/27) in [hasib-rashid/Falcon](https://github.com/hasib-rashid/Falcon)
+1. 🗣 Commented on [#44](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker/issues/44) in [ThatOneCalculator/Among-Us-Dumpy-Gif-Maker](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker)
+2. ❗️ Opened issue [#44](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker/issues/44) in [ThatOneCalculator/Among-Us-Dumpy-Gif-Maker](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker)
+3. ❗️ Closed issue [#1](https://github.com/Commandtechno/robert/issues/1) in [Commandtechno/robert](https://github.com/Commandtechno/robert)
+4. ❗️ Closed issue [#1](https://github.com/SpiderMath/Contrast/issues/1) in [SpiderMath/Contrast](https://github.com/SpiderMath/Contrast)
+5. 🗣 Commented on [#684](https://github.com/TheAlgorithms/Javascript/issues/684) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
 <!--END_SECTION:activity-->
 <hr>
 
