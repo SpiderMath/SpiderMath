@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program. </i> </h5>
-<h5> - <b>Linus Torvalds</b> </h5> </blockquote>
+<blockquote> <h5> <i> Every program has (at least) two purposes: the one for which it was written and another for which it wasn't. </i> </h5>
+<h5> - <b>Alan Perlis</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
