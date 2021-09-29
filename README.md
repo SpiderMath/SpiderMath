@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work. </i> </h5>
-<h5> - <b>Michael Hawley</b> </h5> </blockquote>
+<blockquote> <h5> <i> The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down. </i> </h5>
+<h5> - <b>Tom DeMarco</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
