@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Code never lies, comments sometimes do. </i> </h5>
-<h5> - <b>Ron Jeffries</b> </h5> </blockquote>
+<blockquote> <h5> <i> There's nothing more permanent than a temporary hack. </i> </h5>
+<h5> - <b>Kyle Simpson</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
