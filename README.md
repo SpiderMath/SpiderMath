@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design. </i> </h5>
-<h5> - <b>Elon Musk</b> </h5> </blockquote>
+<blockquote> <h5> <i> Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more. </i> </h5>
+<h5> - <b>Jim Horning</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
