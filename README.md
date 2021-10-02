@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application. </i> </h5>
-<h5> - <b>Ted Nelson</b> </h5> </blockquote>
+<blockquote> <h5> <i> We have already mentioned what may, perhaps, appear paradoxical to some of our readers, — that the division of labour can be applied with equal success to mental as to mechanical operations, and that it ensures in both the same economy of time. </i> </h5>
+<h5> - <b>Charles Babbage</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
