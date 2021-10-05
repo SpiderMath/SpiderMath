@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> We have already mentioned what may, perhaps, appear paradoxical to some of our readers, — that the division of labour can be applied with equal success to mental as to mechanical operations, and that it ensures in both the same economy of time. </i> </h5>
-<h5> - <b>Charles Babbage</b> </h5> </blockquote>
+<blockquote> <h5> <i> Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience. </i> </h5>
+<h5> - <b>Wayne Ratliff</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
