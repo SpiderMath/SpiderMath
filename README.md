@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code. </i> </h5>
-<h5> - <b>Douglas Crockford</b> </h5> </blockquote>
+<blockquote> <h5> <i> The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer. </i> </h5>
+<h5> - <b>Alan Turing</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
