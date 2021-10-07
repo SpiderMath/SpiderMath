@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> It’s all talk until the code runs. </i> </h5>
-<h5> - <b>Ward Cunningham</b> </h5> </blockquote>
+<blockquote> <h5> <i> Talk is cheap. Show me the code. </i> </h5>
+<h5> - <b>Linus Torvalds</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
