@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Code never lies, comments sometimes do. </i> </h5>
-<h5> - <b>Ron Jeffries</b> </h5> </blockquote>
+<blockquote> <h5> <i> What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form. </i> </h5>
+<h5> - <b>Dennis Ritchie</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
