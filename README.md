@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> What one programmer can do in one month, two programmers can do in two months. </i> </h5>
+<blockquote> <h5> <i> Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time. </i> </h5>
 <h5> - <b>Fred Brooks</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
