@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience. </i> </h5>
-<h5> - <b>Wayne Ratliff</b> </h5> </blockquote>
+<blockquote> <h5> <i> The programs we use to conjure processes are like a sorcerer's spells. They are carefully composed from symbolic expressions in arcane and esoteric programming languages that prescribe the tasks we want our processes to perform. </i> </h5>
+<h5> - <b>Hal Abelson</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
