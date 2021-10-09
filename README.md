@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> I don't like using any tools or programs I didn't write myself or that I don't have some control over. </i> </h5>
-<h5> - <b>Jonathan Sachs</b> </h5> </blockquote>
+<blockquote> <h5> <i> Good people with a good process will outperform good people with no process every time. </i> </h5>
+<h5> - <b>Grady Booch</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
