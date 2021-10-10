@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Programs must be written for people to read, and only incidentally for machines to execute. </i> </h5>
-<h5> - <b>Hal Abelson</b> </h5> </blockquote>
+<blockquote> <h5> <i> The best thing about a boolean is even if you are wrong, you are only off by a bit. </i> </h5>
+<h5> - <b>Anonymous</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
