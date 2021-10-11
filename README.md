@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability. </i> </h5>
-<h5> - <b>Vannevar Bush</b> </h5> </blockquote>
+<blockquote> <h5> <i> That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted. </i> </h5>
+<h5> - <b>George Boole</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
