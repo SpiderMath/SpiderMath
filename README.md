@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> There are many terrible mistakes to make in program design, so go ahead and make them so that you understand them better. </i> </h5>
-<h5> - <b>Marijn Haverbeke</b> </h5> </blockquote>
+<blockquote> <h5> <i> Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date. </i> </h5>
+<h5> - <b>James Gleick</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
