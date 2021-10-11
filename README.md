@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect. </i> </h5>
-<h5> - <b>Linus Torvalds</b> </h5> </blockquote>
+<blockquote> <h5> <i> The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise. </i> </h5>
+<h5> - <b>Edsger W. Dijkstra</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
