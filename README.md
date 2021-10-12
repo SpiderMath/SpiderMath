@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> With artificial intelligence we are summoning the demon. </i> </h5>
-<h5> - <b>Elon Musk</b> </h5> </blockquote>
+<blockquote> <h5> <i> I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web. </i> </h5>
+<h5> - <b>Tim Berners-Lee</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
