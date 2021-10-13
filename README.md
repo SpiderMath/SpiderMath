@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The most important thing is to be able to think what you want, not to say what you want. </i> </h5>
-<h5> - <b>Paul Graham (programmer)</b> </h5> </blockquote>
+<blockquote> <h5> <i> Really care about the tools you use because they are what make you your best. </i> </h5>
+<h5> - <b>Addy Osmani</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
