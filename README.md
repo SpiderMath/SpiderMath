@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Really care about the tools you use because they are what make you your best. </i> </h5>
-<h5> - <b>Addy Osmani</b> </h5> </blockquote>
+<blockquote> <h5> <i> The purpose of computing is insight, not numbers. </i> </h5>
+<h5> - <b>Richard Hamming</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
