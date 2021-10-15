@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> In theory, there is no difference between theory and practice. But, in practice, there is. </i> </h5>
-<h5> - <b>Jan L. A. van de Snepscheut</b> </h5> </blockquote>
+<blockquote> <h5> <i> A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected. </i> </h5>
+<h5> - <b>Daniel T. Barry</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
