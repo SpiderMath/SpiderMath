@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> I'm interested in creating images that communicate with people. </i> </h5>
-<h5> - <b>Toru Iwatani</b> </h5> </blockquote>
+<blockquote> <h5> <i> A lot of companies hire people to tell them what to do. We hire people to tell us what to do. </i> </h5>
+<h5> - <b>Steve Jobs</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
