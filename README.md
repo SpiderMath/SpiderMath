@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law. </i> </h5>
-<h5> - <b>P. J. Plauger</b> </h5> </blockquote>
+<blockquote> <h5> <i> Once you stop learning you start dying. </i> </h5>
+<h5> - <b>Albert Einstein</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
