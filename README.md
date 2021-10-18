@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Codes are a puzzle. A game, just like any other game. </i> </h5>
-<h5> - <b>Alan Turing</b> </h5> </blockquote>
+<blockquote> <h5> <i> Software gets slower faster than hardware gets faster. </i> </h5>
+<h5> - <b>Niklaus Wirth</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
