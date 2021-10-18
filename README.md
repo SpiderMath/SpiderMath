@@ -56,11 +56,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#119](https://github.com/TheAlgorithms/website/issues/119) in [TheAlgorithms/website](https://github.com/TheAlgorithms/website)
-2. 🗣 Commented on [#44](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker/issues/44) in [ThatOneCalculator/Among-Us-Dumpy-Gif-Maker](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker)
-3. ❗️ Opened issue [#44](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker/issues/44) in [ThatOneCalculator/Among-Us-Dumpy-Gif-Maker](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker)
-4. ❗️ Closed issue [#1](https://github.com/Commandtechno/robert/issues/1) in [Commandtechno/robert](https://github.com/Commandtechno/robert)
-5. ❗️ Closed issue [#1](https://github.com/SpiderMath/Contrast/issues/1) in [SpiderMath/Contrast](https://github.com/SpiderMath/Contrast)
+1. ❗️ Opened issue [#120](https://github.com/TheAlgorithms/website/issues/120) in [TheAlgorithms/website](https://github.com/TheAlgorithms/website)
+2. ❗️ Opened issue [#119](https://github.com/TheAlgorithms/website/issues/119) in [TheAlgorithms/website](https://github.com/TheAlgorithms/website)
+3. 🗣 Commented on [#44](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker/issues/44) in [ThatOneCalculator/Among-Us-Dumpy-Gif-Maker](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker)
+4. ❗️ Opened issue [#44](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker/issues/44) in [ThatOneCalculator/Among-Us-Dumpy-Gif-Maker](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker)
+5. ❗️ Closed issue [#1](https://github.com/Commandtechno/robert/issues/1) in [Commandtechno/robert](https://github.com/Commandtechno/robert)
 <!--END_SECTION:activity-->
 <hr>
 
