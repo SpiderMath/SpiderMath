@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Really care about the tools you use because they are what make you your best. </i> </h5>
-<h5> - <b>Addy Osmani</b> </h5> </blockquote>
+<blockquote> <h5> <i> I don't like using any tools or programs I didn't write myself or that I don't have some control over. </i> </h5>
+<h5> - <b>Jonathan Sachs</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
