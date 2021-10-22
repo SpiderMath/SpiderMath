@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Typing is no substitute for thinking. </i> </h5>
-<h5> - <b>Richard Hamming</b> </h5> </blockquote>
+<blockquote> <h5> <i> The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer. </i> </h5>
+<h5> - <b>Alan Turing</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
