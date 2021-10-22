@@ -66,8 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> If you cannot explain a program to yourself, the chance of the
-computer getting it right is pretty small. </i> </h5>
-<h5> - <b>Bob Frankston</b> </h5> </blockquote>
+<blockquote> <h5> <i> First, solve the problem. Then, write the code. </i> </h5>
+<h5> - <b>John Johnson</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
