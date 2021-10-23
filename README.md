@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration. </i> </h5>
-<h5> - <b>Ray Ozzie</b> </h5> </blockquote>
+<blockquote> <h5> <i> Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer. </i> </h5>
+<h5> - <b>Marvin Minsky</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
