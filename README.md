@@ -56,11 +56,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#120](https://github.com/TheAlgorithms/website/issues/120) in [TheAlgorithms/website](https://github.com/TheAlgorithms/website)
-2. ❗️ Opened issue [#119](https://github.com/TheAlgorithms/website/issues/119) in [TheAlgorithms/website](https://github.com/TheAlgorithms/website)
-3. 🗣 Commented on [#44](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker/issues/44) in [ThatOneCalculator/Among-Us-Dumpy-Gif-Maker](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker)
-4. ❗️ Opened issue [#44](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker/issues/44) in [ThatOneCalculator/Among-Us-Dumpy-Gif-Maker](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker)
-5. ❗️ Closed issue [#1](https://github.com/Commandtechno/robert/issues/1) in [Commandtechno/robert](https://github.com/Commandtechno/robert)
+1. 🗣 Commented on [#807](https://github.com/TheAlgorithms/Javascript/issues/807) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
+2. 💪 Opened PR [#807](https://github.com/TheAlgorithms/Javascript/pull/807) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
+3. ❗️ Opened issue [#120](https://github.com/TheAlgorithms/website/issues/120) in [TheAlgorithms/website](https://github.com/TheAlgorithms/website)
+4. ❗️ Opened issue [#119](https://github.com/TheAlgorithms/website/issues/119) in [TheAlgorithms/website](https://github.com/TheAlgorithms/website)
+5. 🗣 Commented on [#44](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker/issues/44) in [ThatOneCalculator/Among-Us-Dumpy-Gif-Maker](https://github.com/ThatOneCalculator/Among-Us-Dumpy-Gif-Maker)
 <!--END_SECTION:activity-->
 <hr>
 
