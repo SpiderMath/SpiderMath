@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Low-level programming is good for the programmer’s soul. </i> </h5>
-<h5> - <b>John Carmack</b> </h5> </blockquote>
+<blockquote> <h5> <i> Measuring programming progress by lines of code is like measuring aircraft building progress by weight. </i> </h5>
+<h5> - <b>Bill Gates</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
