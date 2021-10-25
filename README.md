@@ -56,11 +56,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#810](https://github.com/TheAlgorithms/Javascript/pull/810) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
-2. ❗️ Opened issue [#124](https://github.com/TheAlgorithms/website/issues/124) in [TheAlgorithms/website](https://github.com/TheAlgorithms/website)
-3. 🗣 Commented on [#808](https://github.com/TheAlgorithms/Javascript/issues/808) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
-4. 💪 Opened PR [#808](https://github.com/TheAlgorithms/Javascript/pull/808) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
-5. 🗣 Commented on [#807](https://github.com/TheAlgorithms/Javascript/issues/807) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
+1. 🗣 Commented on [#810](https://github.com/TheAlgorithms/Javascript/issues/810) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
+2. 💪 Opened PR [#810](https://github.com/TheAlgorithms/Javascript/pull/810) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
+3. ❗️ Opened issue [#124](https://github.com/TheAlgorithms/website/issues/124) in [TheAlgorithms/website](https://github.com/TheAlgorithms/website)
+4. 🗣 Commented on [#808](https://github.com/TheAlgorithms/Javascript/issues/808) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
+5. 💪 Opened PR [#808](https://github.com/TheAlgorithms/Javascript/pull/808) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
 <!--END_SECTION:activity-->
 <hr>
 
