@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> In the case of the Analytical Engine, we have undoubtedly to lay out a certain capital of analytical labour in one particular line, but this is in order that the engine may bring us in a much larger return in another line. </i> </h5>
-<h5> - <b>Ada Lovelace</b> </h5> </blockquote>
+<blockquote> <h5> <i> Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more. </i> </h5>
+<h5> - <b>Jim Horning</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
