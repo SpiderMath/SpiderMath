@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code. </i> </h5>
-<h5> - <b>Douglas Crockford</b> </h5> </blockquote>
+<blockquote> <h5> <i> There's only one trick in software, and that is using a piece of software that's already been written. </i> </h5>
+<h5> - <b>Bill Gates</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
