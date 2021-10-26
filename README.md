@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> A programming language is low level when its programs require attention to the irrelevant. </i> </h5>
-<h5> - <b>Alan Perlis</b> </h5> </blockquote>
+<blockquote> <h5> <i> All of our exalted technological progress, civilization for that matter, is comparable to an axe in the hand of a pathological criminal. </i> </h5>
+<h5> - <b>Albert Einstein</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
