@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> You can have the project: Done On Time. Done On Budget. Done Properly - Pick two. </i> </h5>
-<h5> - <b>Anonymous</b> </h5> </blockquote>
+<blockquote> <h5> <i> The cheapest, fastest, and most reliable components are those that aren’t there. </i> </h5>
+<h5> - <b>Gordon Bell</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
