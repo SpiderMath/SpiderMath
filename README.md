@@ -56,11 +56,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10](https://github.com/elbkr/bad-websites/issues/10) in [elbkr/bad-websites](https://github.com/elbkr/bad-websites)
-2. ❗️ Opened issue [#126](https://github.com/TheAlgorithms/website/issues/126) in [TheAlgorithms/website](https://github.com/TheAlgorithms/website)
-3. 💪 Opened PR [#816](https://github.com/TheAlgorithms/Javascript/pull/816) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
-4. 🗣 Commented on [#810](https://github.com/TheAlgorithms/Javascript/issues/810) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
-5. 💪 Opened PR [#810](https://github.com/TheAlgorithms/Javascript/pull/810) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
+1. ❗️ Opened issue [#127](https://github.com/TheAlgorithms/website/issues/127) in [TheAlgorithms/website](https://github.com/TheAlgorithms/website)
+2. ❗️ Opened issue [#10](https://github.com/elbkr/bad-websites/issues/10) in [elbkr/bad-websites](https://github.com/elbkr/bad-websites)
+3. ❗️ Opened issue [#126](https://github.com/TheAlgorithms/website/issues/126) in [TheAlgorithms/website](https://github.com/TheAlgorithms/website)
+4. 💪 Opened PR [#816](https://github.com/TheAlgorithms/Javascript/pull/816) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
+5. 🗣 Commented on [#810](https://github.com/TheAlgorithms/Javascript/issues/810) in [TheAlgorithms/Javascript](https://github.com/TheAlgorithms/Javascript)
 <!--END_SECTION:activity-->
 <hr>
 
