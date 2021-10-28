@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Machines as simple as thermostats can be said to have beliefs. </i> </h5>
-<h5> - <b>John McCarthy (computer scientist)</b> </h5> </blockquote>
+<blockquote> <h5> <i> The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects. </i> </h5>
+<h5> - <b>Fred Brooks</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
