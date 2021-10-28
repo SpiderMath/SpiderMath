@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually. </i> </h5>
-<h5> - <b>Elon Musk</b> </h5> </blockquote>
+<blockquote> <h5> <i> Controlling complexity is the essence of computer programming. </i> </h5>
+<h5> - <b>Brian Kernighan</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
