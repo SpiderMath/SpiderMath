@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are. </i> </h5>
-<h5> - <b>Daniel T. Barry</b> </h5> </blockquote>
+<blockquote> <h5> <i> The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones. </i> </h5>
+<h5> - <b>Terry Winograd</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
