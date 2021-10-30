@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> When there is no type hierarchy you don’t have to manage the type hierarchy. </i> </h5>
-<h5> - <b>Rob Pike</b> </h5> </blockquote>
+<blockquote> <h5> <i> They were saying computers deal with numbers. This was absolutely nonsense. Computers deal with arbitrary information of any kind. </i> </h5>
+<h5> - <b>Ted Nelson</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
