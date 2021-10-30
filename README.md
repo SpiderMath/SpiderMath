@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed. </i> </h5>
-<h5> - <b>Alan Perlis</b> </h5> </blockquote>
+<blockquote> <h5> <i> Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are. </i> </h5>
+<h5> - <b>Daniel T. Barry</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
