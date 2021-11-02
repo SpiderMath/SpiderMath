@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The computing scientist’s main challenge is not to get confused by the complexities of his own making. </i> </h5>
-<h5> - <b>Edsger W. Dijkstra</b> </h5> </blockquote>
+<blockquote> <h5> <i> I think you should always bear in mind that entropy is not on your side. </i> </h5>
+<h5> - <b>Elon Musk</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
