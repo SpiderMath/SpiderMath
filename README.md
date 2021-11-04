@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The most important part of writing a program is designing the data structures. </i> </h5>
-<h5> - <b>Dan Bricklin</b> </h5> </blockquote>
+<blockquote> <h5> <i> Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect. </i> </h5>
+<h5> - <b>Linus Torvalds</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
