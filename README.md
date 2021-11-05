@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> If Microsoft ever does applications for Linux it means I've won. </i> </h5>
-<h5> - <b>Linus Torvalds</b> </h5> </blockquote>
+<blockquote> <h5> <i> Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them. </i> </h5>
+<h5> - <b>Laurence J. Peter</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
