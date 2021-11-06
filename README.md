@@ -56,11 +56,11 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/DevSnowflake/pokeres/issues/5) in [DevSnowflake/pokeres](https://github.com/DevSnowflake/pokeres)
+1. 🗣 Commented on [#10](https://github.com/elbkr/bad-websites/issues/10) in [elbkr/bad-websites](https://github.com/elbkr/bad-websites)
 2. 🗣 Commented on [#5](https://github.com/DevSnowflake/pokeres/issues/5) in [DevSnowflake/pokeres](https://github.com/DevSnowflake/pokeres)
 3. 🗣 Commented on [#5](https://github.com/DevSnowflake/pokeres/issues/5) in [DevSnowflake/pokeres](https://github.com/DevSnowflake/pokeres)
-4. ❗️ Opened issue [#5](https://github.com/DevSnowflake/pokeres/issues/5) in [DevSnowflake/pokeres](https://github.com/DevSnowflake/pokeres)
-5. 🗣 Commented on [#10](https://github.com/elbkr/bad-websites/issues/10) in [elbkr/bad-websites](https://github.com/elbkr/bad-websites)
+4. 🗣 Commented on [#5](https://github.com/DevSnowflake/pokeres/issues/5) in [DevSnowflake/pokeres](https://github.com/DevSnowflake/pokeres)
+5. ❗️ Opened issue [#5](https://github.com/DevSnowflake/pokeres/issues/5) in [DevSnowflake/pokeres](https://github.com/DevSnowflake/pokeres)
 <!--END_SECTION:activity-->
 <hr>
 
