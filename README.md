@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The best minds of my generation are thinking about how to make people click ads. </i> </h5>
-<h5> - <b>Jeff Hammerbacher</b> </h5> </blockquote>
+<blockquote> <h5> <i> A year spent in artificial intelligence is enough to make one believe in God. </i> </h5>
+<h5> - <b>Alan Perlis</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
