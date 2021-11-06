@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> It’s all talk until the code runs. </i> </h5>
-<h5> - <b>Ward Cunningham</b> </h5> </blockquote>
+<blockquote> <h5> <i> There are few sources of energy so powerful as a procrastinating grad student. </i> </h5>
+<h5> - <b>Paul Graham (programmer)</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
