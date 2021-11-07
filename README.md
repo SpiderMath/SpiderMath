@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions. </i> </h5>
-<h5> - <b>Danny Hillis</b> </h5> </blockquote>
+<blockquote> <h5> <i> To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success. </i> </h5>
+<h5> - <b>John Warnock</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
