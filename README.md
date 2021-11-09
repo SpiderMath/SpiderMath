@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it. </i> </h5>
-<h5> - <b>John McCarthy (computer scientist)</b> </h5> </blockquote>
+<blockquote> <h5> <i> Fancy algorithms are slow when n is small, and n is usually small. </i> </h5>
+<h5> - <b>Rob Pike</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
