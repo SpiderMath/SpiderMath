@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically. </i> </h5>
-<h5> - <b>Gerald Weinberg</b> </h5> </blockquote>
+<blockquote> <h5> <i> I think programming is very much a religious experience for a lot of people. </i> </h5>
+<h5> - <b>Gary Kildall</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
