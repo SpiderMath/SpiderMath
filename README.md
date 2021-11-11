@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The trouble with programmers is that you can never tell what a programmer is doing until it’s too late. </i> </h5>
-<h5> - <b>Seymour Cray</b> </h5> </blockquote>
+<blockquote> <h5> <i> A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy. </i> </h5>
+<h5> - <b>Bill Gates</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
