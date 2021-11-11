@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds. </i> </h5>
+<blockquote> <h5> <i> A lot of companies hire people to tell them what to do. We hire people to tell us what to do. </i> </h5>
 <h5> - <b>Steve Jobs</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
