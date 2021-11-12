@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The best way to know that you have found the last bug is never to find the first bug. </i> </h5>
-<h5> - <b>Harlan Mills</b> </h5> </blockquote>
+<blockquote> <h5> <i> I have no special talent. I am only passionately curious. </i> </h5>
+<h5> - <b>Albert Einstein</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
