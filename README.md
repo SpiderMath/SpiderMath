@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> You can’t trust code that you did not totally create yourself. </i> </h5>
-<h5> - <b>Ken Thompson</b> </h5> </blockquote>
+<blockquote> <h5> <i> Artificial intelligence is the science of making machines do things that would require intelligence if done by men. </i> </h5>
+<h5> - <b>Marvin Minsky</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
