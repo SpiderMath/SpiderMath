@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> I’ll throw away code as soon I want to add something to it and I get the feeling that what I have to do to add it is too hard. </i> </h5>
-<h5> - <b>Ken Thompson</b> </h5> </blockquote>
+<blockquote> <h5> <i> There is no programming language, no matter how structured, that will prevent programmers from making bad programs. </i> </h5>
+<h5> - <b>Lawrence Flon</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
