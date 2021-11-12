@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities. </i> </h5>
-<h5> - <b>Edsger W. Dijkstra</b> </h5> </blockquote>
+<blockquote> <h5> <i> The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer. </i> </h5>
+<h5> - <b>Alan Turing</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
