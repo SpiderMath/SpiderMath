@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only. </i> </h5>
-<h5> - <b>Bjarne Stroustrup</b> </h5> </blockquote>
+<blockquote> <h5> <i> What is programming? Some people call it a science, some people call it an art, some people call it a skill. I think it has aspects of all three. </i> </h5>
+<h5> - <b>Charles Simonyi</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
