@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> A number of studies have shown testing not very effective at finding bugs. </i> </h5>
-<h5> - <b>Daniel T. Barry</b> </h5> </blockquote>
+<blockquote> <h5> <i> It is practically impossible to teach good programming to students that have had a prior exposure to BASIC: as potential programmers they are mentally mutilated beyond hope of regeneration. </i> </h5>
+<h5> - <b>Edsger W. Dijkstra</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
