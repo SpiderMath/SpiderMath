@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The purpose of software engineering is to control complexity, not to create it. </i> </h5>
-<h5> - <b>Pamela Zave</b> </h5> </blockquote>
+<blockquote> <h5> <i> As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout. </i> </h5>
+<h5> - <b>Gottfried Wilhelm Leibniz</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
