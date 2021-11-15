@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Typing is no substitute for thinking. </i> </h5>
-<h5> - <b>Richard Hamming</b> </h5> </blockquote>
+<blockquote> <h5> <i> C is quirky, flawed, and an enormous success. </i> </h5>
+<h5> - <b>Dennis Ritchie</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
