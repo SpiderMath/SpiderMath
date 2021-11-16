@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Cool URIs don't change. </i> </h5>
-<h5> - <b>Tim Berners-Lee</b> </h5> </blockquote>
+<blockquote> <h5> <i> Most errors are introduced during requirements specification! </i> </h5>
+<h5> - <b>Daniel T. Barry</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
