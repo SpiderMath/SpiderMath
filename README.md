@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Premature abstraction is as bad as premature optimization. </i> </h5>
-<h5> - <b>Luciano Ramalho</b> </h5> </blockquote>
+<blockquote> <h5> <i> Computer programs are the most complex things that humans make. </i> </h5>
+<h5> - <b>Douglas Crockford</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
