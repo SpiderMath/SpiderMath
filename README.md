@@ -66,8 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> I think there is a world market for maybe five
-computers. </i> </h5>
-<h5> - <b>Thomas J. Watson</b> </h5> </blockquote>
+<blockquote> <h5> <i> All too many of our software systems are, architecturally, little more than shantytowns. </i> </h5>
+<h5> - <b>Joseph Yoder (computer scientist)</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
