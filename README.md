@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> When in doubt, use brute force. </i> </h5>
-<h5> - <b>Ken Thompson</b> </h5> </blockquote>
+<blockquote> <h5> <i> Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure. </i> </h5>
+<h5> - <b>Fred Brooks</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
