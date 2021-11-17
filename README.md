@@ -66,7 +66,8 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Much of the essence of building a program is in fact the debugging of the specification. </i> </h5>
-<h5> - <b>Fred Brooks</b> </h5> </blockquote>
+<blockquote> <h5> <i> I think there is a world market for maybe five
+computers. </i> </h5>
+<h5> - <b>Thomas J. Watson</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
