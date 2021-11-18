@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The real problem with throwaway code comes when it isn't thrown away. </i> </h5>
-<h5> - <b>Joseph Yoder (computer scientist)</b> </h5> </blockquote>
+<blockquote> <h5> <i> If we’d asked the customers what they wanted, they would have said “faster horses”. </i> </h5>
+<h5> - <b>Henry Ford</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
