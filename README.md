@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve. </i> </h5>
-<h5> - <b>René Descartes</b> </h5> </blockquote>
+<blockquote> <h5> <i> Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware. </i> </h5>
+<h5> - <b>Martin Fowler</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
