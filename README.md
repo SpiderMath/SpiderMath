@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems. </i> </h5>
-<h5> - <b>Jamie Zawinski</b> </h5> </blockquote>
+<blockquote> <h5> <i> First, solve the problem. Then, write the code. </i> </h5>
+<h5> - <b>John Johnson</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
