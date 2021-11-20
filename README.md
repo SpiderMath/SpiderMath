@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, I can guarantee you that it wasn't written with care. </i> </h5>
-<h5> - <b>Charles Simonyi</b> </h5> </blockquote>
+<blockquote> <h5> <i> Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware. </i> </h5>
+<h5> - <b>Martin Fowler</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
