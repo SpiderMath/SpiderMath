@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Once the computers got control, we might never get it back. </i> </h5>
-<h5> - <b>Marvin Minsky</b> </h5> </blockquote>
+<blockquote> <h5> <i> We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves. </i> </h5>
+<h5> - <b>Ada Lovelace</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
