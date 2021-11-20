@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The computing scientist’s main challenge is not to get confused by the complexities of his own making. </i> </h5>
+<blockquote> <h5> <i> Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence. </i> </h5>
 <h5> - <b>Edsger W. Dijkstra</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
