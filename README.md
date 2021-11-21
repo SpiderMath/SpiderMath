@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Life is too short to run proprietary software. </i> </h5>
-<h5> - <b>Bdale Garbee</b> </h5> </blockquote>
+<blockquote> <h5> <i> A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy. </i> </h5>
+<h5> - <b>Bill Gates</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
