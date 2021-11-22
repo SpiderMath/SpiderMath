@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away. </i> </h5>
-<h5> - <b>L. Peter Deutsch</b> </h5> </blockquote>
+<blockquote> <h5> <i> Code is expensive to change, but design is cheaper to change, and requirements are even cheaper to change. </i> </h5>
+<h5> - <b>Daniel T. Barry</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
