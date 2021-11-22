@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The most powerful programming language is Lisp. If you don't know Lisp (or its variant, Scheme), you don't know what it means for a programming language to be powerful and elegant. Once you learn Lisp, you will understand what is lacking in most other languages. </i> </h5>
-<h5> - <b>Richard Stallman</b> </h5> </blockquote>
+<blockquote> <h5> <i> A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable. </i> </h5>
+<h5> - <b>Leslie Lamport</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
