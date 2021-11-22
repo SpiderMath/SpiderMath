@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Program designers have a tendency to think of the users as idiots who need to be controlled. They should rather think of their program as a servant, whose master, the user, should be able to control it. </i> </h5>
-<h5> - <b>John McCarthy (computer scientist)</b> </h5> </blockquote>
+<blockquote> <h5> <i> In science if you know what you are doing you should not be doing it. In engineering if you do not know what you are doing you should not be doing it. </i> </h5>
+<h5> - <b>Richard Hamming</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
