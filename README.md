@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> As with most projects, the last two percent takes fifty percent of the time. </i> </h5>
-<h5> - <b>John Warnock</b> </h5> </blockquote>
+<blockquote> <h5> <i> Every program has (at least) two purposes: the one for which it was written and another for which it wasn't. </i> </h5>
+<h5> - <b>Alan Perlis</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
