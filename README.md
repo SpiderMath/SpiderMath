@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The top 5% of programmers probably write 99% of the good software. </i> </h5>
-<h5> - <b>Paul Graham (programmer)</b> </h5> </blockquote>
+<blockquote> <h5> <i> One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out. </i> </h5>
+<h5> - <b>Fred Brooks</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
