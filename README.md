@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> One accurate measurement is worth more than a thousand expert opinions. </i> </h5>
-<h5> - <b>Grace Hopper</b> </h5> </blockquote>
+<blockquote> <h5> <i> Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes. </i> </h5>
+<h5> - <b>Richard Hamming</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
