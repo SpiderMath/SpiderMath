@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide. </i> </h5>
-<h5> - <b>Martin Fowler</b> </h5> </blockquote>
+<blockquote> <h5> <i> It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures. </i> </h5>
+<h5> - <b>Alan Perlis</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
