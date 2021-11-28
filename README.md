@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Young man, in mathematics you don't understand things. You just get used to them. </i> </h5>
-<h5> - <b>John von Neumann</b> </h5> </blockquote>
+<blockquote> <h5> <i> I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships. </i> </h5>
+<h5> - <b>Linus Torvalds</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
