@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The cost to repair an error goes up dramatically as project moves towards completion and beyond. </i> </h5>
-<h5> - <b>Daniel T. Barry</b> </h5> </blockquote>
+<blockquote> <h5> <i> Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server. </i> </h5>
+<h5> - <b>Roy Fielding</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
