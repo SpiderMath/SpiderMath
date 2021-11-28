@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Good software, like good wine, takes time. </i> </h5>
-<h5> - <b>Joel Spolsky</b> </h5> </blockquote>
+<blockquote> <h5> <i> The button is working, only, it cannot be seen. </i> </h5>
+<h5> - <b>Anonymous</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
