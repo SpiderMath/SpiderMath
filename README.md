@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for. </i> </h5>
-<h5> - <b>John Carmack</b> </h5> </blockquote>
+<blockquote> <h5> <i> What one programmer can do in one month, two programmers can do in two months. </i> </h5>
+<h5> - <b>Fred Brooks</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
