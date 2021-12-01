@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> I have no special talent. I am only passionately curious. </i> </h5>
-<h5> - <b>Albert Einstein</b> </h5> </blockquote>
+<blockquote> <h5> <i> The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones. </i> </h5>
+<h5> - <b>Terry Winograd</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
