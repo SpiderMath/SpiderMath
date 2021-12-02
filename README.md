@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The very best technology never has as much impact as girlfriend or boyfriend trouble. </i> </h5>
-<h5> - <b>Tom DeMarco</b> </h5> </blockquote>
+<blockquote> <h5> <i> If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is. </i> </h5>
+<h5> - <b>John von Neumann</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
