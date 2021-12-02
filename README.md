@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right. </i> </h5>
-<h5> - <b>Michael A. Jackson</b> </h5> </blockquote>
+<blockquote> <h5> <i> If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is. </i> </h5>
+<h5> - <b>John von Neumann</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
