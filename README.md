@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is. </i> </h5>
-<h5> - <b>John von Neumann</b> </h5> </blockquote>
+<blockquote> <h5> <i> Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority. </i> </h5>
+<h5> - <b>Bill Gates</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
