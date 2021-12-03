@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> JavaScript, purely by accident, has become the most popular programming language in the world. </i> </h5>
-<h5> - <b>Douglas Crockford</b> </h5> </blockquote>
+<blockquote> <h5> <i> A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match. </i> </h5>
+<h5> - <b>David Parnas</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
