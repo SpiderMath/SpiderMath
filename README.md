@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length. </i> </h5>
-<h5> - <b>Carl Friedrich Gauss</b> </h5> </blockquote>
+<blockquote> <h5> <i> The competent programmer is fully aware of the strictly limited size of his own skull; therefore he approaches the programming task in full humility, and among other things he avoids clever tricks like the plague </i> </h5>
+<h5> - <b>Edsger W. Dijkstra</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
