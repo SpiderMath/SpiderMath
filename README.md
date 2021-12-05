@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> If we’d asked the customers what they wanted, they would have said “faster horses”. </i> </h5>
-<h5> - <b>Henry Ford</b> </h5> </blockquote>
+<blockquote> <h5> <i> A picture may be worth a thousand words, a formula is worth a thousand pictures. </i> </h5>
+<h5> - <b>Edsger W. Dijkstra</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
