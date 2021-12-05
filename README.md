@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> It was a turning point in my programming career when I realized that I didn't have to win every argument. </i> </h5>
-<h5> - <b>Ward Cunningham</b> </h5> </blockquote>
+<blockquote> <h5> <i> The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices. </i> </h5>
+<h5> - <b>Paul Graham (programmer)</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
