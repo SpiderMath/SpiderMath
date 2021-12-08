@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with. </i> </h5>
-<h5> - <b>Edsger W. Dijkstra</b> </h5> </blockquote>
+<blockquote> <h5> <i> Most errors are introduced during requirements specification! </i> </h5>
+<h5> - <b>Daniel T. Barry</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
