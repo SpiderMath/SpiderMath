@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> There is never enough time to do it right, but there is always enough time to fix it or to do it over. </i> </h5>
-<h5> - <b>Daniel T. Barry</b> </h5> </blockquote>
+<blockquote> <h5> <i> Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it. </i> </h5>
+<h5> - <b>Brian Kernighan</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
