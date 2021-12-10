@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> There is no programming language, no matter how structured, that will prevent programmers from making bad programs. </i> </h5>
-<h5> - <b>Lawrence Flon</b> </h5> </blockquote>
+<blockquote> <h5> <i> Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart. </i> </h5>
+<h5> - <b>John Warnock</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
