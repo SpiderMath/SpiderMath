@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared. </i> </h5>
-<h5> - <b>Maurice Wilkes</b> </h5> </blockquote>
+<blockquote> <h5> <i> Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road. </i> </h5>
+<h5> - <b>Stewart Brand</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
