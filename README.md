@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road. </i> </h5>
-<h5> - <b>Stewart Brand</b> </h5> </blockquote>
+<blockquote> <h5> <i> What I cannot build, I do not understand. </i> </h5>
+<h5> - <b>Richard Feynman</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
