@@ -56,10 +56,10 @@
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
-2. ❗️ Opened issue [#2](https://github.com/spantheslayer/spantheslayer/issues/2) in [spantheslayer/spantheslayer](https://github.com/spantheslayer/spantheslayer)
-3. 🗣 Commented on [#10](https://github.com/elbkr/bad-websites/issues/10) in [elbkr/bad-websites](https://github.com/elbkr/bad-websites)
-4. 🗣 Commented on [#5](https://github.com/DevSnowflake/pokeres/issues/5) in [DevSnowflake/pokeres](https://github.com/DevSnowflake/pokeres)
+1. 🗣 Commented on [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
+2. ❗️ Opened issue [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
+3. ❗️ Opened issue [#2](https://github.com/spantheslayer/spantheslayer/issues/2) in [spantheslayer/spantheslayer](https://github.com/spantheslayer/spantheslayer)
+4. 🗣 Commented on [#10](https://github.com/elbkr/bad-websites/issues/10) in [elbkr/bad-websites](https://github.com/elbkr/bad-websites)
 5. 🗣 Commented on [#5](https://github.com/DevSnowflake/pokeres/issues/5) in [DevSnowflake/pokeres](https://github.com/DevSnowflake/pokeres)
 <!--END_SECTION:activity-->
 <hr>
