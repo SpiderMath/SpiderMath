@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are. </i> </h5>
-<h5> - <b>Daniel T. Barry</b> </h5> </blockquote>
+<blockquote> <h5> <i> With testing, I know straight away when I added a bug. That lets me fix the bug immediately, before it can crawl off and hide. </i> </h5>
+<h5> - <b>Martin Fowler</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
