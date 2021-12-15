@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Don't worry about anything. Just do what you can and be the best you can be. </i> </h5>
-<h5> - <b>Douglas Crockford</b> </h5> </blockquote>
+<blockquote> <h5> <i> Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect. </i> </h5>
+<h5> - <b>George Boole</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
