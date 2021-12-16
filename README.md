@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> One accurate measurement is worth more than a thousand expert opinions. </i> </h5>
-<h5> - <b>Grace Hopper</b> </h5> </blockquote>
+<blockquote> <h5> <i> You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new. </i> </h5>
+<h5> - <b>Steve Jobs</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
