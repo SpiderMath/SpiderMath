@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Good code is short, simple, and symmetrical - the challenge is figuring out how to get there. </i> </h5>
-<h5> - <b>Sean Parent</b> </h5> </blockquote>
+<blockquote> <h5> <i> By understanding a machine-oriented language, the programmer will tend to use a much more efficient method; it is much closer to reality. </i> </h5>
+<h5> - <b>Donald Knuth</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
