@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> In theory, there is no difference between theory and practice. But, in practice, there is. </i> </h5>
-<h5> - <b>Jan L. A. van de Snepscheut</b> </h5> </blockquote>
+<blockquote> <h5> <i> Make a guess, double the number, and then move to the next larger unit of time. This rule scales tasks in a very interesting way: a one-minute task explodes by a factor of 120 to take two hours. A one-hour job explodes by "only" a factor 48 to take two days, while a one-day job grows by a factor of 14 to take two weeks. </i> </h5>
+<h5> - <b>Poul-Henning Kamp</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
