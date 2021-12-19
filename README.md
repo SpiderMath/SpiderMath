@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> When I invented the web, I didn't have to ask anyone's permission. </i> </h5>
-<h5> - <b>Tim Berners-Lee</b> </h5> </blockquote>
+<blockquote> <h5> <i> There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult. </i> </h5>
+<h5> - <b>Tony Hoare</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
