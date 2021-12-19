@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> If you give someone a program, you will frustrate them for a day; if you teach them how to program, you will frustrate them for a lifetime. </i> </h5>
-<h5> - <b>David Leinweber</b> </h5> </blockquote>
+<blockquote> <h5> <i> In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders. </i> </h5>
+<h5> - <b>Douglas Crockford</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
