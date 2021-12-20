@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent. </i> </h5>
-<h5> - <b>Martin Fowler</b> </h5> </blockquote>
+<blockquote> <h5> <i> Software engineering is the part of computer science which is too difficult for the computer scientist. </i> </h5>
+<h5> - <b>Friedrich Bauer</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
