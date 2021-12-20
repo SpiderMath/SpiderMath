@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The free software community rejects the “priesthood of technology”, which keeps the general public in ignorance of how technology works; we encourage students of any age and situation to read the source code and learn as much as they want to know. </i> </h5>
-<h5> - <b>Richard Stallman</b> </h5> </blockquote>
+<blockquote> <h5> <i> W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent. </i> </h5>
+<h5> - <b>Martin Fowler</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
