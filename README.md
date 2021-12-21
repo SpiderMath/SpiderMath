@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> There is no reason anyone would want a computer in their home. </i> </h5>
-<h5> - <b>Ken Olsen</b> </h5> </blockquote>
+<blockquote> <h5> <i> Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration. </i> </h5>
+<h5> - <b>Stan Kelly-Bootle</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
