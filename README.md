@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> What I like about programming is that it really helps you think about how we communicate, how we think, how logic works, how creative arts work. </i> </h5>
-<h5> - <b>Michael Hawley</b> </h5> </blockquote>
+<blockquote> <h5> <i> Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect. </i> </h5>
+<h5> - <b>Linus Torvalds</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
