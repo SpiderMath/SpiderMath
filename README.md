@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability. </i> </h5>
-<h5> - <b>Randall E. Stross</b> </h5> </blockquote>
+<blockquote> <h5> <i> Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date. </i> </h5>
+<h5> - <b>James Gleick</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
