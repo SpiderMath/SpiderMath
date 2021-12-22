@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The good news about computers is that they do what you tell them to do. The bad news is that they do what you tell them to do. </i> </h5>
-<h5> - <b>Ted Nelson</b> </h5> </blockquote>
+<blockquote> <h5> <i> So much complexity in software comes from trying to make one thing do two things. </i> </h5>
+<h5> - <b>Ryan Singer</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
