@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal. </i> </h5>
-<h5> - <b>Joseph Yoder (computer scientist)</b> </h5> </blockquote>
+<blockquote> <h5> <i> Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer. </i> </h5>
+<h5> - <b>Marvin Minsky</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
