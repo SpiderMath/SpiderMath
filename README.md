@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> An organisation that treats its programmers as morons will soon have programmers that are willing and able to act like morons only. </i> </h5>
-<h5> - <b>Bjarne Stroustrup</b> </h5> </blockquote>
+<blockquote> <h5> <i> No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved. </i> </h5>
+<h5> - <b>Mark Gibbs</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
