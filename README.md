@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The errors which arise from the absence of facts are far more numerous and more durable than those which result from unsound reasoning respecting true data. </i> </h5>
-<h5> - <b>Charles Babbage</b> </h5> </blockquote>
+<blockquote> <h5> <i> We build our computer systems the way we build our cities: over time, without a plan, on top of ruins. </i> </h5>
+<h5> - <b>Ellen Ullman</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
