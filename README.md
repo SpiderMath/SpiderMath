@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Story in a game is like a story in a porn movie. It's expected to be there, but it's not that important. </i> </h5>
-<h5> - <b>John Carmack</b> </h5> </blockquote>
+<blockquote> <h5> <i> Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed. </i> </h5>
+<h5> - <b>Alan Perlis</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
