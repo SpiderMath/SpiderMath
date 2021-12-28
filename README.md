@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is. </i> </h5>
-<h5> - <b>John von Neumann</b> </h5> </blockquote>
+<blockquote> <h5> <i> People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on each other, like a wall of mini stones. </i> </h5>
+<h5> - <b>Donald Knuth</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
