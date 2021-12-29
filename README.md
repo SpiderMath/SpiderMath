@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity. </i> </h5>
-<h5> - <b>David Gelernter</b> </h5> </blockquote>
+<blockquote> <h5> <i> Part of what makes programming difficult is most of the time we’re doing stuff we’ve never done before. </i> </h5>
+<h5> - <b>Douglas Crockford</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
