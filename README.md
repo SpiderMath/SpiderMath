@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> I'm not a great programmer; I'm just a good programmer with great habits. </i> </h5>
-<h5> - <b>Kent Beck</b> </h5> </blockquote>
+<blockquote> <h5> <i> When a program is clean and neat, nicely structured, and consistent, it can be beautiful. </i> </h5>
+<h5> - <b>Gary Kildall</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
