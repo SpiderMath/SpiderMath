@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems. </i> </h5>
-<h5> - <b>Jamie Zawinski</b> </h5> </blockquote>
+<blockquote> <h5> <i> It is hard to think that a $2 billion company with 4,300-plus people couldn't compete with six people in blue jeans. </i> </h5>
+<h5> - <b>Steve Jobs</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
