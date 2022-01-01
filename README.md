@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The more varieties of different kinds of notations are still useful — don’t only read the people who code like you. </i> </h5>
-<h5> - <b>Donald Knuth</b> </h5> </blockquote>
+<blockquote> <h5> <i> The act of describing a program in unambiguous detail and the act of programming are one and the same. </i> </h5>
+<h5> - <b>Kevlin Henney</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
