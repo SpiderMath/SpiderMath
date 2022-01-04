@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> One accurate measurement is worth more than a thousand expert opinions. </i> </h5>
-<h5> - <b>Grace Hopper</b> </h5> </blockquote>
+<blockquote> <h5> <i> Machines as simple as thermostats can be said to have beliefs. </i> </h5>
+<h5> - <b>John McCarthy (computer scientist)</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
