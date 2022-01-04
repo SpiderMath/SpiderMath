@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice. </i> </h5>
-<h5> - <b>Martin Fowler</b> </h5> </blockquote>
+<blockquote> <h5> <i> The difference between theory and practice is that in theory, there is no difference between theory and practice. </i> </h5>
+<h5> - <b>Richard Moore (engineer)</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
