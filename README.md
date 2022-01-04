@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Unix is simple. It just takes a genius to understand its simplicity. </i> </h5>
-<h5> - <b>Dennis Ritchie</b> </h5> </blockquote>
+<blockquote> <h5> <i> Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice. </i> </h5>
+<h5> - <b>Martin Fowler</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
