@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Of the many forms of false culture, a premature converse with abstractions is perhaps the most likely to prove fatal to the growth of a masculine vigour of intellect. </i> </h5>
-<h5> - <b>George Boole</b> </h5> </blockquote>
+<blockquote> <h5> <i> By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared. </i> </h5>
+<h5> - <b>Maurice Wilkes</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
