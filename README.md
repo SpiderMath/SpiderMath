@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important. </i> </h5>
-<h5> - <b>Ward Cunningham</b> </h5> </blockquote>
+<blockquote> <h5> <i> I invented the term 'Object-Oriented', and I can tell you I did not have C++ in mind. </i> </h5>
+<h5> - <b>Alan Kay</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
