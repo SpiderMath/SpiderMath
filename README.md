@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The very best technology never has as much impact as girlfriend or boyfriend trouble. </i> </h5>
-<h5> - <b>Tom DeMarco</b> </h5> </blockquote>
+<blockquote> <h5> <i> A skilled programmer is like a poet who can put into words those ideas that others find inexpressible. </i> </h5>
+<h5> - <b>Danny Hillis</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
