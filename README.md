@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Software is usually expected to be modified over the course of its productive life. The process of converting one correct program into a different correct program is extremely challenging. </i> </h5>
-<h5> - <b>Douglas Crockford</b> </h5> </blockquote>
+<blockquote> <h5> <i> A lot of companies hire people to tell them what to do. We hire people to tell us what to do. </i> </h5>
+<h5> - <b>Steve Jobs</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
