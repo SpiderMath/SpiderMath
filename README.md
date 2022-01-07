@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> It is not the task of the University to offer what society asks for, but to give what society needs. </i> </h5>
-<h5> - <b>Edsger W. Dijkstra</b> </h5> </blockquote>
+<blockquote> <h5> <i> A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable. </i> </h5>
+<h5> - <b>Leslie Lamport</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
