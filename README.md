@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Walking on water and developing software from a specification are easy if both are frozen. </i> </h5>
-<h5> - <b>Edward V. Berard</b> </h5> </blockquote>
+<blockquote> <h5> <i> The cost to repair an error goes up dramatically as project moves towards completion and beyond. </i> </h5>
+<h5> - <b>Daniel T. Barry</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
