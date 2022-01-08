@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Software engineering is the part of computer science which is too difficult for the computer scientist. </i> </h5>
-<h5> - <b>Friedrich Bauer</b> </h5> </blockquote>
+<blockquote> <h5> <i> First, solve the problem. Then, write the code. </i> </h5>
+<h5> - <b>John Johnson</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
