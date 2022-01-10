@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes. </i> </h5>
-<h5> - <b>Richard Hamming</b> </h5> </blockquote>
+<blockquote> <h5> <i> The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one. </i> </h5>
+<h5> - <b>Fred Brooks</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
