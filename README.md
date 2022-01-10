@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away. </i> </h5>
-<h5> - <b>L. Peter Deutsch</b> </h5> </blockquote>
+<blockquote> <h5> <i> In fact, in the 1980s I often came across newly graduated computer science majors who had never seen a real program in their lives. They had only seen toy exercises, school exercises, because every real program was a trade secret. </i> </h5>
+<h5> - <b>Richard Stallman</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
