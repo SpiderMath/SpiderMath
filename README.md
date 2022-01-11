@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The best thing software can be is easy, but the way to do this is to get the defaults right, not to limit users' choices. </i> </h5>
-<h5> - <b>Paul Graham (programmer)</b> </h5> </blockquote>
+<blockquote> <h5> <i> Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step. </i> </h5>
+<h5> - <b>Fred Brooks</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
