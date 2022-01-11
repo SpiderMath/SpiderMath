@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures. </i> </h5>
-<h5> - <b>Alan Perlis</b> </h5> </blockquote>
+<blockquote> <h5> <i> You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new. </i> </h5>
+<h5> - <b>Steve Jobs</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
