@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> AI is a fundamental risk to the existence of human civilization. </i> </h5>
-<h5> - <b>Elon Musk</b> </h5> </blockquote>
+<blockquote> <h5> <i> Computer programs are the most complex things that humans make. </i> </h5>
+<h5> - <b>Douglas Crockford</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
