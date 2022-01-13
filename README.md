@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> I don't like using any tools or programs I didn't write myself or that I don't have some control over. </i> </h5>
-<h5> - <b>Jonathan Sachs</b> </h5> </blockquote>
+<blockquote> <h5> <i> Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience. </i> </h5>
+<h5> - <b>Wayne Ratliff</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
