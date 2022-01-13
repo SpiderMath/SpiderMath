@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> To iterate is human, to recurse divine. </i> </h5>
-<h5> - <b>L. Peter Deutsch</b> </h5> </blockquote>
+<blockquote> <h5> <i> We have seen that computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty. </i> </h5>
+<h5> - <b>Donald Knuth</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
