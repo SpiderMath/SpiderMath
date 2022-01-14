@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form. </i> </h5>
-<h5> - <b>Dennis Ritchie</b> </h5> </blockquote>
+<blockquote> <h5> <i> Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them. </i> </h5>
+<h5> - <b>Laurence J. Peter</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
