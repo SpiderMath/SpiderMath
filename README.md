@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> In order to understand recursion, one must first understand recursion. </i> </h5>
-<h5> - <b>Anonymous</b> </h5> </blockquote>
+<blockquote> <h5> <i> No code is faster than no code. </i> </h5>
+<h5> - <b>Kevlin Henney</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
