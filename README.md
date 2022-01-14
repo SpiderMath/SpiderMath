@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Just because people tell you it can't be done, that doesn't necessarily mean that it can't be done. It just means that they can't do it. </i> </h5>
-<h5> - <b>Anders Hejlsberg</b> </h5> </blockquote>
+<blockquote> <h5> <i> The separation of architectural effort from implementation is a very powerful way of getting conceptual integrity on very large projects. </i> </h5>
+<h5> - <b>Fred Brooks</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
