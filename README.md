@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> Sometimes, the elegant implementation is a function. Not a method. Not a class. Not a framework. Just a function. </i> </h5>
-<h5> - <b>John Carmack</b> </h5> </blockquote>
+<blockquote> <h5> <i> I make mistakes because I’m always operating at my limit. If I only stay in comfortable territory all the time, that’s not so much fun. </i> </h5>
+<h5> - <b>Donald Knuth</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
