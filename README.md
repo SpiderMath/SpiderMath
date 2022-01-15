@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> When in doubt, leave it out. </i> </h5>
-<h5> - <b>Joshua Bloch</b> </h5> </blockquote>
+<blockquote> <h5> <i> So much complexity in software comes from trying to make one thing do two things. </i> </h5>
+<h5> - <b>Ryan Singer</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
