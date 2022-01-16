@@ -69,10 +69,4 @@
 
 ### 🎲 Random Programming Quote:
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<<<<<<< HEAD
-=======
-<blockquote> <h5> <i> The real problem with throwaway code comes when it isn't thrown away. </i> </h5>
-<h5> - <b>Joseph Yoder (computer scientist)</b> </h5> </blockquote>
-<br>
->>>>>>> 48c655b776d1df14665122b736f923d1615209f1
 <!--PROGRAMMING-QUOTE-BOT:end-->
