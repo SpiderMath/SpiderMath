@@ -80,9 +80,3 @@
 10. 🗣 Commented on [#5](https://github.com/DevSnowflake/pokeres/issues/5) in [DevSnowflake/pokeres](https://github.com/DevSnowflake/pokeres)
 <!--END_SECTION:activity-->
 <hr>
-
-
-### 🎲 Random Programming Quote:
-<!--PROGRAMMING-QUOTE-BOT:start-->
-
-<!--PROGRAMMING-QUOTE-BOT:end-->
