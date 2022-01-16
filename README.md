@@ -66,7 +66,7 @@
 
 ## Have a [Random Programming Quote](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--PROGRAMMING-QUOTE-BOT:start-->
-<blockquote> <h5> <i> The manager's function is not to make people work, but to make it possible for people to work. </i> </h5>
-<h5> - <b>Tom DeMarco</b> </h5> </blockquote>
+<blockquote> <h5> <i> An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming. </i> </h5>
+<h5> - <b>Harlan Mills</b> </h5> </blockquote>
 <br>
 <!--PROGRAMMING-QUOTE-BOT:end-->
