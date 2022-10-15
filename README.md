@@ -68,9 +68,9 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#87](https://github.com/jitendrajat10099/Competitive-Programming--Solution/issues/87) in [jitendrajat10099/Competitive-Programming--Solution](https://github.com/jitendrajat10099/Competitive-Programming--Solution)
-2. 🗣 Commented on [#16](https://github.com/GDSC-MITS/Contribute-To-HacktoberFest/issues/16) in [GDSC-MITS/Contribute-To-HacktoberFest](https://github.com/GDSC-MITS/Contribute-To-HacktoberFest)
-3. 💪 Opened PR [#16](https://github.com/GDSC-MITS/Contribute-To-HacktoberFest/pull/16) in [GDSC-MITS/Contribute-To-HacktoberFest](https://github.com/GDSC-MITS/Contribute-To-HacktoberFest)
+1. ❗️ Opened issue [#3](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/3) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
+2. ❗️ Opened issue [#87](https://github.com/jitendrajat10099/Competitive-Programming--Solution/issues/87) in [jitendrajat10099/Competitive-Programming--Solution](https://github.com/jitendrajat10099/Competitive-Programming--Solution)
+3. 🗣 Commented on [#16](https://github.com/GDSC-MITS/Contribute-To-HacktoberFest/issues/16) in [GDSC-MITS/Contribute-To-HacktoberFest](https://github.com/GDSC-MITS/Contribute-To-HacktoberFest)
 4. ❗️ Closed issue [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
 5. 🗣 Commented on [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
 6. 🗣 Commented on [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
