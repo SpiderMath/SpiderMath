@@ -68,9 +68,9 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SpiderMath/RandomWalk/pull/1) in [SpiderMath/RandomWalk](https://github.com/SpiderMath/RandomWalk)
-2. 🎉 Merged PR [#1](https://github.com/SpiderMath/Fibonacci-Scatterplot/pull/1) in [SpiderMath/Fibonacci-Scatterplot](https://github.com/SpiderMath/Fibonacci-Scatterplot)
-3. 🗣 Commented on [#2](https://github.com/spantheslayer/spantheslayer/issues/2) in [spantheslayer/spantheslayer](https://github.com/spantheslayer/spantheslayer)
+1. ❗️ Opened issue [#87](https://github.com/jitendrajat10099/Competitive-Programming--Solution/issues/87) in [jitendrajat10099/Competitive-Programming--Solution](https://github.com/jitendrajat10099/Competitive-Programming--Solution)
+2. 🗣 Commented on [#16](https://github.com/GDSC-MITS/Contribute-To-HacktoberFest/issues/16) in [GDSC-MITS/Contribute-To-HacktoberFest](https://github.com/GDSC-MITS/Contribute-To-HacktoberFest)
+3. 💪 Opened PR [#16](https://github.com/GDSC-MITS/Contribute-To-HacktoberFest/pull/16) in [GDSC-MITS/Contribute-To-HacktoberFest](https://github.com/GDSC-MITS/Contribute-To-HacktoberFest)
 4. ❗️ Closed issue [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
 5. 🗣 Commented on [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
 6. 🗣 Commented on [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
