@@ -68,9 +68,9 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/spantheslayer/spantheslayer/issues/2) in [spantheslayer/spantheslayer](https://github.com/spantheslayer/spantheslayer)
-2. 💪 Opened PR [#41](https://github.com/GDSC-MITS/Contribute-To-HacktoberFest/pull/41) in [GDSC-MITS/Contribute-To-HacktoberFest](https://github.com/GDSC-MITS/Contribute-To-HacktoberFest)
-3. 💪 Opened PR [#34](https://github.com/GDSC-MITS/Contribute-To-HacktoberFest/pull/34) in [GDSC-MITS/Contribute-To-HacktoberFest](https://github.com/GDSC-MITS/Contribute-To-HacktoberFest)
+1. 🗣 Commented on [#3](https://github.com/Mrinank-Bhowmick/api/issues/3) in [Mrinank-Bhowmick/api](https://github.com/Mrinank-Bhowmick/api)
+2. 🗣 Commented on [#188](https://github.com/TheAlgorithms/Algorithms-Explanation/issues/188) in [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation)
+3. 🗣 Commented on [#2](https://github.com/spantheslayer/spantheslayer/issues/2) in [spantheslayer/spantheslayer](https://github.com/spantheslayer/spantheslayer)
 4. ❗️ Closed issue [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
 5. 🗣 Commented on [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
 6. 🗣 Commented on [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
