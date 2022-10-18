@@ -68,9 +68,9 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/sanskarmalkhede/basic-programs/pull/13) in [sanskarmalkhede/basic-programs](https://github.com/sanskarmalkhede/basic-programs)
-2. 🗣 Commented on [#3](https://github.com/Mrinank-Bhowmick/api/issues/3) in [Mrinank-Bhowmick/api](https://github.com/Mrinank-Bhowmick/api)
-3. 🗣 Commented on [#188](https://github.com/TheAlgorithms/Algorithms-Explanation/issues/188) in [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation)
+1. 🗣 Commented on [#2250](https://github.com/TheAlgorithms/C-Plus-Plus/issues/2250) in [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+2. 💪 Opened PR [#13](https://github.com/sanskarmalkhede/basic-programs/pull/13) in [sanskarmalkhede/basic-programs](https://github.com/sanskarmalkhede/basic-programs)
+3. 🗣 Commented on [#3](https://github.com/Mrinank-Bhowmick/api/issues/3) in [Mrinank-Bhowmick/api](https://github.com/Mrinank-Bhowmick/api)
 4. ❗️ Closed issue [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
 5. 🗣 Commented on [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
 6. 🗣 Commented on [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
