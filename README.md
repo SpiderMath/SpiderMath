@@ -68,9 +68,9 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#245](https://github.com/jeremie1112/All_Programs_and_algorithms/pull/245) in [jeremie1112/All_Programs_and_algorithms](https://github.com/jeremie1112/All_Programs_and_algorithms)
-2. 💪 Opened PR [#7](https://github.com/CrOpid/Hack-Code/pull/7) in [CrOpid/Hack-Code](https://github.com/CrOpid/Hack-Code)
-3. 🗣 Commented on [#1](https://github.com/AaryanKhClasses/FlatChat/issues/1) in [AaryanKhClasses/FlatChat](https://github.com/AaryanKhClasses/FlatChat)
+1. 💪 Opened PR [#412](https://github.com/TheAlgorithms/Rust/pull/412) in [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)
+2. 💪 Opened PR [#245](https://github.com/jeremie1112/All_Programs_and_algorithms/pull/245) in [jeremie1112/All_Programs_and_algorithms](https://github.com/jeremie1112/All_Programs_and_algorithms)
+3. 💪 Opened PR [#7](https://github.com/CrOpid/Hack-Code/pull/7) in [CrOpid/Hack-Code](https://github.com/CrOpid/Hack-Code)
 4. ❗️ Closed issue [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
 5. 🗣 Commented on [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
 6. 🗣 Commented on [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
