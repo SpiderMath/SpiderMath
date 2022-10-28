@@ -68,8 +68,8 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/AaryanKhClasses/FlatChat/issues/1) in [AaryanKhClasses/FlatChat](https://github.com/AaryanKhClasses/FlatChat)
-2. 🗣 Commented on [#1](https://github.com/AaryanKhClasses/FlatChat/issues/1) in [AaryanKhClasses/FlatChat](https://github.com/AaryanKhClasses/FlatChat)
+1. 🗣 Commented on [#3](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/3) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
+2. 🗣 Commented on [#412](https://github.com/TheAlgorithms/Rust/issues/412) in [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)
 3. 🗣 Commented on [#1](https://github.com/AaryanKhClasses/FlatChat/issues/1) in [AaryanKhClasses/FlatChat](https://github.com/AaryanKhClasses/FlatChat)
 4. ❗️ Closed issue [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
 5. 🗣 Commented on [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
