@@ -68,8 +68,8 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#81](https://github.com/TheAlgorithms/TypeScript/pull/81) in [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)
-2. 🗣 Commented on [#2400](https://github.com/TheAlgorithms/C-Plus-Plus/issues/2400) in [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+1. 💪 Opened PR [#433](https://github.com/TheAlgorithms/Rust/pull/433) in [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)
+2. 💪 Opened PR [#81](https://github.com/TheAlgorithms/TypeScript/pull/81) in [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)
 3. 🗣 Commented on [#2400](https://github.com/TheAlgorithms/C-Plus-Plus/issues/2400) in [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
 4. ❗️ Closed issue [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
 5. 🗣 Commented on [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
