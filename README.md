@@ -68,9 +68,9 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2400](https://github.com/TheAlgorithms/C-Plus-Plus/issues/2400) in [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
-2. ❗️ Opened issue [#212](https://github.com/TheAlgorithms/website/issues/212) in [TheAlgorithms/website](https://github.com/TheAlgorithms/website)
-3. 💪 Opened PR [#433](https://github.com/TheAlgorithms/Rust/pull/433) in [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust)
+1. ❗️ Opened issue [#216](https://github.com/TheAlgorithms/website/issues/216) in [TheAlgorithms/website](https://github.com/TheAlgorithms/website)
+2. 💪 Opened PR [#1177](https://github.com/TheAlgorithms/C/pull/1177) in [TheAlgorithms/C](https://github.com/TheAlgorithms/C)
+3. 🗣 Commented on [#2400](https://github.com/TheAlgorithms/C-Plus-Plus/issues/2400) in [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
 4. ❗️ Closed issue [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
 5. 🗣 Commented on [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
 6. 🗣 Commented on [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
