@@ -70,7 +70,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2400](https://github.com/TheAlgorithms/C-Plus-Plus/issues/2400) in [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
 2. 🗣 Commented on [#2400](https://github.com/TheAlgorithms/C-Plus-Plus/issues/2400) in [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
-3. 🗣 Commented on [#216](https://github.com/TheAlgorithms/website/issues/216) in [TheAlgorithms/website](https://github.com/TheAlgorithms/website)
+3. 🗣 Commented on [#2400](https://github.com/TheAlgorithms/C-Plus-Plus/issues/2400) in [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
 4. ❗️ Closed issue [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
 5. 🗣 Commented on [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
 6. 🗣 Commented on [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
