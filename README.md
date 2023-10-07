@@ -68,9 +68,9 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#268](https://github.com/TheAlgorithms/website/issues/268#issuecomment-1750527861) in [TheAlgorithms/website](https://github.com/TheAlgorithms/website)
-2. ❗ Opened issue [#268](https://github.com/TheAlgorithms/website/issues/268) in [TheAlgorithms/website](https://github.com/TheAlgorithms/website)
-3. ❗ Opened issue [#267](https://github.com/TheAlgorithms/website/issues/267) in [TheAlgorithms/website](https://github.com/TheAlgorithms/website)
+1. ❗ Opened issue [#2](https://github.com/SpiderMath/LiteratureAPI/issues/2) in [SpiderMath/LiteratureAPI](https://github.com/SpiderMath/LiteratureAPI)
+2. ❗ Opened issue [#1](https://github.com/SpiderMath/LiteratureAPI/issues/1) in [SpiderMath/LiteratureAPI](https://github.com/SpiderMath/LiteratureAPI)
+3. 🗣 Commented on [#268](https://github.com/TheAlgorithms/website/issues/268#issuecomment-1750527861) in [TheAlgorithms/website](https://github.com/TheAlgorithms/website)
 4. ❗️ Closed issue [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
 5. 🗣 Commented on [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
 6. 🗣 Commented on [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
