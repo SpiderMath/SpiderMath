@@ -68,9 +68,9 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1552](https://github.com/TheAlgorithms/JavaScript/pull/1552) in [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript)
-2. 🗣 Commented on [#9435](https://github.com/TheAlgorithms/Python/issues/9435#issuecomment-1767600524) in [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
-3. 🗣 Commented on [#187](https://github.com/TheAlgorithms/TypeScript/pull/187#issuecomment-1753306384) in [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)
+1. ❗ Opened issue [#210](https://github.com/TheAlgorithms/TypeScript/issues/210) in [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)
+2. 💪 Opened PR [#1552](https://github.com/TheAlgorithms/JavaScript/pull/1552) in [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript)
+3. 🗣 Commented on [#9435](https://github.com/TheAlgorithms/Python/issues/9435#issuecomment-1767600524) in [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 4. ❗️ Closed issue [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
 5. 🗣 Commented on [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
 6. 🗣 Commented on [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
