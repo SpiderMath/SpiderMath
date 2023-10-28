@@ -68,9 +68,9 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1552](https://github.com/TheAlgorithms/JavaScript/pull/1552#issuecomment-1783696288) in [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript)
-2. 🗣 Commented on [#187](https://github.com/TheAlgorithms/TypeScript/pull/187#issuecomment-1783696039) in [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)
-3. 🗣 Commented on [#1552](https://github.com/TheAlgorithms/JavaScript/pull/1552#issuecomment-1776273724) in [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript)
+1. 🗣 Commented on [#147](https://github.com/saptarshisarkar20/Hacktoberfest2023/pull/147#issuecomment-1783829743) in [saptarshisarkar20/Hacktoberfest2023](https://github.com/saptarshisarkar20/Hacktoberfest2023)
+2. 💪 Opened PR [#147](https://github.com/saptarshisarkar20/Hacktoberfest2023/pull/147) in [saptarshisarkar20/Hacktoberfest2023](https://github.com/saptarshisarkar20/Hacktoberfest2023)
+3. 💪 Opened PR [#356](https://github.com/AkankshaAI/Hacktoberfest2023-Beginners-New/pull/356) in [AkankshaAI/Hacktoberfest2023-Beginners-New](https://github.com/AkankshaAI/Hacktoberfest2023-Beginners-New)
 4. ❗️ Closed issue [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
 5. 🗣 Commented on [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
 6. 🗣 Commented on [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
