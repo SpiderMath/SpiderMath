@@ -1,82 +1,37 @@
-# SpiderMath
-<img src="./Assets/CuteBubbles.gif" height=75px>
-<br><br>
+# Hello there <img src="./Assets/WavingHand.gif" width = 30>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SpiderMath)
-![Stars](https://img.shields.io/github/stars/SpiderMath?style=social)
+### About me:
+I'm SpiderMath (aka *The Defective Detective*) and I'm a guy with too many interests ~~*(help)*~~. I'm really interested in solving problems and doing new stuff, which is why I like programming, and this is the GitHub profile which holds many of those!
 
-![GitHub4Life](https://github4life.herokuapp.com/SpiderMath.gif?camo=true)
-(^ ^) My GitHub4Life
+### My stats as cards:
+| GitHub Stats | Streak Stats |
+| :---: | :---: |
+| ![SpiderMath's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpiderMath&show_icons=true&theme=dracula&show=prs_merged,prs_merged_percentage&rank_icon=default) | ![GitHub Streak](https://streak-stats.demolab.com/?user=SpiderMath&theme=dracula) |
 
-<hr>
-
-## 🗣️ Description
-α. Languages spoken:  
-
-- English
-- Bengali
-- Hindi
-- French (Too basic)
-
-β. Known programming languages:  
-
-- JavaScript
-- Python
-- C/C++
-- Bash
-
-γ. Primary IDEs:
-
-- Visual Studio Code [<img src='./Assets/VSCode.png' height=12>](https://code.visualstudio.com/)
-- Neovim [<img src='./Assets/Neovim.png' height=12>](https://neovim.io/)
-- Atom [<img src='./Assets/Atom.png' height=12>](https://atom.io/)
-
-δ. Favourite topics:
-
-- Maths
-- Physics
-- Hindu Mythology
-- Chemistry
-- Genetics
-- History
-- Geography
-- Political Science
-
-<hr>
+| Top Languages | Wakatime Stats |
+| :---: | :---: |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpiderMath&theme=dracula&langs_count=3&hide=lua) | ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=5a9cf47f-f3d9-44cc-9d3e-0145919f7bb9&theme=dracula&layout=compact&langs_count=14) |
 
 
-## 🫂 Socials
-[<img src='./Assets/YouTube.png' height=64>](https://www.youtube.com/channel/UCuQvyfLaZOG4bPwEvqSYCLg)
-[<img src='./Assets/Lichess.png' height=64>](https://lichess.org/@/RishiMath)
-[<img src='./Assets/Chess.com.png' height=64>](https://www.chess.com/member/RishiMath)
-[<img src='./Assets/CodeForces.png' height=64>](https://codeforces.com/profile/RishiMath)
-[<img src='./Assets/Codewars.png' height=64>](https://www.codewars.com/users/SpiderMath)
-[<img src='./Assets/Spotify.png' height=64>](https://open.spotify.com/user/n2kxw650p1r9t0nyhpbfkx15z)
-[<img src='./Assets/CSES.png' height=64>](https://cses.fi/user/92653)
-<hr>
 
+| Codeforces Stats | Codewars Stats |
+| :---: | :---: |
+| ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=RishiMath&theme=dracula) | ![Codewars Stats](https://github.r2v.ch/codewars?user=SpiderMath&theme=gradient_midnight_puple&animation=false&top_languages=true&name=true) |
+
+| Duolingo Stats | YouTube Stats |
+| :---: | :---: |
+| ![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=RishiMath&theme=dracula) | [![My youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCuQvyfLaZOG4bPwEvqSYCLg&theme=dracula&layout=extruded)](https://www.youtube.com/@thedefectivedetective) |
+
+| Spotify Stats | Chess Stats |
+| :---: | :---: |
+| To be coded by self, UPCOMING PROJECT | Also to be coded by self, UPCOMING PROJECT | 
 
 ### 📺 YouTube Videos
 <!-- YOUTUBE:START -->
-- [Node.js Basics #1.2: Rock Paper Scissors with the Readline Module](https://www.youtube.com/watch?v=CbqNrprY094)
-- [Node.js Basics #1.1: Calculator Using Readline Module](https://www.youtube.com/watch?v=QXKqfwliS7U)
-- [Node.js Basics #1: Taking User Input With The Readline Module Node.js](https://www.youtube.com/watch?v=dTknGVAvAak)
-- [Difference Between const, let &amp; var in JavaScript](https://www.youtube.com/watch?v=9wuZGoOxg9M)
-- [Project Euler in TypeScript: Problem 3 - Largest Prime Factor](https://www.youtube.com/watch?v=DaDziQ4ZRvw)
-<!-- YOUTUBE:END -->
 
+<!-- YOUTUBE:END -->
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#230](https://github.com/TheAlgorithms/Algorithms-Explanation/issues/230#issuecomment-1985173914) in [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation)
-2. ❗ Opened issue [#230](https://github.com/TheAlgorithms/Algorithms-Explanation/issues/230) in [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation)
-3. 🗣 Commented on [#187](https://github.com/TheAlgorithms/TypeScript/pull/187#issuecomment-1974809181) in [TheAlgorithms/TypeScript](https://github.com/TheAlgorithms/TypeScript)
-4. ❗️ Closed issue [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
-5. 🗣 Commented on [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
-6. 🗣 Commented on [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
-7. ❗️ Opened issue [#1](https://github.com/Sam-B-Y/maths-all-in-one-calculator/issues/1) in [Sam-B-Y/maths-all-in-one-calculator](https://github.com/Sam-B-Y/maths-all-in-one-calculator)
-8. ❗️ Opened issue [#2](https://github.com/spantheslayer/spantheslayer/issues/2) in [spantheslayer/spantheslayer](https://github.com/spantheslayer/spantheslayer)
-9. 🗣 Commented on [#10](https://github.com/elbkr/bad-websites/issues/10) in [elbkr/bad-websites](https://github.com/elbkr/bad-websites)
-10. 🗣 Commented on [#5](https://github.com/DevSnowflake/pokeres/issues/5) in [DevSnowflake/pokeres](https://github.com/DevSnowflake/pokeres)
+
 <!--END_SECTION:activity-->
-<hr>
