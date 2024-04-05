@@ -37,5 +37,4 @@ I'm SpiderMath (aka *The Defective Detective*) and I'm a guy with too many inter
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
