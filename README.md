@@ -37,7 +37,7 @@ I'm SpiderMath (aka *The Defective Detective*) and I'm a guy with too many inter
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1666](https://github.com/TheAlgorithms/JavaScript/issues/1666) in [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript)
-2. ❗ Opened issue [#291](https://github.com/TheAlgorithms/website/issues/291) in [TheAlgorithms/website](https://github.com/TheAlgorithms/website)
-3. 💪 Opened PR [#244](https://github.com/TheAlgorithms/Algorithms-Explanation/pull/244) in [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation)
+1. 🗣 Commented on [#1666](https://github.com/TheAlgorithms/JavaScript/issues/1666#issuecomment-2127813927) in [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript)
+2. ❗ Opened issue [#1666](https://github.com/TheAlgorithms/JavaScript/issues/1666) in [TheAlgorithms/JavaScript](https://github.com/TheAlgorithms/JavaScript)
+3. ❗ Opened issue [#291](https://github.com/TheAlgorithms/website/issues/291) in [TheAlgorithms/website](https://github.com/TheAlgorithms/website)
 <!--END_SECTION:activity-->
