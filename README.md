@@ -37,7 +37,7 @@ I'm SpiderMath (aka *The Defective Detective*) and I'm a guy with too many inter
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#251](https://github.com/TheAlgorithms/Algorithms-Explanation/pull/251#issuecomment-2532665009) in [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation)
-2. 💪 Opened PR [#251](https://github.com/TheAlgorithms/Algorithms-Explanation/pull/251) in [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation)
-3. ❗ Opened issue [#307](https://github.com/TheAlgorithms/website/issues/307) in [TheAlgorithms/website](https://github.com/TheAlgorithms/website)
+1. ❌ Closed PR [#1](https://github.com/SpiderMath/spidermath.github.io/pull/1) in [SpiderMath/spidermath.github.io](https://github.com/SpiderMath/spidermath.github.io)
+2. 🗣 Commented on [#251](https://github.com/TheAlgorithms/Algorithms-Explanation/pull/251#issuecomment-2532665009) in [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation)
+3. 💪 Opened PR [#251](https://github.com/TheAlgorithms/Algorithms-Explanation/pull/251) in [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation)
 <!--END_SECTION:activity-->
