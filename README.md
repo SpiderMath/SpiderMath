@@ -37,7 +37,7 @@ I'm SpiderMath (aka *The Defective Detective*) and I'm a guy with too many inter
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#306](https://github.com/TheAlgorithms/website/pull/306#issuecomment-2563592086) in [TheAlgorithms/website](https://github.com/TheAlgorithms/website)
-2. 🎉 Merged PR [#9](https://github.com/SpiderMath/Random-Programming-Quote-Action/pull/9) in [SpiderMath/Random-Programming-Quote-Action](https://github.com/SpiderMath/Random-Programming-Quote-Action)
-3. 🎉 Merged PR [#7](https://github.com/SpiderMath/Random-Programming-Quote-Action/pull/7) in [SpiderMath/Random-Programming-Quote-Action](https://github.com/SpiderMath/Random-Programming-Quote-Action)
+1. 🗣 Commented on [#251](https://github.com/TheAlgorithms/Algorithms-Explanation/pull/251#issuecomment-2577016941) in [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation)
+2. 🗣 Commented on [#306](https://github.com/TheAlgorithms/website/pull/306#issuecomment-2563592086) in [TheAlgorithms/website](https://github.com/TheAlgorithms/website)
+3. 🎉 Merged PR [#9](https://github.com/SpiderMath/Random-Programming-Quote-Action/pull/9) in [SpiderMath/Random-Programming-Quote-Action](https://github.com/SpiderMath/Random-Programming-Quote-Action)
 <!--END_SECTION:activity-->
