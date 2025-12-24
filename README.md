@@ -37,7 +37,7 @@ I'm SpiderMath (aka *The Defective Detective*) and I'm a guy with too many inter
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#15](https://github.com/tc39/proposal-random-functions/issues/15) in [tc39/proposal-random-functions](https://github.com/tc39/proposal-random-functions)
+1. ❗ Opened issue [#1](https://github.com/SpiderMath/BookManager/issues/1) in [SpiderMath/BookManager](https://github.com/SpiderMath/BookManager)
 2. 🗣 Commented on [#251](https://github.com/TheAlgorithms/Algorithms-Explanation/pull/251#issuecomment-2676242356) in [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation)
 3. 🗣 Commented on [#251](https://github.com/TheAlgorithms/Algorithms-Explanation/pull/251#issuecomment-2577016941) in [TheAlgorithms/Algorithms-Explanation](https://github.com/TheAlgorithms/Algorithms-Explanation)
 <!--END_SECTION:activity-->
